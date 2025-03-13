@@ -5,7 +5,7 @@ let attempts = 0;
 let history = [];
 
 document.addEventListener("DOMContentLoaded", () => {
-    console.log("✅ Script loaded successfully!");
+    //console.log("✅ Script loaded successfully!");
 
     // Get elements
     const startButton = document.getElementById("start-game");
@@ -19,11 +19,11 @@ document.addEventListener("DOMContentLoaded", () => {
     if (revealButton) revealButton.addEventListener("click", revealPlayer);
     if (toggleHistoryButton) toggleHistoryButton.addEventListener("click", toggleHistory);
 
-    console.log("✅ Event listeners attached!");
+    //console.log("✅ Event listeners attached!");
 });
 
 async function startGame() {
-    console.log("🟢 Starting new game...");
+    //console.log("🟢 Starting new game...");
     try {
         const response = await fetch(`${API_BASE_URL}/random_player/`);
         const data = await response.json();
@@ -43,7 +43,7 @@ async function startGame() {
         document.getElementById("attempts").style.display = "block";
         document.getElementById("reveal-button").style.display = "inline-block";
 
-        console.log("🟢 Secret player chosen:", secretPlayer);
+        //console.log("🟢 Secret player chosen:", secretPlayer);
     } catch (error) {
         console.error("❌ Error starting the game:", error);
     }
@@ -129,7 +129,7 @@ function updateProgressBar(value) {
 
 function getSimilarityText(score) {
     if (score >= 0.8) return "🔥 Very Close!";
-    if (score >= 0.5) return "👍 Getting Warmer!";
+    if (score >= 0.5) return "👍 Getting Warm!";
     if (score >= 0.3) return "🤔 Somewhat Similar.";
     return "❄️ Not even close!";
 }
