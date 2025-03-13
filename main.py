@@ -6,10 +6,11 @@ from sklearn.metrics.pairwise import cosine_similarity
 from fuzzywuzzy import process
 from fastapi.middleware.cors import CORSMiddleware
 import random
+import os
 
 app = FastAPI()
 
-# Enable CORS
+# Enable CORS for frontend access
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],  
@@ -18,7 +19,12 @@ app.add_middleware(
     allow_headers=["*"],  
 )
 
-# Load filtered dataset
+# Root endpoint to confirm API is running
+@app.get("/")
+def home():
+    return {"message": "Welcome to FutyGuess API! The app is running."}
+
+# Load dataset
 df_filtered = pd.read_csv("filtered_players.csv")
 
 # Encode categorical variables
@@ -30,7 +36,7 @@ df_filtered["Nation_enc"] = encode_category(df_filtered, "Nation")
 df_filtered["Squad_enc"] = encode_category(df_filtered, "Squad")
 df_filtered["Comp_enc"] = encode_category(df_filtered, "Comp")
 
-# Create player embeddings (only position now)
+# Create player embeddings
 def get_position_vector(row):
     return np.array([row["FW"], row["MF"], row["DF"], row["GK"]]) * 0.25
 
@@ -41,7 +47,7 @@ player_leagues = {row["Player"]: row["Comp"] for _, row in df_filtered.iterrows(
 
 # Predefined list of well-known players (top 200 from top clubs)
 top_players = df_filtered[df_filtered["Squad"].str.contains("Real Madrid|Barcelona|Liverpool|Chelsea|Manchester|Bayern|Juventus|PSG|Arsenal", case=False, na=False)]["Player"].tolist()
-top_players = random.sample(top_players, min(200, len(top_players)))  # Select up to 200
+top_players = random.sample(top_players, min(200, len(top_players)))
 
 # Bonus score mapping
 bonus_scores = {
@@ -61,13 +67,14 @@ def get_similarity(player1, player2):
     if player1 not in player_positions or player2 not in player_positions:
         return None
 
-    # If it's the exact same player, return 1.0
     if player1 == player2:
-        return 1.0
-    
-    # Position similarity (weighted 0-0.25)
-    pos_sim = cosine_similarity(player_positions[player1].reshape(1, -1), 
-                                player_positions[player2].reshape(1, -1))[0][0] * 0.25
+        return 1.0  # Exact match
+
+    # Position similarity (0 - 0.25)
+    pos_sim = cosine_similarity(
+        player_positions[player1].reshape(1, -1), 
+        player_positions[player2].reshape(1, -1)
+    )[0][0] * 0.25
     
     # Get player attributes
     club1, club2 = player_clubs[player1], player_clubs[player2]
@@ -90,8 +97,7 @@ def get_similarity(player1, player2):
 
     # Total similarity score
     total_similarity = min(1.0, base_similarity + pos_sim)
-
-    # If it's very high (0.99+), but not the same player, cap at 0.99
+    
     if total_similarity >= 1.0:
         total_similarity = 0.99
 
@@ -99,14 +105,21 @@ def get_similarity(player1, player2):
 
 @app.get("/random_player/")
 def random_player():
-    """ Returns a random famous player to be guessed """
     return {"secret_player": random.choice(top_players)}
 
 @app.get("/similarity/")
 def similarity(player1: str, player2: str):
-    player1 = get_best_match(player1)
-    player2 = get_best_match(player2)
-    if not player1 or not player2:
+    matched_player1 = get_best_match(player1)
+    matched_player2 = get_best_match(player2)
+
+    if not matched_player1 or not matched_player2:
         return {"error": "Player not found"}
-    similarity_score = get_similarity(player1, player2)
-    return {"player1": player1, "player2": player2, "similarity": similarity_score}
+
+    similarity_score = get_similarity(matched_player1, matched_player2)
+    return {"player1": matched_player1, "player2": matched_player2, "similarity": similarity_score}
+
+# Run Uvicorn with correct port for Render
+if __name__ == "__main__":
+    port = int(os.getenv("PORT", 8000))  
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=port)
