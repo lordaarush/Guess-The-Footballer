@@ -114,14 +114,30 @@ def random_player():
 
 @app.get("/similarity/")
 def similarity(player1: str, player2: str):
-    matched_player1 = get_best_match(player1)
-    matched_player2 = get_best_match(player2)
-
-    if not matched_player1 or not matched_player2:
+    player1 = get_best_match(player1)
+    player2 = get_best_match(player2)
+    
+    if not player1 or not player2:
         return {"error": "Player not found"}
+    
+    similarity_score = get_similarity(player1, player2)
+    
+    # Fetch metadata
+    player1_data = df_filtered[df_filtered["Player"] == player1].iloc[0]
+    
+    return {
+        "player1": player1,
+        "player2": player2,
+        "similarity": similarity_score,
+        "metadata": {
+            "club": player1_data["Squad"] if "Squad" in df_filtered.columns else "Unknown",
+            "nation": player1_data["Nation"] if "Nation" in df_filtered.columns else "Unknown",
+            "position": ", ".join(
+                [pos for pos in ["FW", "MF", "DF", "GK"] if player1_data[pos] == 1]
+            ) if any(player1_data[pos] == 1 for pos in ["FW", "MF", "DF", "GK"]) else "Unknown"
+        }
+    }
 
-    similarity_score = get_similarity(matched_player1, matched_player2)
-    return {"player1": matched_player1, "player2": matched_player2, "similarity": similarity_score}
 
 # Run Uvicorn with correct port for Render
 if __name__ == "__main__":
