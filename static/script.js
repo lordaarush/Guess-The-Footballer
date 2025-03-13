@@ -51,7 +51,6 @@ async function startGame() {
 
 async function checkGuess() {
     const playerGuess = document.getElementById("player-input").value.trim();
-    console.log("🔍 Checking guess:", playerGuess);
 
     if (!secretPlayer) {
         alert("Start the game first!");
@@ -64,28 +63,40 @@ async function checkGuess() {
     }
 
     try {
-        const response = await fetch(`${API_BASE_URL}/similarity/?player1=${encodeURIComponent(playerGuess)}&player2=${encodeURIComponent(secretPlayer)}`);
+        const response = await fetch(`http://127.0.0.1:8000/similarity/?player1=${encodeURIComponent(playerGuess)}&player2=${encodeURIComponent(secretPlayer)}`);
         const data = await response.json();
         attempts++;
 
         let matchedPlayer = data.player1;
         let similarityText = getSimilarityText(data.similarity);
 
-        document.getElementById("message").innerText = `${matchedPlayer}: ${data.similarity.toFixed(2)} - ${similarityText}`;
+        // Ensure metadata exists before accessing
+        let metadata = data.metadata || { club: "Unknown", nation: "Unknown", position: "Unknown" };
+        let { club, nation, position } = metadata;
+
+        // Update message with similarity and metadata
+        document.getElementById("message").innerHTML = `
+            <strong>${matchedPlayer}</strong> - Similarity: ${data.similarity.toFixed(2)} <br>
+            ${similarityText}
+        `;
+
+        // Update metadata display
+        document.getElementById("player-metadata").innerHTML = `
+            <strong>Club:</strong> ${club} | <strong>Nation:</strong> ${nation} | <strong>Position:</strong> ${position}
+        `;
+
         document.getElementById("attempts").innerText = `Attempts: ${attempts}`;
 
         updateProgressBar(data.similarity);
 
-        history.push({ name: matchedPlayer, similarity: data.similarity });
+        history.push({ name: matchedPlayer, similarity: data.similarity, club, nation, position });
         updateHistory();
 
         if (matchedPlayer.toLowerCase() === secretPlayer.toLowerCase()) {
             document.getElementById("message").innerText = `🎉 Correct! The secret player was ${secretPlayer}! 🎉`;
         }
-
-        console.log("✅ Guess checked:", matchedPlayer, "Similarity:", data.similarity);
     } catch (error) {
-        console.error("❌ Error checking guess:", error);
+        console.error("Error checking guess:", error);
     }
 }
 
