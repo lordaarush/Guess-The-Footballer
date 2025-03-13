@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FutGuess</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+
+    <div class="score-table-container">
+        <h3>Similarity Score Breakdown</h3>
+        <table class="score-table">
+            <tr><th>Condition</th><th>Points</th></tr>
+            <tr><td>Same Club & Same Nation</td><td>+0.80</td></tr>
+            <tr><td>Same Nation & Same League</td><td>+0.65</td></tr>
+            <tr><td>Same Club & Diff Nation</td><td>+0.55</td></tr>
+            <tr><td>Same Nation & Diff League</td><td>+0.50</td></tr>
+            <tr><td>Same League Only</td><td>+0.30</td></tr>
+            <tr><td>Nothing Same</td><td>+0.15</td></tr>
+            <tr><td>Position Similarity</td><td>0 - 0.25</td></tr>
+        </table>
+    </div>
+    
+    <div class="container">
+        <div class="card">
+            <h1>Fut<span class="accent">Guess</span> ⚽</h1>
+
+            <button id="start-game">Start Game</button>
+            <button id="reveal-button" class="reveal-btn" style="display:none;">Reveal Player</button>
+
+            <p id="message">Click "Start Game" to begin.</p>
+
+            <div class="input-group">
+                <input type="text" id="player-input" placeholder="Guess the player">
+                <button id="check-button">✔</button>
+            </div>
+
+            <div class="progress-container" id="progress-container">
+                <div class="similarity-bar" id="similarity-bar"></div>
+            </div>
+
+            <p id="attempts" style="display: none;">Attempts: 0</p>
+        </div>
+
+        <div class="card">
+            <div class="history-header">
+                <h2>History</h2>
+                <button id="toggle-history" class="toggle-button">🔽</button>
+            </div>
+            <div class="history-list" id="history-container">
+                <p class="no-history">No comparisons yet</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
