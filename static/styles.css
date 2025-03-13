@@ -1,0 +1,131 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.card {
+    background: #222;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+    width: 300px;
+    text-align: center;
+}
+
+.input-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+input {
+    padding: 10px;
+    width: 70%;
+    border-radius: 5px;
+    border: none;
+}
+
+button {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.reveal-btn {
+    background: red;
+}
+
+.progress-container {
+    width: 100%;
+    background: #444;
+    height: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+    overflow: hidden;
+    display: none;
+}
+
+.similarity-bar {
+    height: 100%;
+    width: 0%;
+    background: red;
+    transition: width 0.5s ease-in-out;
+}
+
+.history-item {
+    background: #333;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 5px 0;
+}
+
+#history-container {
+    display: none;
+}
+
+.toggle-button {
+    background: transparent;
+    color: white;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.score-table-container {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: rgba(30, 30, 30, 0.9);
+    padding: 5px;
+    border-radius: 6px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    font-size: 0.75rem; /* Decrease font size */
+    color: white;
+    width: 220px; /* Reduce width */
+}
+
+.score-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.score-table th, .score-table td {
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    padding: 4px; /* Reduce padding */
+    text-align: left;
+}
+
+.score-table th {
+    background-color: #00b4ff;
+    color: white;
+    font-weight: bold;
+    font-size: 0.75rem; /* Reduce header size */
+}
+
+.score-table tr:nth-child(even) {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Responsive: Move table below game on small screens */
+@media (max-width: 600px) {
+    .score-table-container {
+        position: static;
+        width: 100%;
+        margin-bottom: 5px;
+    }
+}

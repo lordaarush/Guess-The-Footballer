@@ -1,0 +1,2600 @@
+Player,Nation,Squad,Comp,Age,FW,MF,DF,GK,Nation_enc,Squad_enc,Comp_enc
+Max Aarons,ENG,Valencia,La Liga,25.0,0,1,0,0,31,88,0
+Rodrigo Abajas,ESP,Valencia,La Liga,21.0,0,0,1,0,33,88,0
+James Abankwah,IRL,Udinese,Serie A,21.0,0,1,1,0,50,86,3
+Keyliane Abdallah,FRA,Marseille,Ligue 1,18.0,1,0,0,0,36,57,1
+Yunis Abdelhamid,MAR,Saint-Étienne,Ligue 1,37.0,0,0,1,0,67,77,1
+Himad Abdelli,ALG,Angers,Ligue 1,25.0,1,1,0,0,1,1,1
+Mohamed Abdelmoneim,EGY,Nice,Ligue 1,26.0,0,0,1,0,30,65,1
+Ali Abdi,TUN,Nice,Ligue 1,31.0,0,1,1,0,100,65,1
+Saud Abdulhamid,KSA,Roma,Serie A,25.0,0,0,1,0,61,76,3
+Abel,ESP,Osasuna,La Liga,24.0,0,0,1,0,33,67,0
+Nabil Aberdin,FRA,Getafe,La Liga,22.0,0,1,0,0,36,32,0
+Oliver Abildgaard,DEN,Como,Serie A,28.0,0,1,0,0,27,21,3
+Matthis Abline,FRA,Nantes,Ligue 1,21.0,1,0,0,0,36,62,1
+Abner,BRA,Lyon,Ligue 1,24.0,0,0,1,0,12,52,1
+Zakaria Aboukhlal,MAR,Toulouse,Ligue 1,25.0,1,1,0,0,67,85,1
+Abdel Abqar,MAR,Alavés,La Liga,26.0,0,0,1,0,67,0,0
+Tammy Abraham,ENG,Milan,Serie A,27.0,1,0,0,0,31,58,3
+Federico Accornero,ITA,Genoa,Serie A,21.0,0,1,0,0,55,31,3
+Francesco Acerbi,ITA,Inter,Serie A,37.0,0,0,1,0,55,39,3
+Joshua Acheampong,ENG,Chelsea,Premier League,18.0,0,0,1,0,31,20,2
+Akor Adams,NGA,Montpellier,Ligue 1,25.0,1,0,0,0,77,60,1
+Che Adams,SCO,Torino,Serie A,28.0,1,0,0,0,90,83,3
+Tyler Adams,USA,Bournemouth,Premier League,26.0,0,1,0,0,104,14,2
+Junior Adamu,AUT,Freiburg,de Bundesliga,23.0,1,0,0,0,6,29,4
+Tosin Adarabioyo,ENG,Chelsea,Premier League,27.0,0,0,1,0,31,20,2
+Martin Adeline,FRA,Reims,Ligue 1,21.0,0,1,0,0,36,74,1
+Karim Adeyemi,GER,Dortmund,de Bundesliga,23.0,1,1,0,0,40,23,4
+Simon Adingra,CIV,Brighton,Premier League,23.0,1,1,0,0,16,17,2
+Amine Adli,MAR,Leverkusen,de Bundesliga,24.0,1,1,0,0,67,49,4
+Yacine Adli,FRA,Fiorentina,Serie A,24.0,0,1,0,0,36,28,3
+Adrián,ESP,Betis,La Liga,38.0,0,0,0,1,33,11,0
+Adryelson,BRA,Lyon,Ligue 1,26.0,0,0,1,0,12,52,1
+Vasilije Adžić,MNE,Juventus,Serie A,18.0,1,1,0,0,72,41,3
+Michel Aebischer,SUI,Bologna,Serie A,28.0,0,1,0,0,94,13,3
+Oladapo Afolayan,ENG,St. Pauli,de Bundesliga,27.0,1,1,0,0,31,80,4
+Emmanuel Agbadou,CIV,Reims,Ligue 1,27.0,0,0,1,0,16,74,1
+Asher Agbinone,ENG,Crystal Palace,Premier League,19.0,0,1,0,0,31,22,2
+Jeremy Agbonifo,SWE,Lens,Ligue 1,19.0,1,1,0,0,98,48,1
+Julen Agirrezabala,ESP,Athletic Club,La Liga,24.0,0,0,0,1,33,5,0
+Lucien Agoume,FRA,Sevilla,La Liga,23.0,0,1,0,0,36,78,0
+Felix Agu,GER,Werder Bremen,de Bundesliga,25.0,0,0,1,0,40,92,4
+Álvaro Aguado,ESP,Espanyol,La Liga,28.0,0,1,0,0,33,26,0
+Lorenzo Aguado,ESP,Real Madrid,La Liga,22.0,0,0,1,0,33,72,0
+Nayef Aguerd,MAR,Real Sociedad,La Liga,28.0,0,0,1,0,67,73,0
+Ruben Aguilar,FRA,Lens,Ligue 1,31.0,0,0,1,0,36,48,1
+Naouirou Ahamada,FRA,Rennes,Ligue 1,22.0,1,1,0,0,36,75,1
+Honest Ahanor,ITA,Genoa,Serie A,17.0,0,0,1,0,55,31,3
+Erik Ahlstrand,SWE,St. Pauli,de Bundesliga,23.0,1,1,0,0,98,80,4
+Jean-Eudes Aholou,CIV,Angers,Ligue 1,30.0,0,1,0,0,16,1,1
+Joseph Aidoo,GHA,Celta Vigo,La Liga,29.0,0,0,1,0,41,19,0
+Ayman Aiki,FRA,Saint-Étienne,Ligue 1,19.0,1,1,0,0,36,77,1
+Ola Aina,NGA,Nott'ham Forest,Premier League,28.0,0,0,1,0,77,66,2
+Rayan Aït-Nouri,ALG,Wolves,Premier League,23.0,0,0,1,0,1,95,2
+Junior Ajayi,CIV,Hellas Verona,Serie A,20.0,1,0,0,0,16,36,3
+Kristoffer Ajer,NOR,Brentford,Premier League,26.0,0,0,1,0,79,15,2
+Ludovic Ajorque,FRA,Brest,Ligue 1,31.0,1,0,0,0,36,16,1
+Manuel Akanji,SUI,Manchester City,Premier League,29.0,0,0,1,0,94,55,2
+Ümit Akdag,ROU,Toulouse,Ligue 1,21.0,0,0,1,0,88,85,1
+Nathan Aké,NED,Manchester City,Premier League,30.0,0,0,1,0,76,55,2
+Ilias Akhomach,MAR,Villarreal,La Liga,20.0,1,1,0,0,67,91,0
+Sergio Akieme,ESP,Reims,Ligue 1,27.0,0,0,1,0,33,74,1
+Maghnes Akliouche,FRA,Monaco,Ligue 1,23.0,1,1,0,0,36,59,1
+Clément Akpa,CIV,Auxerre,Ligue 1,23.0,0,0,1,0,16,8,1
+Jean-Daniel Akpa-Akpro,CIV,Monza,Serie A,32.0,0,1,1,0,16,61,3
+David Akpan Ankeye,NGA,Genoa,Serie A,23.0,1,1,0,0,77,31,3
+Kevin Akpoguma,NGA,Hoffenheim,de Bundesliga,29.0,0,0,1,0,77,37,4
+Chuba Akpom,ENG,Lille,Ligue 1,29.0,1,0,0,0,31,50,1
+David Alaba,AUT,Real Madrid,La Liga,32.0,0,0,1,0,6,72,0
+Andreas Albers,DEN,St. Pauli,de Bundesliga,34.0,1,0,0,0,27,80,4
+Raúl Albiol,ESP,Villarreal,La Liga,39.0,0,0,1,0,33,91,0
+Carlos Alcaraz,ARG,Everton,Premier League,22.0,1,1,0,0,3,27,2
+Omar Alderete,PAR,Getafe,La Liga,28.0,0,0,1,0,82,32,0
+Carles Aleñá,ESP,Alavés,La Liga,27.0,1,1,0,0,33,0,0
+Trent Alexander-Arnold,ENG,Liverpool,Premier League,26.0,0,0,1,0,31,51,2
+Alfon,ESP,Celta Vigo,La Liga,25.0,1,1,0,0,33,19,0
+Mohamed Ali Cho,FRA,Nice,Ligue 1,21.0,1,1,0,0,36,65,1
+Faride Alidou,GER,Hellas Verona,Serie A,23.0,1,1,0,0,40,36,3
+Alisson,BRA,Liverpool,Premier League,32.0,0,0,0,1,12,51,2
+Tadeo Allende,ARG,Celta Vigo,La Liga,26.0,1,0,0,0,3,19,0
+Jim Allevinah,GAB,Angers,Ligue 1,30.0,1,0,0,0,37,1,1
+Thiago Almada,ARG,Lyon,Ligue 1,23.0,1,1,0,0,3,52,1
+Domingos André Ribeiro Almeida,POR,Valencia,La Liga,24.0,1,1,0,0,86,88,0
+Iker Almena,ESP,Girona,La Liga,20.0,1,0,1,0,33,33,0
+Miguel Almirón,PAR,Newcastle Utd,Premier League,31.0,1,0,0,0,82,64,2
+Pontus Almqvist,SWE,Parma,Serie A,25.0,1,1,0,0,98,69,3
+Marcos Alonso,ESP,Celta Vigo,La Liga,34.0,0,0,1,0,33,19,0
+Giorgio Altare,ITA,Venezia,Serie A,26.0,0,0,1,0,55,90,3
+Adrià Altimira,ESP,Leganés,La Liga,23.0,1,0,1,0,33,46,0
+Sergi Altimira,ESP,Betis,La Liga,23.0,0,1,0,0,33,11,0
+Edson Álvarez,MEX,West Ham,Premier League,27.0,0,1,0,0,68,93,2
+Hugo Álvarez,ESP,Celta Vigo,La Liga,21.0,0,1,1,0,33,19,0
+Julián Álvarez,ARG,Atlético Madrid,La Liga,25.0,1,1,0,0,3,6,0
+Yeray Álvarez,ESP,Athletic Club,La Liga,30.0,0,0,1,0,33,5,0
+Skelly Alvero,FRA,Werder Bremen,de Bundesliga,22.0,0,1,0,0,36,92,4
+Will Alves,ENG,Leicester City,Premier League,20.0,1,0,0,0,31,47,2
+Selim Amallah,MAR,Valladolid,La Liga,28.0,0,1,0,0,67,89,0
+Amath,SEN,Valladolid,La Liga,28.0,1,0,1,0,91,89,0
+Jordan Amavi,FRA,Brest,Ligue 1,31.0,0,0,1,0,36,16,1
+Aurele Amenda,SUI,Eint Frankfurt,de Bundesliga,21.0,0,0,1,0,94,24,4
+Kelvin Amian,FRA,Nantes,Ligue 1,27.0,0,0,1,0,36,62,1
+Michael Amir Murillo,PAN,Marseille,Ligue 1,29.0,0,0,1,0,81,57,1
+Nadiem Amiri,GER,Mainz 05,de Bundesliga,28.0,0,1,0,0,40,53,4
+Samuel Amo-Ameyaw,ENG,Southampton,Premier League,18.0,1,0,1,0,31,79,2
+Mathis Amougou,FRA,Saint-Étienne,Ligue 1,19.0,0,1,0,0,36,77,1
+Mohamed Amoura,ALG,Wolfsburg,de Bundesliga,24.0,1,0,0,0,1,94,4
+Sofyan Amrabat,MAR,Fiorentina,Serie A,28.0,0,1,0,0,67,28,3
+Joachim Andersen,DEN,Fulham,Premier League,28.0,0,0,1,0,27,30,2
+Elliot Anderson,ENG,Nott'ham Forest,Premier League,22.0,0,1,0,0,31,66,2
+André,BRA,Wolves,Premier League,23.0,0,1,0,0,12,95,2
+Benjamin André,FRA,Lille,Ligue 1,34.0,0,1,0,0,36,50,1
+Marcos André,BRA,Valladolid,La Liga,28.0,1,0,0,0,12,89,0
+Robert Andrich,GER,Leverkusen,de Bundesliga,30.0,0,1,0,0,40,49,4
+Angeliño,ESP,Roma,Serie A,28.0,0,0,1,0,33,76,3
+Lorenzo Anghelè,ITA,Juventus,Serie A,20.0,1,0,0,0,55,41,3
+Faustino Anjorin,ENG,Empoli,Serie A,23.0,0,1,0,0,31,25,3
+Waldemar Anton,GER,Dortmund,de Bundesliga,28.0,0,0,1,0,40,23,4
+Leandro Antonetti,PUR,Sevilla,La Liga,22.0,1,0,0,0,87,78,0
+Michail Antonio,JAM,West Ham,Premier League,34.0,1,0,0,0,56,93,2
+Antoniu,ESP,Espanyol,La Liga,22.0,1,1,0,0,33,26,0
+Antony,BRA,Betis,La Liga,25.0,1,0,0,0,12,11,0
+Anuar,MAR,Valladolid,La Liga,30.0,1,1,0,0,67,89,0
+Dennis Appiah,FRA,Saint-Étienne,Ligue 1,32.0,0,0,1,0,36,77,1
+Aritz Arambarri,ESP,Leganés,La Liga,27.0,0,0,1,0,33,46,0
+Mauro Arambarri,URU,Getafe,La Liga,29.0,0,1,0,0,103,32,0
+Jon Aramburu,VEN,Real Sociedad,La Liga,22.0,0,0,1,0,106,73,0
+Julian Araujo,MEX,Bournemouth,Premier League,23.0,0,0,1,0,68,14,2
+Ronald Araújo,URU,Barcelona,La Liga,26.0,0,0,1,0,103,9,0
+Cameron Archer,ENG,Southampton,Premier League,23.0,1,0,0,0,31,79,2
+Carlens Arcus,HAI,Angers,Ligue 1,28.0,0,0,1,0,47,1,1
+Alphonse Areola,FRA,West Ham,Premier League,32.0,0,0,0,1,36,93,2
+Adu Ares,ESP,Athletic Club,La Liga,23.0,1,0,0,0,33,5,0
+Jesús Areso,ESP,Osasuna,La Liga,25.0,0,0,1,0,33,67,0
+David Argüelles,ESP,Getafe,La Liga,23.0,0,1,0,0,33,32,0
+Joe Aribo,NGA,Southampton,Premier League,28.0,0,1,1,0,77,79,2
+Adam Armstrong,ENG,Southampton,Premier League,28.0,1,1,0,0,31,79,2
+Harrison Armstrong,ENG,Everton,Premier League,18.0,0,1,0,0,31,27,2
+José Arnaiz,ESP,Osasuna,La Liga,29.0,1,1,0,0,33,67,0
+Hákon Arnar Haraldsson,ISL,Lille,Ligue 1,21.0,1,1,0,0,53,50,1
+Marko Arnautović,AUT,Inter,Serie A,35.0,1,0,0,0,6,39,3
+Maximilian Arnold,GER,Wolfsburg,de Bundesliga,30.0,0,1,0,0,40,94,4
+Jann-Fiete Arp,GER,Holstein Kiel,de Bundesliga,25.0,1,1,0,0,40,38,4
+Sergio Arribas,ESP,Betis,La Liga,22.0,0,0,1,0,33,11,0
+Kepa Arrizabalaga,ESP,Bournemouth,Premier League,30.0,0,0,0,1,33,14,2
+Arthur,BRA,Leverkusen,de Bundesliga,21.0,1,0,1,0,12,49,4
+Takuma Asano,JPN,Mallorca,La Liga,30.0,1,1,0,0,58,54,0
+Raúl Asencio,ESP,Real Madrid,La Liga,22.0,0,0,1,0,33,72,0
+Marco Asensio,ESP,Paris S-G,Ligue 1,29.0,1,1,0,0,33,68,1
+Kristjan Asllani,ALB,Inter,Serie A,23.0,0,1,0,0,0,39,3
+Iago Aspas,ESP,Celta Vigo,La Liga,37.0,1,1,0,0,33,19,0
+Yaser Asprilla,COL,Girona,La Liga,21.0,1,1,0,0,19,33,0
+Lorenz Assignon,TOG,Rennes,Ligue 1,24.0,0,1,1,0,99,75,1
+Dehmaine Assoumani,FRA,Nantes,Ligue 1,19.0,1,1,0,0,36,62,1
+Valentin Atangana Edoa,FRA,Reims,Ligue 1,19.0,0,1,0,0,36,74,1
+Arthur Atta,FRA,Udinese,Serie A,22.0,1,1,0,0,36,86,3
+Noah Atubolu,GER,Freiburg,de Bundesliga,22.0,0,0,0,1,40,29,4
+Emil Audero,ITA,Como,Serie A,28.0,0,0,0,1,55,21,3
+Tommaso Augello,ITA,Cagliari,Serie A,30.0,1,0,1,0,55,18,3
+Carlos Augusto,BRA,Inter,Serie A,26.0,1,0,1,0,12,39,3
+Yann Aurel Bisseck,GER,Inter,Serie A,24.0,0,0,1,0,40,39,3
+Brandon Austin,ENG,Tottenham,Premier League,26.0,0,0,0,1,31,84,2
+Ezequiel Ávila,ARG,Betis,La Liga,31.0,1,0,0,0,3,11,0
+Taiwo Awoniyi,NGA,Nott'ham Forest,Premier League,27.0,1,0,0,0,77,66,2
+Yasin Ayari,SWE,Brighton,Premier League,21.0,0,1,0,0,98,17,2
+Florian Ayé,FRA,Auxerre,Ligue 1,28.0,1,0,0,0,36,8,1
+André Ayew,GHA,Le Havre,Ligue 1,35.0,1,0,0,0,41,44,1
+Jordan Ayew,GHA,Leicester City,Premier League,33.0,1,1,0,0,41,47,2
+Neil El Aynaoui,FRA,Lens,Ligue 1,23.0,0,1,0,0,36,48,1
+Ayman Azhil,MAR,Dortmund,de Bundesliga,23.0,0,1,0,0,67,23,4
+Adam Aznou,MAR,Bayern Munich,de Bundesliga,18.0,0,0,1,0,67,10,4
+César Azpilicueta,ESP,Atlético Madrid,La Liga,35.0,0,0,1,0,33,6,0
+Paulo Azzi,BRA,Cagliari,Serie A,30.0,0,0,1,0,12,18,3
+Oussama El Azzouzi,MAR,Bologna,Serie A,23.0,0,1,0,0,67,13,3
+Papa Ba,ESP,Girona,La Liga,20.0,0,1,0,0,33,33,0
+Shavy Babicka,GAB,Toulouse,Ligue 1,24.0,1,1,0,0,37,85,1
+Jacopo Bacci,ITA,Empoli,Serie A,19.0,0,1,0,0,55,25,3
+Aliou Badara Baldé,GUI,Bochum,de Bundesliga,22.0,1,1,0,0,46,12,4
+Loïc Bade,FRA,Sevilla,La Liga,24.0,0,0,1,0,36,78,0
+Milan Badelj,CRO,Genoa,Serie A,36.0,0,1,0,0,23,31,3
+Benoît Badiashile,FRA,Chelsea,Premier League,23.0,0,0,1,0,36,20,2
+Alex Baena,ESP,Villarreal,La Liga,23.0,1,1,0,0,33,91,0
+Juma Bah,SLE,Lens,Ligue 1,18.0,0,0,1,0,92,48,1
+Leon Bailey,JAM,Aston Villa,Premier League,27.0,1,1,0,0,56,3,2
+Eric Bailly,CIV,Villarreal,La Liga,30.0,0,0,1,0,16,91,0
+Theo Bair,CAN,Auxerre,Ligue 1,25.0,1,0,0,0,13,8,1
+Stefan Bajcetic,ESP,Las Palmas,La Liga,20.0,0,1,1,0,33,42,0
+Cédric Bakambu,COD,Betis,La Liga,33.0,1,0,0,0,18,11,0
+Mitchel Bakker,NED,Lille,Ligue 1,24.0,1,0,1,0,76,50,1
+Darryl Bakola,FRA,Marseille,Ligue 1,17.0,0,0,1,0,36,57,1
+Ridle Baku,GER,RB Leipzig,de Bundesliga,26.0,0,1,1,0,40,70,4
+Dilane Bakwa,FRA,Strasbourg,Ligue 1,22.0,0,1,1,0,36,81,1
+Tommaso Baldanzi,ITA,Roma,Serie A,21.0,1,1,0,0,55,76,3
+Alejandro Balde,ESP,Barcelona,La Liga,21.0,0,0,1,0,33,9,0
+Keita Baldé,SEN,Monza,Serie A,30.0,1,1,0,0,91,61,3
+Carlos Baleba,CMR,Brighton,Premier League,21.0,0,1,0,0,17,17,2
+Leonardo Balerdi,ARG,Marseille,Ligue 1,26.0,0,0,1,0,3,57,1
+Iván Balliu,ALB,Rayo Vallecano,La Liga,33.0,0,0,1,0,0,71,0
+Fodé Ballo-Touré,SEN,Le Havre,Ligue 1,28.0,0,0,1,0,91,44,1
+Botond Balogh,HUN,Parma,Serie A,22.0,0,0,1,0,48,69,3
+Folarin Balogun,USA,Monaco,Ligue 1,23.0,1,0,0,0,104,59,1
+Mario Balotelli,ITA,Genoa,Serie A,34.0,1,1,0,0,55,31,3
+Abdoulaye Bamba,CIV,Angers,Ligue 1,34.0,0,0,1,0,16,1,1
+Jonathan Bamba,CIV,Celta Vigo,La Liga,28.0,1,1,0,0,16,19,0
+Mohamed Bamba,CIV,Reims,Ligue 1,20.0,0,1,0,0,16,74,1
+Samuel Bamba,GER,Bochum,de Bundesliga,21.0,1,0,1,0,40,12,4
+Lameck Banda,ZAM,Lecce,Serie A,24.0,1,1,0,0,108,45,3
+Daniel Bandeira,POR,Hellas Verona,Serie A,24.0,0,1,0,0,86,36,3
+Mattia Bani,ITA,Genoa,Serie A,31.0,0,0,1,0,55,31,3
+Noahkai Banks,USA,Augsburg,de Bundesliga,18.0,0,0,1,0,104,7,4
+Scott Banks,SCO,St. Pauli,de Bundesliga,23.0,1,1,0,0,90,80,4
+Adrian Baquerin,ESP,Valladolid,La Liga,18.0,1,0,0,0,33,89,0
+Antonín Barák,CZE,Fiorentina,Serie A,30.0,0,1,0,0,26,28,3
+Federico Barba,ITA,Como,Serie A,31.0,0,0,1,0,55,21,3
+Valentín Barco,ARG,Strasbourg,Ligue 1,20.0,0,1,1,0,3,81,1
+Bradley Barcola,FRA,Paris S-G,Ligue 1,22.0,1,0,0,0,36,68,1
+Melvin Bard,FRA,Nice,Ligue 1,24.0,0,1,1,0,36,65,1
+Nicolò Barella,ITA,Inter,Serie A,28.0,0,1,0,0,55,39,3
+Gabriel Bares,SUI,Montpellier,Ligue 1,24.0,0,1,1,0,94,60,1
+Borna Barišić,CRO,Leganés,La Liga,32.0,0,0,1,0,23,46,0
+Kike Barja,ESP,Osasuna,La Liga,27.0,1,1,0,0,33,67,0
+Ross Barkley,ENG,Aston Villa,Premier League,31.0,0,1,0,0,31,3,2
+Aymen Barkok,MAR,Mainz 05,de Bundesliga,26.0,0,1,0,0,67,53,4
+Harvey Barnes,ENG,Newcastle Utd,Premier League,27.0,1,0,0,0,31,64,2
+Enzo Barrenechea,ARG,Valencia,La Liga,23.0,0,1,0,0,3,88,0
+Ander Barrenetxea,ESP,Real Sociedad,La Liga,23.0,1,1,0,0,33,73,0
+Pablo Barrios,ESP,Atlético Madrid,La Liga,21.0,0,1,0,0,33,6,0
+Thierno Barry,FRA,Villarreal,La Liga,22.0,1,0,0,0,36,91,0
+Davide Bartesaghi,ITA,Milan,Serie A,19.0,0,0,1,0,55,58,3
+Marc Bartra,ESP,Betis,La Liga,34.0,0,0,1,0,33,11,0
+Federico Baschirotto,ITA,Lecce,Serie A,28.0,0,0,1,0,55,45,3
+Daniele Baselli,ITA,Como,Serie A,32.0,0,1,0,0,55,21,3
+Calvin Bassey,NGA,Fulham,Premier League,25.0,0,0,1,0,77,30,2
+Aboubacar Bassinga,CIV,Las Palmas,La Liga,19.0,0,1,0,0,16,42,0
+Alessandro Bastoni,ITA,Inter,Serie A,25.0,0,0,1,0,55,39,3
+Augusto Batalla,ARG,Rayo Vallecano,La Liga,28.0,0,0,0,1,3,71,0
+Michy Batshuayi,BEL,Eint Frankfurt,de Bundesliga,31.0,1,0,1,0,8,24,4
+Dylan Batubinsika,COD,Saint-Étienne,Ligue 1,29.0,0,0,1,0,18,77,1
+Maximilian Bauer,GER,Augsburg,de Bundesliga,25.0,0,0,1,0,40,7,4
+Oliver Baumann,GER,Hoffenheim,de Bundesliga,34.0,0,0,0,1,40,37,4
+Christoph Baumgartner,AUT,RB Leipzig,de Bundesliga,25.0,0,1,0,0,6,70,4
+Rafael Bauza,ESP,Espanyol,La Liga,20.0,0,1,0,0,33,26,0
+Adrian Beck,GER,Heidenheim,de Bundesliga,27.0,1,1,0,0,40,35,4
+Sheraldo Becker,SUR,Real Sociedad,La Liga,30.0,1,1,0,0,95,73,0
+Timo Becker,GER,Holstein Kiel,de Bundesliga,27.0,0,0,1,0,40,38,4
+Jan Bednarek,POL,Southampton,Premier League,28.0,0,0,1,0,85,79,2
+Donny van de Beek,NED,Girona,La Liga,27.0,0,1,0,0,76,33,0
+Hannes Behrens,GER,Hoffenheim,de Bundesliga,,0,0,1,0,40,37,4
+Kevin Behrens,GER,Wolfsburg,de Bundesliga,34.0,1,0,0,0,40,94,4
+Maximilian Beier,GER,Dortmund,de Bundesliga,22.0,1,1,0,0,40,23,4
+Luken Beitia,ESP,Real Sociedad,La Liga,20.0,0,0,1,0,33,73,0
+Ismael Bekhoucha,MAR,Getafe,La Liga,20.0,0,1,0,0,67,32,0
+Reda Belahyane,MAR,Lazio,Serie A,20.0,0,1,0,0,67,43,3
+Haris Belkebla,ALG,Angers,Ligue 1,31.0,0,1,0,0,1,1,1
+Yassin Belkhdim,FRA,Angers,Ligue 1,23.0,1,1,0,0,36,1,1
+Stefan Bell,GER,Mainz 05,de Bundesliga,33.0,0,0,1,0,40,53,4
+Armel Bella Kotchap,GER,Southampton,Premier League,23.0,0,0,1,0,40,79,2
+Raoul Bellanova,ITA,Atalanta,Serie A,24.0,0,0,1,0,55,4,3
+Jean-Ricner Bellegarde,FRA,Wolves,Premier League,26.0,1,1,0,0,36,95,2
+Héctor Bellerín,ESP,Betis,La Liga,29.0,0,0,1,0,33,11,0
+Jude Bellingham,ENG,Real Madrid,La Liga,21.0,0,1,0,0,31,72,0
+Jeanuël Belocian,FRA,Leverkusen,de Bundesliga,20.0,0,1,1,0,36,49,4
+Andrea Belotti,ITA,Como,Serie A,31.0,1,0,0,0,55,21,3
+Fran Beltrán,ESP,Celta Vigo,La Liga,26.0,0,1,0,0,33,19,0
+Lucas Beltrán,ARG,Fiorentina,Serie A,23.0,1,1,0,0,3,28,3
+Eliesse Ben Seghir,MAR,Monaco,Ligue 1,20.0,1,1,0,0,67,59,1
+Carlos Benavídez,URU,Alavés,La Liga,26.0,0,1,0,0,103,0,0
+Adrian Benedyczak,POL,Parma,Serie A,24.0,1,1,0,0,85,69,3
+László Bénes,SVK,Union Berlin,de Bundesliga,27.0,1,1,0,0,96,87,4
+Iker Benito,ESP,Osasuna,La Liga,22.0,1,1,0,0,33,67,0
+Ismaël Bennacer,ALG,Marseille,Ligue 1,27.0,0,1,0,0,1,57,1
+Saïd Benrahma,ALG,Lyon,Ligue 1,29.0,1,1,0,0,1,52,1
+Ramy Bensebaini,ALG,Dortmund,de Bundesliga,29.0,0,0,1,0,1,23,4
+Nabil Bentaleb,ALG,Lille,Ligue 1,30.0,1,1,0,0,1,50,1
+Rodrigo Bentancur,URU,Tottenham,Premier League,27.0,0,1,0,0,103,84,2
+Lucas Beraldo,BRA,Paris S-G,Ligue 1,21.0,0,0,1,0,12,68,1
+Yuri Berchiche,ESP,Athletic Club,La Liga,35.0,0,0,1,0,33,5,0
+Álex Berenguer,ESP,Athletic Club,La Liga,29.0,1,1,0,0,33,5,0
+Sander Berge,NOR,Fulham,Premier League,27.0,0,1,0,0,79,30,2
+Lucas Bergvall,SWE,Tottenham,Premier League,19.0,0,1,0,0,98,84,2
+Medon Berisha,ALB,Lecce,Serie A,21.0,0,1,0,0,0,45,3
+Mergim Berisha,GER,Hoffenheim,de Bundesliga,26.0,1,1,0,0,40,37,4
+Adrian Bernabe,ESP,Parma,Serie A,23.0,0,1,0,0,33,69,3
+Marc Bernal,ESP,Barcelona,La Liga,17.0,0,1,0,0,33,9,0
+Bernardo,BRA,Bochum,de Bundesliga,29.0,0,0,1,0,12,12,4
+Juan Bernat,ESP,Getafe,La Liga,32.0,0,1,0,0,33,32,0
+Maxime Bernauer,FRA,Saint-Étienne,Ligue 1,26.0,0,0,1,0,36,77,1
+Antoine Bernede,FRA,Hellas Verona,Serie A,25.0,1,1,0,0,36,36,3
+Alexander Bernhardsson,SWE,Holstein Kiel,de Bundesliga,26.0,0,1,1,0,98,38,4
+Victor Bernth Kristiansen,DEN,Leicester City,Premier League,22.0,0,0,1,0,27,47,2
+Matúš Bero,SVK,Bochum,de Bundesliga,29.0,0,1,0,0,96,12,4
+Juan Berrocal,ESP,Getafe,La Liga,25.0,0,0,1,0,33,32,0
+Dimitry Bertaud,COD,Montpellier,Ligue 1,26.0,0,0,0,1,18,60,1
+Jan-Niklas Beste,GER,Freiburg,de Bundesliga,26.0,1,1,0,0,40,29,4
+Beto,GNB,Everton,Premier League,27.0,1,0,0,0,43,27,2
+Sam Beukema,NED,Bologna,Serie A,26.0,0,0,1,0,76,13,3
+Alessandro Bianco,ITA,Fiorentina,Serie A,22.0,0,1,0,0,55,28,3
+Mika Biereth,DEN,Monaco,Ligue 1,22.0,1,0,0,0,27,59,1
+Jaka Bijol,SVN,Udinese,Serie A,26.0,0,0,1,0,97,86,3
+El Bilal Touré,MLI,Stuttgart,de Bundesliga,23.0,1,1,0,0,70,82,4
+Philip Billing,DEN,Napoli,Serie A,28.0,0,1,0,0,27,63,3
+Cristiano Biraghi,ITA,Fiorentina,Serie A,32.0,0,0,1,0,55,28,3
+Samuele Birindelli,ITA,Monza,Serie A,25.0,0,1,1,0,55,61,3
+Tom Bischof,GER,Hoffenheim,de Bundesliga,19.0,1,1,0,0,40,37,4
+Yves Bissouma,MLI,Tottenham,Premier League,28.0,0,1,0,0,70,84,2
+Leonardo Bittencourt,GER,Werder Bremen,de Bundesliga,31.0,0,1,0,0,40,92,4
+Emmanuel Biumla,FRA,Angers,Ligue 1,19.0,0,0,1,0,36,1,1
+Marco Bizot,NED,Brest,Ligue 1,34.0,0,0,0,1,76,16,1
+Bjarki Bjarkason,ISL,Venezia,Serie A,24.0,0,1,1,0,53,90,3
+Antonio Blanco,ESP,Alavés,La Liga,24.0,0,1,0,0,33,0,0
+Ludovic Blas,FRA,Rennes,Ligue 1,27.0,1,1,0,0,36,75,1
+Daley Blind,NED,Girona,La Liga,35.0,0,0,1,0,76,33,0
+Myron Boadu,NED,Bochum,de Bundesliga,24.0,1,0,0,0,76,12,4
+Augustine Boakye,GHA,Saint-Étienne,Ligue 1,24.0,1,1,0,0,41,77,1
+Mathéo Bodmer,FRA,Le Havre,Ligue 1,20.0,0,1,0,0,36,44,1
+Sacha Boey,FRA,Bayern Munich,de Bundesliga,24.0,0,0,1,0,36,10,4
+Jeremie Boga,CIV,Nice,Ligue 1,28.0,1,1,0,0,16,65,1
+Lamare Bogarde,NED,Aston Villa,Premier League,21.0,0,1,1,0,76,3,2
+Emil Bohinen,NOR,Genoa,Serie A,25.0,0,1,0,0,79,31,3
+Adama Boiro,ESP,Athletic Club,La Liga,22.0,0,0,1,0,33,5,0
+Willy Boly,CIV,Nott'ham Forest,Premier League,34.0,0,0,1,0,16,66,2
+Moïse Bombito,CAN,Nice,Ligue 1,24.0,0,0,1,0,13,65,1
+Warren Bondo,FRA,Milan,Serie A,21.0,0,1,0,0,36,58,3
+Victor Boniface,NGA,Leverkusen,de Bundesliga,24.0,1,0,0,0,77,49,4
+Kevin Bonifazi,ITA,Lecce,Serie A,28.0,0,0,1,0,55,45,3
+Ange-Yoan Bonny,FRA,Parma,Serie A,21.0,1,0,0,0,36,69,3
+Sebastiaan Bornauw,BEL,Wolfsburg,de Bundesliga,25.0,0,0,1,0,8,94,4
+Sven Botman,NED,Newcastle Utd,Premier League,25.0,0,0,1,0,76,64,2
+Saïmon Bouabré,FRA,Monaco,Ligue 1,18.0,1,1,0,0,36,59,1
+Ayyoub Bouaddi,FRA,Lille,Ligue 1,17.0,0,1,0,0,36,50,1
+Badredine Bouanani,ALG,Nice,Ligue 1,20.0,1,1,0,0,1,65,1
+Benjamin Bouchouari,MAR,Saint-Étienne,Ligue 1,23.0,0,1,0,0,67,77,1
+Hicham Boudaoui,ALG,Nice,Ligue 1,25.0,0,1,0,0,1,65,1
+Carlo Boukhalfa,MAR,St. Pauli,de Bundesliga,25.0,0,1,0,0,67,80,4
+Justin Bourgault,FRA,Brest,Ligue 1,19.0,0,0,1,0,36,16,1
+Benjamin Bourigeaud,FRA,Rennes,Ligue 1,31.0,0,1,0,0,36,75,1
+Edoardo Bove,ITA,Fiorentina,Serie A,22.0,1,1,0,0,55,28,3
+Jarrod Bowen,ENG,West Ham,Premier League,28.0,1,1,0,0,31,93,2
+Enzo Boyomo,CMR,Valladolid,La Liga,23.0,0,0,1,0,17,89,0
+Domagoj Bradarić,CRO,Hellas Verona,Serie A,25.0,0,0,1,0,23,36,3
+Conor Bradley,NIR,Liverpool,Premier League,21.0,0,0,1,0,78,51,2
+Bilal Brahimi,ALG,Nice,Ligue 1,24.0,0,1,0,0,1,65,1
+Julian Brandt,GER,Dortmund,de Bundesliga,28.0,0,1,0,0,40,23,4
+Jarrad Branthwaite,ENG,Everton,Premier League,22.0,0,0,1,0,31,27,2
+Darko Brašanac,SRB,Leganés,La Liga,33.0,0,1,0,0,93,46,0
+Lilian Brassier,FRA,Rennes,Ligue 1,25.0,0,0,1,0,36,75,1
+Matthias Braunöder,AUT,Como,Serie A,22.0,0,1,0,0,6,21,3
+Iker Bravo,ESP,Udinese,Serie A,20.0,1,1,0,0,33,86,3
+James Bree,ENG,Southampton,Premier League,27.0,0,0,1,0,31,79,2
+Tim Breithaupt,GER,Augsburg,de Bundesliga,23.0,0,1,0,0,40,7,4
+Gleison Bremer,BRA,Juventus,Serie A,27.0,0,0,1,0,12,41,3
+Brenner,BRA,Udinese,Serie A,25.0,1,1,0,0,12,86,3
+Ben Brereton,CHI,Southampton,Premier League,25.0,1,0,0,0,15,79,2
+Marco Brescianini,ITA,Atalanta,Serie A,25.0,0,1,0,0,55,4,3
+Maximilian Breunig,GER,Heidenheim,de Bundesliga,24.0,1,1,0,0,40,35,4
+Anthony Briançon,FRA,Saint-Étienne,Ligue 1,30.0,0,0,1,0,36,77,1
+Nathan Broadhead,WAL,Ipswich Town,Premier League,26.0,1,1,0,0,107,40,2
+Armando Broja,ALB,Everton,Premier League,23.0,1,0,0,0,0,27,2
+David Brooks,WAL,Bournemouth,Premier League,27.0,1,0,0,0,107,14,2
+Arvid Brorsson,SWE,Monza,Serie A,25.0,0,0,1,0,98,61,3
+Moritz Broschinski,GER,Bochum,de Bundesliga,24.0,1,1,0,0,40,12,4
+Nathaniel Brown,GER,Eint Frankfurt,de Bundesliga,21.0,0,1,1,0,40,24,4
+Jacob Bruun Larsen,DEN,Stuttgart,de Bundesliga,26.0,0,1,0,0,27,82,4
+Tajon Buchanan,CAN,Villarreal,La Liga,26.0,1,1,0,0,13,91,0
+Ante Budimir,CRO,Osasuna,La Liga,33.0,1,0,0,0,23,67,0
+Emi Buendía,ARG,Leverkusen,de Bundesliga,28.0,1,1,0,0,3,49,4
+Manu Bueno,ESP,Sevilla,La Liga,20.0,0,1,0,0,33,78,0
+Santiago Bueno,URU,Wolves,Premier League,26.0,0,0,1,0,103,95,2
+Endika Buján,ESP,Athletic Club,La Liga,22.0,1,0,0,0,33,5,0
+Marius Bülter,GER,Hoffenheim,de Bundesliga,31.0,1,0,1,0,40,37,4
+Facundo Buonanotte,ARG,Leicester City,Premier League,20.0,1,1,0,0,3,47,2
+Alessandro Buongiorno,ITA,Napoli,Serie A,25.0,0,0,1,0,55,63,3
+Cameron Burgess,AUS,Ipswich Town,Premier League,29.0,0,0,1,0,5,40,2
+Jonathan Burkardt,GER,Mainz 05,de Bundesliga,24.0,1,0,0,0,40,53,4
+Oliver Burke,SCO,Werder Bremen,de Bundesliga,27.0,1,1,0,0,90,92,4
+Dan Burn,ENG,Newcastle Utd,Premier League,32.0,0,0,1,0,31,64,2
+Rareș-Cătălin Burnete,ROU,Lecce,Serie A,21.0,1,0,0,0,88,45,3
+Wes Burns,WAL,Ipswich Town,Premier League,30.0,1,0,1,0,107,40,2
+Marnon Busch,GER,Heidenheim,de Bundesliga,30.0,0,0,1,0,40,35,4
+Gianluca Busio,USA,Venezia,Serie A,22.0,0,1,0,0,104,90,3
+Aurélio Buta,POR,Reims,Ligue 1,28.0,0,0,1,0,86,74,1
+Jean Butez,FRA,Como,Serie A,29.0,0,0,0,1,36,21,3
+Marcin Bułka,POL,Nice,Ligue 1,25.0,0,0,0,1,85,65,1
+Pau Cabanes,ESP,Alavés,La Liga,20.0,0,1,0,0,33,0,0
+Rémy Cabella,FRA,Lille,Ligue 1,35.0,1,1,0,0,36,50,1
+Leandro Cabrera,URU,Espanyol,La Liga,33.0,0,0,1,0,103,26,0
+Liberato Cacace,NZL,Empoli,Serie A,24.0,0,1,1,0,80,25,3
+Anthony Caci,FRA,Mainz 05,de Bundesliga,27.0,0,0,1,0,36,53,4
+Mathieu Cafaro,FRA,Saint-Étienne,Ligue 1,27.0,1,1,0,0,36,77,1
+Moisés Caicedo,ECU,Chelsea,Premier League,23.0,0,1,0,0,29,20,2
+Tom Cairney,SCO,Fulham,Premier League,34.0,0,1,0,0,90,30,2
+Jens Cajuste,SWE,Ipswich Town,Premier League,25.0,0,1,0,0,98,40,2
+Davide Calabria,ITA,Milan,Serie A,28.0,0,0,1,0,55,58,3
+Riccardo Calafiori,ITA,Arsenal,Premier League,22.0,0,0,1,0,55,2,2
+Luca Caldirola,ITA,Monza,Serie A,34.0,0,0,1,0,55,61,3
+Fernando Calero,ESP,Espanyol,La Liga,29.0,0,1,1,0,33,26,0
+Duje Ćaleta-Car,CRO,Lyon,Ligue 1,28.0,0,0,1,0,23,52,1
+Hakan Çalhanoğlu,TUR,Inter,Serie A,31.0,0,1,0,0,101,39,3
+Dominic Calvert-Lewin,ENG,Everton,Premier League,27.0,1,0,0,0,31,27,2
+Drissa Camara,CIV,Parma,Serie A,23.0,1,1,0,0,16,69,3
+Issiaga Camara,GUI,Nice,Ligue 1,20.0,0,1,0,0,46,65,1
+Lamine Camara,SEN,Monaco,Ligue 1,21.0,0,1,0,0,91,59,1
+Mahdi Camara,FRA,Brest,Ligue 1,26.0,1,1,0,0,36,16,1
+Francesco Camarda,ITA,Milan,Serie A,17.0,1,1,0,0,55,58,3
+Eduardo Camavinga,FRA,Real Madrid,La Liga,22.0,0,1,1,0,36,72,0
+Nicolò Cambiaghi,ITA,Bologna,Serie A,24.0,1,0,0,0,55,13,3
+Andrea Cambiaso,ITA,Juventus,Serie A,25.0,1,0,1,0,55,41,3
+Axel Camblan,FRA,Brest,Ligue 1,21.0,1,1,0,0,36,16,1
+Sergio Camello,ESP,Rayo Vallecano,La Liga,24.0,1,0,0,0,33,71,0
+José Campaña,ESP,Las Palmas,La Liga,31.0,0,1,0,0,33,42,0
+Thomas Campaniello,ITA,Empoli,Serie A,17.0,1,0,0,0,55,25,3
+Cole Campbell,USA,Dortmund,de Bundesliga,19.0,1,1,0,0,104,23,4
+Emre Can,GER,Dortmund,de Bundesliga,31.0,0,1,1,0,40,23,4
+Peio Canales,ESP,Athletic Club,La Liga,20.0,1,1,0,0,33,5,0
+Matteo Cancellieri,ITA,Parma,Serie A,23.0,1,1,0,0,55,69,3
+Fali Candé,GNB,Venezia,Serie A,27.0,0,0,1,0,43,90,3
+Antonio Candela,ITA,Valladolid,La Liga,24.0,0,0,1,0,55,89,0
+Sergi Canós,ESP,Valencia,La Liga,28.0,1,1,0,0,33,88,0
+Jaydee Canvot,FRA,Toulouse,Ligue 1,18.0,0,1,1,0,36,85,1
+Pierrick Capelle,FRA,Angers,Ligue 1,37.0,0,1,0,0,36,1,1
+Gianluca Caprari,ITA,Monza,Serie A,31.0,1,1,0,0,55,61,3
+Elia Caprile,ITA,Napoli,Serie A,23.0,0,0,0,1,55,63,3
+Gabin Capuano,FRA,Lens,Ligue 1,18.0,1,0,0,0,36,48,1
+Francesco Caputo,ITA,Empoli,Serie A,37.0,1,0,0,0,55,25,3
+Maxence Caqueret,FRA,Lyon,Ligue 1,25.0,0,1,0,0,36,52,1
+Simon Cara,FRA,Montpellier,Ligue 1,19.0,0,1,0,0,36,60,1
+Andrea Carboni,ITA,Monza,Serie A,24.0,0,0,1,0,55,61,3
+Franco Carboni,ITA,Venezia,Serie A,21.0,0,0,1,0,55,90,3
+Valentin Carboni,ARG,Marseille,Ligue 1,20.0,1,1,0,0,3,57,1
+Cárdenas,ESP,Rayo Vallecano,La Liga,27.0,0,0,0,1,33,71,0
+Irvin Cardona,FRA,Saint-Étienne,Ligue 1,27.0,1,0,0,0,36,77,1
+Marc Cardona,ESP,Las Palmas,La Liga,29.0,1,0,0,0,33,42,0
+Sergi Cardona,ESP,Villarreal,La Liga,25.0,0,0,1,0,33,91,0
+Johnny Cardoso,USA,Betis,La Liga,23.0,0,1,0,0,104,11,0
+Tiago Cardoso,LUX,Gladbach,de Bundesliga,18.0,0,0,0,1,65,34,4
+Patrik Carlgren,SWE,Nantes,Ligue 1,33.0,0,0,0,1,98,62,1
+Diego Carlos,BRA,Aston Villa,Premier League,31.0,0,0,1,0,12,3,2
+Carmona,ESP,Sevilla,La Liga,23.0,0,0,1,0,33,78,0
+Marco Carnesecchi,ITA,Atalanta,Serie A,24.0,0,0,0,1,55,4,3
+Sergio Carreira,ESP,Celta Vigo,La Liga,24.0,0,1,1,0,33,19,0
+Dani Carvajal,ESP,Real Madrid,La Liga,33.0,0,0,1,0,33,72,0
+Fabio Carvalho,POR,Brentford,Premier League,22.0,1,1,0,0,86,15,2
+William Carvalho,POR,Betis,La Liga,32.0,0,1,0,0,86,11,0
+Cesare Casadei,ITA,Torino,Serie A,22.0,0,1,0,0,55,83,3
+Marc Casado,ESP,Barcelona,La Liga,21.0,0,1,0,0,33,9,0
+Nicolò Casale,ITA,Lazio,Serie A,27.0,0,0,1,0,55,43,3
+Casemiro,BRA,Manchester Utd,Premier League,33.0,0,1,0,0,12,56,2
+Kaelan Casey,ENG,West Ham,Premier League,20.0,0,0,1,0,31,93,2
+Matty Cash,POL,Aston Villa,Premier League,27.0,1,0,1,0,85,3,2
+Josué Casimir,FRA,Le Havre,Ligue 1,23.0,1,1,0,0,36,44,1
+Federico Cassa,ITA,Atalanta,Serie A,19.0,1,1,0,0,55,4,3
+Cristian Cásseres Jr.,VEN,Toulouse,Ligue 1,25.0,0,1,0,0,106,85,1
+Timothy Castagne,BEL,Fulham,Premier League,29.0,0,0,1,0,8,30,2
+Valentín Castellanos,ARG,Lazio,Serie A,26.0,1,0,0,0,3,43,3
+Jean-Charles Castelletto,CMR,Nantes,Ligue 1,30.0,0,1,1,0,17,62,1
+Santiago Castro,ARG,Bologna,Serie A,20.0,1,0,0,0,3,13,3
+Gaetano Castrovilli,ITA,Lazio,Serie A,28.0,1,1,0,0,55,43,3
+Danilo Cataldi,ITA,Fiorentina,Serie A,30.0,0,1,0,0,55,28,3
+Catena,ESP,Osasuna,La Liga,30.0,0,0,1,0,33,67,0
+Maximiliano Caufriez,BEL,Valencia,La Liga,28.0,0,0,1,0,8,88,0
+Dani Ceballos,ESP,Real Madrid,La Liga,28.0,0,1,0,0,33,72,0
+Abdoulie Ceesay,GAM,St. Pauli,de Bundesliga,21.0,1,0,0,0,38,80,4
+Zeki Çelik,TUR,Roma,Serie A,28.0,0,0,1,0,101,76,3
+Fabien Centonze,FRA,Nantes,Ligue 1,29.0,0,0,1,0,36,62,1
+Alberto Cerri,ITA,Como,Serie A,28.0,1,0,0,0,55,21,3
+Franco Cervi,ARG,Celta Vigo,La Liga,30.0,1,1,0,0,3,19,0
+Julian Chabot,GER,Stuttgart,de Bundesliga,27.0,0,0,1,0,40,82,4
+El Chadaille Bitshiabu,FRA,RB Leipzig,de Bundesliga,19.0,0,0,1,0,36,70,4
+Fares Chaïbi,ALG,Eint Frankfurt,de Bundesliga,22.0,1,1,0,0,1,24,4
+Trevoh Chalobah,ENG,Chelsea,Premier League,25.0,0,0,1,0,31,20,2
+Timothy Chandler,USA,Eint Frankfurt,de Bundesliga,34.0,0,0,1,0,104,24,4
+Conor Chaplin,ENG,Ipswich Town,Premier League,28.0,1,1,0,0,31,40,2
+Brendan Chardonnet,FRA,Brest,Ligue 1,30.0,0,0,1,0,36,16,1
+Gabriel Charpentier,CGO,Parma,Serie A,25.0,1,0,0,0,14,69,3
+Raúl Chasco,ESP,Valladolid,La Liga,21.0,0,0,1,0,33,89,0
+Anrie Chase,JPN,Stuttgart,de Bundesliga,20.0,0,0,1,0,58,82,4
+Pep Chavarría,ESP,Rayo Vallecano,La Liga,26.0,0,0,1,0,33,71,0
+Arthur Chaves,BRA,Hoffenheim,de Bundesliga,24.0,0,0,1,0,12,37,4
+Jhoanner Chávez,ECU,Lens,Ligue 1,22.0,0,1,1,0,29,48,1
+Walid Cheddira,MAR,Espanyol,La Liga,27.0,1,0,0,0,67,26,0
+Chema,ESP,Real Madrid,La Liga,19.0,0,1,0,0,33,72,0
+Théo Chennahi,FRA,Montpellier,Ligue 1,20.0,0,1,1,0,36,60,1
+Sidiki Cherif,FRA,Angers,Ligue 1,18.0,1,0,0,0,36,1,1
+Rayan Cherki,FRA,Lyon,Ligue 1,21.0,1,1,0,0,36,52,1
+Lucas Chevalier,FRA,Lille,Ligue 1,23.0,0,0,0,1,36,50,1
+Fabio Chiarodia,ITA,Gladbach,de Bundesliga,19.0,0,0,1,0,55,34,4
+Julián Chicco,ARG,Leganés,La Liga,27.0,0,1,0,0,3,46,0
+Leandro Chichizola,ARG,Parma,Serie A,34.0,0,0,0,1,3,69,3
+Federico Chiesa,ITA,Liverpool,Premier League,27.0,1,0,0,0,55,51,2
+Ben Chilwell,ENG,Crystal Palace,Premier League,28.0,0,1,1,0,31,22,2
+Chiquinho,POR,Mallorca,La Liga,25.0,1,1,0,0,86,54,0
+Pedro Chirivella,ESP,Nantes,Ligue 1,27.0,0,1,0,0,33,62,1
+Joris Chotard,FRA,Montpellier,Ligue 1,23.0,0,1,0,0,36,60,1
+Hamza Choudhury,ENG,Leicester City,Premier League,27.0,0,1,1,0,31,47,2
+Andreas Christensen,DEN,Barcelona,La Liga,28.0,0,0,1,0,27,9,0
+Ryan Christie,SCO,Bournemouth,Premier League,30.0,0,1,0,0,90,14,2
+Carney Chukwuemeka,ENG,Dortmund,de Bundesliga,21.0,1,1,0,0,31,23,4
+Samuel Chukwueze,NGA,Milan,Serie A,25.0,1,1,0,0,77,58,3
+Aaron Ciammaglichella,ITA,Torino,Serie A,20.0,0,1,0,0,55,83,3
+Jasper Cillessen,NED,Las Palmas,La Liga,35.0,0,0,0,1,76,42,0
+Alessandro Circati,AUS,Parma,Serie A,21.0,0,0,1,0,5,69,3
+Pathé Ciss,SEN,Rayo Vallecano,La Liga,30.0,0,1,0,0,91,71,0
+Alphadjo Cissè,ITA,Hellas Verona,Serie A,18.0,1,1,0,0,55,36,3
+Djaoui Cissé,FRA,Rennes,Ligue 1,21.0,0,1,0,0,36,75,1
+Seydouba Cissé,GUI,Leganés,La Liga,24.0,0,1,0,0,46,46,0
+Yoann Cissé,FRA,Auxerre,Ligue 1,20.0,0,1,0,0,36,8,1
+Patrick Ciurria,ITA,Monza,Serie A,30.0,0,1,1,0,55,61,3
+Harry Clarke,ENG,Ipswich Town,Premier League,24.0,0,0,1,0,31,40,2
+Jack Clarke,ENG,Ipswich Town,Premier League,24.0,1,1,0,0,31,40,2
+Alexis Claude-Maurice,FRA,Augsburg,de Bundesliga,26.0,1,1,0,0,36,7,4
+Jonathan Clauss,FRA,Nice,Ligue 1,32.0,0,1,1,0,36,65,1
+Silvi Clúa,ESP,Girona,La Liga,20.0,0,1,0,0,33,33,0
+Nathaniel Clyne,ENG,Crystal Palace,Premier League,33.0,0,1,1,0,31,22,2
+Conor Coady,ENG,Leicester City,Premier League,32.0,0,0,1,0,31,47,2
+Marcus Coco,FRA,Nantes,Ligue 1,28.0,0,0,1,0,36,62,1
+Saúl Coco,EQG,Torino,Serie A,26.0,0,0,1,0,32,83,3
+Séamus Coleman,IRL,Everton,Premier League,36.0,0,0,1,0,50,27,2
+Nathan Collins,IRL,Brentford,Premier League,23.0,0,0,1,0,50,15,2
+Nnamdi Collins,GER,Eint Frankfurt,de Bundesliga,21.0,0,0,1,0,40,24,4
+Toby Collyer,ENG,Manchester Utd,Premier League,21.0,0,1,0,0,31,56,2
+Lorenzo Colombo,ITA,Empoli,Serie A,23.0,1,1,0,0,55,25,3
+Andrea Colpani,ITA,Fiorentina,Serie A,25.0,1,1,0,0,55,28,3
+Levi Colwill,ENG,Chelsea,Premier League,22.0,0,0,1,0,31,20,2
+Florinel Coman,ROU,Cagliari,Serie A,26.0,1,1,0,0,88,18,3
+Kingsley Coman,FRA,Bayern Munich,de Bundesliga,28.0,1,0,0,0,36,10,4
+Eray Cömert,SUI,Valladolid,La Liga,27.0,0,1,1,0,94,89,0
+Santi Comesaña,ESP,Villarreal,La Liga,28.0,0,1,0,0,33,91,0
+Pietro Comuzzo,ITA,Fiorentina,Serie A,20.0,0,0,1,0,55,28,3
+Francisco Conceição,POR,Juventus,Serie A,22.0,1,0,0,0,86,41,3
+Diego Conde,ESP,Villarreal,La Liga,26.0,0,0,0,1,33,91,0
+Tomás Conechny,ARG,Alavés,La Liga,26.0,1,1,0,0,3,0,0
+Alois Confais,FRA,Le Havre,Ligue 1,28.0,0,1,0,0,36,44,1
+Sirlord Conteh,GER,Heidenheim,de Bundesliga,28.0,1,1,0,0,40,35,4
+Lewis Cook,ENG,Bournemouth,Premier League,28.0,0,1,1,0,31,14,2
+Copete,ESP,Mallorca,La Liga,25.0,0,0,1,0,33,54,0
+Diego Coppola,ITA,Hellas Verona,Serie A,21.0,0,0,1,0,55,36,3
+Francis Coquelin,FRA,Nantes,Ligue 1,33.0,1,1,0,0,36,62,1
+Iker Córdoba,ESP,Valencia,La Liga,19.0,0,0,1,0,33,88,0
+Derek Cornelius,CAN,Marseille,Ligue 1,27.0,0,0,1,0,13,57,1
+Maxwel Cornet,CIV,Genoa,Serie A,28.0,1,1,0,0,16,31,3
+Pierre Cornud,FRA,Saint-Étienne,Ligue 1,28.0,0,0,1,0,36,77,1
+Ángel Correa,ARG,Atlético Madrid,La Liga,30.0,1,1,0,0,3,6,0
+Joaquín Correa,ARG,Inter,Serie A,30.0,1,1,0,0,3,39,3
+Thierry Correia,POR,Valencia,La Liga,26.0,0,0,1,0,86,88,0
+Alberto costa,POR,Juventus,Serie A,21.0,0,0,1,0,86,41,3
+Coba da Costa,ESP,Getafe,La Liga,22.0,1,1,0,0,33,32,0
+Danny da Costa,GER,Mainz 05,de Bundesliga,31.0,0,0,1,0,40,53,4
+David Costa,POR,Lens,Ligue 1,24.0,1,1,0,0,86,48,1
+Logan Costa,CPV,Toulouse,Ligue 1,23.0,0,0,1,0,21,85,1
+Samu Costa,POR,Mallorca,La Liga,24.0,0,1,0,0,86,54,0
+Grégoire Coudert,FRA,Brest,Ligue 1,25.0,0,0,0,1,36,16,1
+Vladimír Coufal,CZE,West Ham,Premier League,32.0,0,0,1,0,26,93,2
+Lassana Coulibaly,MLI,Lecce,Serie A,28.0,0,1,0,0,70,45,3
+Lasso Coulibaly,GHA,Auxerre,Ligue 1,22.0,1,1,0,0,41,8,1
+Mamadou Coulibaly,FRA,Monaco,Ligue 1,20.0,0,1,0,0,36,59,1
+Soumaïla Coulibaly,FRA,Brest,Ligue 1,21.0,0,0,1,0,36,16,1
+Tanguy Coulibaly,FRA,Montpellier,Ligue 1,24.0,1,1,0,0,36,60,1
+Woyo Coulibaly,FRA,Parma,Serie A,25.0,0,0,1,0,36,69,3
+Marius Courcoul,FRA,Angers,Ligue 1,18.0,0,1,1,0,36,1,1
+Thibaut Courtois,BEL,Real Madrid,La Liga,32.0,0,0,0,1,8,72,0
+Yan Couto,BRA,Dortmund,de Bundesliga,22.0,0,0,1,0,12,23,4
+Nicolas Cozza,FRA,Nantes,Ligue 1,26.0,0,0,1,0,36,62,1
+Aaron Cresswell,ENG,West Ham,Premier League,35.0,0,0,1,0,31,93,2
+Charlie Cresswell,ENG,Toulouse,Ligue 1,22.0,0,0,1,0,31,85,1
+Bryan Cristante,ITA,Roma,Serie A,30.0,0,1,0,0,55,76,3
+Domen Črnigoj,SVN,Venezia,Serie A,29.0,0,1,0,0,97,90,3
+Juan Cruz Armada,ESP,Osasuna,La Liga,32.0,0,0,1,0,33,67,0
+Juan Cruz,ESP,Leganés,La Liga,24.0,1,0,1,0,33,46,0
+Juan Cuadrado,COL,Atalanta,Serie A,36.0,0,1,1,0,19,4,3
+Pau Cubarsí,ESP,Barcelona,La Liga,18.0,0,0,1,0,33,9,0
+Cucho,COL,Betis,La Liga,25.0,1,0,0,0,19,11,0
+Marc Cucurella,ESP,Chelsea,Premier League,26.0,0,0,1,0,33,20,2
+Jorge Cuenca,ESP,Fulham,Premier League,25.0,0,0,1,0,33,30,2
+Matheus Cunha,BRA,Wolves,Premier League,25.0,1,1,0,0,12,95,2
+Patrick Cutrone,ITA,Como,Serie A,27.0,1,0,0,0,55,21,3
+Tomáš Čvančara,CZE,Gladbach,de Bundesliga,24.0,1,1,0,0,26,34,4
+Wylan Cyprien,FRA,Parma,Serie A,30.0,0,1,0,0,36,69,3
+Danilo D'Ambrosio,ITA,Monza,Serie A,36.0,0,0,1,0,55,61,3
+Lucas Da Cunha,FRA,Como,Serie A,23.0,0,1,0,0,36,21,3
+Samuel Dahl,SWE,Roma,Serie A,25.0,0,1,1,0,98,76,3
+Finn Dahmen,GER,Augsburg,de Bundesliga,26.0,0,0,0,1,40,7,4
+Thomas Dähne,GER,Holstein Kiel,de Bundesliga,31.0,0,0,0,1,40,38,4
+Mahmoud Dahoud,GER,Eint Frankfurt,de Bundesliga,29.0,0,1,0,0,40,24,4
+Patson Daka,ZAM,Leicester City,Premier League,26.0,1,1,0,0,108,47,2
+Ameen Al-Dakhil,BEL,Stuttgart,de Bundesliga,23.0,0,0,1,0,8,82,4
+Thijs Dallinga,NED,Bologna,Serie A,24.0,1,1,0,0,76,13,3
+Diogo Dalot,POR,Manchester Utd,Premier League,25.0,0,0,1,0,86,56,2
+Mikkel Damsgaard,DEN,Brentford,Premier League,24.0,1,1,0,0,27,15,2
+Maat Daniel Caprini,ITA,Fiorentina,Serie A,19.0,1,0,0,0,55,28,3
+Flavius Daniliuc,AUT,Hellas Verona,Serie A,23.0,0,0,1,0,6,36,3
+Danilo,BRA,Juventus,Serie A,33.0,0,0,1,0,12,41,3
+Arnaut Danjuma,NED,Girona,La Liga,28.0,1,1,0,0,76,33,0
+Jayden Danns,ENG,Liverpool,Premier League,19.0,0,1,0,0,31,51,2
+Kévin Danois,FRA,Auxerre,Ligue 1,20.0,0,1,0,0,36,8,1
+Kevin Danso,AUT,Lens,Ligue 1,26.0,0,0,1,0,6,48,1
+Dante,BRA,Nice,Ligue 1,41.0,0,0,1,0,12,65,1
+Pape Daouda Diongue,SEN,Strasbourg,Ligue 1,,1,1,0,0,91,81,1
+Mohammed Daramy,DEN,Reims,Ligue 1,23.0,1,0,0,0,27,74,1
+Bence Dárdai,GER,Wolfsburg,de Bundesliga,19.0,0,1,0,0,40,94,4
+Sergi Darder,ESP,Mallorca,La Liga,31.0,1,1,0,0,33,54,0
+Matteo Darmian,ITA,Inter,Serie A,35.0,0,0,1,0,55,39,3
+Lukas Daschner,GER,Bochum,de Bundesliga,26.0,1,1,0,0,40,12,4
+Juan David Cabal,COL,Juventus,Serie A,24.0,0,0,1,0,19,41,3
+Jonathan David,CAN,Lille,Ligue 1,25.0,1,0,0,0,13,50,1
+Alphonso Davies,CAN,Bayern Munich,de Bundesliga,24.0,0,0,1,0,13,10,4
+Ben Davies,WAL,Tottenham,Premier League,31.0,0,0,1,0,107,84,2
+Keinan Davis,ENG,Udinese,Serie A,27.0,1,0,0,0,31,86,3
+Leif Davis,ENG,Ipswich Town,Premier League,25.0,0,0,1,0,31,40,2
+Zuriko Davitashvili,GEO,Saint-Étienne,Ligue 1,24.0,1,1,0,0,39,77,1
+Paweł Dawidowicz,POL,Hellas Verona,Serie A,29.0,0,0,1,0,85,36,3
+Craig Dawson,ENG,Wolves,Premier League,34.0,0,0,1,0,31,95,2
+Kevin De Bruyne,BEL,Manchester City,Premier League,33.0,0,1,0,0,8,55,2
+Charles De Ketelaere,BEL,Atalanta,Serie A,24.0,1,1,0,0,8,4,3
+Rodrigo De Paul,ARG,Atlético Madrid,La Liga,30.0,0,1,0,0,3,6,0
+Théo De Percin,MTQ,Auxerre,Ligue 1,24.0,0,0,0,1,75,8,1
+Mattia De Sciglio,ITA,Empoli,Serie A,32.0,0,0,1,0,55,25,3
+Lorenzo De Silvestri,ITA,Bologna,Serie A,36.0,0,0,1,0,55,13,3
+Thibault De Smet,BEL,Reims,Ligue 1,26.0,0,0,1,0,8,74,1
+Koni De Winter,BEL,Genoa,Serie A,22.0,0,0,1,0,8,31,3
+Amar Dedić,BIH,Marseille,Ligue 1,22.0,1,0,1,0,11,57,1
+Alessandro Deiola,ITA,Cagliari,Serie A,29.0,0,1,0,0,55,18,3
+Romain Del Castillo,FRA,Brest,Ligue 1,28.0,1,0,0,0,36,16,1
+Enrico Del Prato,ITA,Parma,Serie A,25.0,0,0,1,0,55,69,3
+Liam Delap,ENG,Ipswich Town,Premier League,22.0,1,0,0,0,31,40,2
+Fisayo Dele-Bashiru,NGA,Lazio,Serie A,24.0,1,1,0,0,77,43,3
+Andy Delort,ALG,Montpellier,Ligue 1,33.0,1,0,0,0,1,60,1
+Olivier Deman,BEL,Werder Bremen,de Bundesliga,24.0,0,0,1,0,8,92,4
+Ali Dembélé,FRA,Torino,Serie A,21.0,0,0,1,0,36,83,3
+Ousmane Dembélé,FRA,Paris S-G,Ligue 1,27.0,1,0,0,0,36,68,1
+Ermedin Demirović,BIH,Stuttgart,de Bundesliga,26.0,1,0,0,0,11,82,4
+Sepp van den Berg,NED,Brentford,Premier League,23.0,0,0,1,0,76,15,2
+Arthur Desmas,FRA,Le Havre,Ligue 1,30.0,0,0,0,1,36,44,1
+Justin Devenny,NIR,Crystal Palace,Premier League,21.0,0,1,0,0,78,22,2
+Kiernan Dewsbury-Hall,ENG,Chelsea,Premier League,26.0,0,1,0,0,31,20,2
+Michele Di Gregorio,ITA,Juventus,Serie A,27.0,0,0,0,1,55,41,3
+Giovanni Di Lorenzo,ITA,Napoli,Serie A,31.0,0,0,1,0,55,63,3
+Boulaye Dia,SEN,Lazio,Serie A,28.0,1,1,0,0,91,43,3
+Mouctar Diakhaby,GUI,Valencia,La Liga,28.0,0,0,1,0,46,88,0
+Mamadou Diakhon,FRA,Reims,Ligue 1,19.0,1,1,0,0,36,74,1
+Bafodé Diakité,FRA,Lille,Ligue 1,24.0,0,0,1,0,36,50,1
+Oumar Diakité,CIV,Reims,Ligue 1,21.0,1,0,0,0,16,74,1
+Amad Diallo,CIV,Manchester Utd,Premier League,22.0,1,1,0,0,16,56,2
+Assane Diao,ESP,Betis,La Liga,19.0,1,0,0,0,33,11,0
+Habib Diarra,SEN,Strasbourg,Ligue 1,21.0,1,1,0,0,91,81,1
+Moussa Diarra,MLI,Alavés,La Liga,24.0,0,0,1,0,70,0,0
+Rúben Dias,POR,Manchester City,Premier League,27.0,0,0,1,0,86,55,2
+Krépin Diatta,SEN,Monaco,Ligue 1,26.0,0,0,1,0,91,59,1
+Kandet Diawara,GUI,Le Havre,Ligue 1,25.0,1,0,0,0,46,44,1
+Mahamadou Diawara,FRA,Lyon,Ligue 1,20.0,0,1,0,0,36,52,1
+Brahim Díaz,MAR,Real Madrid,La Liga,25.0,1,1,0,0,67,72,0
+Luis Díaz,COL,Liverpool,Premier League,28.0,1,0,0,0,19,51,2
+Pedro Díaz,ESP,Rayo Vallecano,La Liga,26.0,0,1,0,0,33,71,0
+Tyler Dibling,ENG,Southampton,Premier League,18.0,1,1,0,0,31,79,2
+Diego,ESP,Leganés,La Liga,24.0,1,1,0,0,33,46,0
+Justin Diehl,GER,Stuttgart,de Bundesliga,20.0,1,0,1,0,40,82,4
+Bamba Dieng,SEN,Angers,Ligue 1,24.0,1,1,0,0,91,1,1
+Eric Dier,ENG,Bayern Munich,de Bundesliga,31.0,0,0,1,0,31,10,4
+Lucas Digne,FRA,Aston Villa,Premier League,31.0,0,0,1,0,36,3,2
+Kembo Diliwidi,FRA,Lens,Ligue 1,19.0,0,0,1,0,36,48,1
+Federico Dimarco,ITA,Inter,Serie A,27.0,1,0,1,0,55,39,3
+Stole Dimitrievski,MKD,Valencia,La Liga,31.0,0,0,0,1,69,88,0
+Junior Dina Ebimbe,FRA,Eint Frankfurt,de Bundesliga,24.0,1,1,0,0,36,24,4
+Eren Dinkçi,GER,Freiburg,de Bundesliga,23.0,1,1,0,0,40,29,4
+Sinaly Diomande,CIV,Auxerre,Ligue 1,23.0,0,0,1,0,16,8,1
+Lois Diony,FRA,Angers,Ligue 1,32.0,1,0,0,0,36,1,1
+Issa Diop,FRA,Fulham,Premier League,28.0,0,0,1,0,36,30,2
+Sérigné Diop,SEN,Brest,Ligue 1,19.0,1,0,0,0,91,16,1
+Sofiane Diop,FRA,Nice,Ligue 1,24.0,1,1,0,0,36,65,1
+Andy Diouf,FRA,Lens,Ligue 1,21.0,0,1,0,0,36,48,1
+Yehvann Diouf,FRA,Reims,Ligue 1,25.0,0,0,0,1,36,74,1
+Assane Dioussé,SEN,Auxerre,Ligue 1,27.0,0,1,0,0,91,8,1
+Axel Disasi,FRA,Chelsea,Premier League,26.0,0,0,1,0,36,20,2
+Roman Dixon,ENG,Everton,Premier League,20.0,0,0,1,0,31,27,2
+Álvaro djaló,ESP,Athletic Club,La Liga,25.0,1,0,0,0,33,5,0
+Djené,TOG,Getafe,La Liga,33.0,0,1,1,0,99,32,0
+Nasser Djiga,BFA,Wolves,Premier League,22.0,0,0,1,0,10,95,2
+Berat Djimsiti,ALB,Atalanta,Serie A,32.0,0,0,1,0,0,4,3
+Marko Dmitrović,SRB,Leganés,La Liga,33.0,0,0,0,1,93,46,0
+Ritsu Doan,JPN,Freiburg,de Bundesliga,26.0,1,0,0,0,58,29,4
+Dodô,BRA,Fiorentina,Serie A,26.0,0,0,1,0,12,28,3
+Danilho Doekhi,NED,Union Berlin,de Bundesliga,26.0,0,0,1,0,76,87,4
+Matt Doherty,IRL,Wolves,Premier League,33.0,0,0,1,0,50,95,2
+Jeremy Doku,BEL,Manchester City,Premier League,22.0,1,1,0,0,8,55,2
+Marc Domenech,ESP,Mallorca,La Liga,19.0,1,0,0,0,33,54,0
+Álex Domínguez,ESP,Toulouse,Ligue 1,26.0,0,0,0,1,33,85,1
+Benjamín Domínguez,ARG,Bologna,Serie A,21.0,1,0,0,0,3,13,3
+Carlos Dominguez,ESP,Celta Vigo,La Liga,24.0,0,0,1,0,33,19,0
+Israel Domínguez,ESP,Sevilla,La Liga,21.0,1,0,0,0,33,78,0
+Nicolás Domínguez,ARG,Nott'ham Forest,Premier League,26.0,1,1,0,0,3,66,2
+Sergi Dominguez,ESP,Barcelona,La Liga,19.0,0,0,1,0,33,9,0
+Gianluigi Donnarumma,ITA,Paris S-G,Ligue 1,26.0,0,0,0,1,55,68,1
+Patrick Dorgu,DEN,Lecce,Serie A,20.0,1,0,1,0,27,45,3
+Alfie Dorrington,ENG,Tottenham,Premier League,19.0,0,0,1,0,31,84,2
+Niklas Dorsch,GER,Heidenheim,de Bundesliga,27.0,0,1,0,0,40,35,4
+Alberto Dossena,ITA,Como,Serie A,26.0,0,0,1,0,55,21,3
+Abdoulaye Doucouré,MLI,Everton,Premier League,32.0,0,1,0,0,70,27,2
+Cheick Doucouré,MLI,Crystal Palace,Premier League,25.0,0,1,0,0,70,22,2
+Désiré Doué,FRA,Paris S-G,Ligue 1,19.0,1,1,0,0,36,68,1
+Guela Doué,CIV,Strasbourg,Ligue 1,22.0,0,0,1,0,16,81,1
+Douglas,BRA,Nantes,Ligue 1,28.0,0,1,0,0,12,62,1
+Ismaël Doukouré,FRA,Strasbourg,Ligue 1,21.0,0,1,1,0,36,81,1
+Issa Doumbia,CIV,Venezia,Serie A,21.0,0,1,0,0,16,90,3
+Kamory Doumbia,MLI,Brest,Ligue 1,22.0,0,1,0,0,70,16,1
+Amidou Doumbouya,FRA,Nice,Ligue 1,17.0,0,0,1,0,36,65,1
+Anastasios Douvikas,GRE,Celta Vigo,La Liga,25.0,1,0,0,0,44,19,0
+Artem Dovbyk,UKR,Roma,Serie A,27.0,1,0,0,0,102,76,3
+Flynn Downes,ENG,Southampton,Premier League,26.0,0,1,0,0,31,79,2
+Tommy Doyle,ENG,Wolves,Premier League,23.0,0,1,0,0,31,95,2
+Radu Drăgușin,ROU,Tottenham,Premier League,23.0,0,0,1,0,88,84,2
+Patrick Drewes,GER,Bochum,de Bundesliga,32.0,0,0,0,1,40,12,4
+Tim Drexler,GER,Hoffenheim,de Bundesliga,20.0,0,0,1,0,40,37,4
+Domingos Duarte,POR,Getafe,La Liga,30.0,0,0,1,0,86,32,0
+Martin Dúbravka,SVK,Newcastle Utd,Premier League,36.0,0,0,0,1,96,64,2
+Marvin Ducksch,GER,Werder Bremen,de Bundesliga,31.0,1,0,0,0,40,92,4
+Ondrej Duda,SVK,Hellas Verona,Serie A,30.0,0,1,0,0,96,36,3
+Duk,CPV,Leganés,La Liga,25.0,1,1,0,0,21,46,0
+Denzel Dumfries,NED,Inter,Serie A,28.0,1,0,1,0,76,39,3
+Alfred Duncan,GHA,Venezia,Serie A,32.0,0,1,0,0,41,90,3
+Lewis Dunk,ENG,Brighton,Premier League,33.0,0,0,1,0,31,17,2
+Jáder Durán,COL,Aston Villa,Premier League,21.0,1,0,0,0,19,3,2
+Pablo Durán,ESP,Celta Vigo,La Liga,23.0,1,1,0,0,33,19,0
+Julien Duranville,BEL,Dortmund,de Bundesliga,18.0,1,1,0,0,8,23,4
+Hugo Duro,ESP,Valencia,La Liga,25.0,1,0,0,0,33,88,0
+Jean-Kevin Duverne,HAI,Nantes,Ligue 1,27.0,0,0,1,0,47,62,1
+Paulo Dybala,ARG,Roma,Serie A,31.0,1,1,0,0,3,76,3
+Stefan Džodić,SRB,Montpellier,Ligue 1,19.0,0,1,1,0,93,60,1
+Adam Dźwigała,POL,St. Pauli,de Bundesliga,29.0,0,1,1,0,85,80,4
+Aron Dønnum,NOR,Toulouse,Ligue 1,26.0,0,1,1,0,79,85,1
+Enzo Ebosse,CMR,Udinese,Serie A,25.0,0,0,1,0,17,86,3
+Ederson,BRA,Manchester City,Premier League,31.0,0,0,0,1,12,55,2
+Éderson,BRA,Atalanta,Serie A,25.0,0,1,0,0,12,4,3
+Noah Edjouma,FRA,Toulouse,Ligue 1,19.0,1,1,0,0,36,85,1
+George Edmundson,ENG,Ipswich Town,Premier League,27.0,0,0,1,0,31,40,2
+Odsonne Édouard,FRA,Leicester City,Premier League,27.0,1,0,0,0,36,47,2
+Samuel Edozie,ENG,Southampton,Premier League,22.0,1,0,1,0,31,79,2
+Ronnie Edwards,ENG,Southampton,Premier League,21.0,0,0,1,0,31,79,2
+Johannes Eggestein,GER,St. Pauli,de Bundesliga,26.0,1,0,0,0,40,80,4
+Maximilian Eggestein,GER,Freiburg,de Bundesliga,28.0,0,1,0,0,40,29,4
+Kingsley Ehizibue,NED,Udinese,Serie A,29.0,0,0,1,0,76,86,3
+Chidera Ejuke,NGA,Sevilla,La Liga,27.0,1,0,0,0,77,78,0
+Jeff Ekhator,ITA,Genoa,Serie A,18.0,1,1,0,0,55,31,3
+Hugo Ekitike,FRA,Eint Frankfurt,de Bundesliga,22.0,1,0,0,0,36,24,4
+Jurgen Ekkelenkamp,NED,Udinese,Serie A,24.0,0,1,0,0,76,86,3
+Jacques Ekomie,GAB,Angers,Ligue 1,21.0,0,0,1,0,37,1,1
+Emmanuel Ekong,SWE,Empoli,Serie A,22.0,1,1,0,0,98,25,3
+Caleb Ekuban,GHA,Genoa,Serie A,30.0,1,0,0,0,41,31,3
+Pierre Ekwah Elimby,FRA,Saint-Étienne,Ligue 1,23.0,0,1,0,0,36,77,1
+Anthony Elanga,SWE,Nott'ham Forest,Premier League,22.0,1,1,0,0,98,66,2
+Meschak Elia,COD,Nantes,Ligue 1,27.0,1,0,1,0,18,62,1
+Mikael Ellertsson,ISL,Venezia,Serie A,22.0,0,1,1,0,53,90,3
+Harvey Elliott,ENG,Liverpool,Premier League,21.0,1,1,0,0,31,51,2
+Elif Elmas,MKD,RB Leipzig,de Bundesliga,25.0,0,1,0,0,69,70,4
+Aritz Elustondo,ESP,Real Sociedad,La Liga,30.0,0,0,1,0,33,73,0
+Nico Elvedi,SUI,Gladbach,de Bundesliga,28.0,0,0,1,0,94,34,4
+Adri Embarba,ESP,Rayo Vallecano,La Liga,32.0,1,1,0,0,33,71,0
+Breel Embolo,SUI,Monaco,Ligue 1,28.0,1,1,0,0,94,59,1
+Emanuel Emegha,NED,Strasbourg,Ligue 1,22.0,1,0,0,0,76,81,1
+Emerson,BRA,Milan,Serie A,26.0,0,0,1,0,12,58,3
+Yunus Emre Konak,TUR,Brentford,Premier League,19.0,1,1,0,0,101,15,2
+Julio Enciso,PAR,Brighton,Premier League,21.0,1,1,0,0,82,17,2
+Wataru Endo,JPN,Liverpool,Premier League,32.0,0,1,0,0,58,51,2
+Endrick,BRA,Real Madrid,La Liga,18.0,1,0,0,0,12,72,0
+Yannik Engelhardt,GER,Como,Serie A,24.0,0,1,1,0,40,21,3
+Arne Engels,BEL,Augsburg,de Bundesliga,21.0,1,1,0,0,8,7,4
+Christian Eriksen,DEN,Manchester Utd,Premier League,33.0,0,1,0,0,27,56,2
+Martin Erlic,CRO,Bologna,Serie A,27.0,0,0,1,0,23,13,3
+Patrick Erras,GER,Holstein Kiel,de Bundesliga,30.0,0,0,1,0,40,38,4
+Alfonso Espino,URU,Rayo Vallecano,La Liga,33.0,0,0,1,0,103,71,0
+Sebastiano Esposito,ITA,Empoli,Serie A,22.0,1,1,0,0,55,25,3
+Romain Esse,ENG,Crystal Palace,Premier League,19.0,0,1,0,0,31,22,2
+Samuel Essende,COD,Augsburg,de Bundesliga,27.0,1,0,0,0,18,7,4
+Dario Essugo,POR,Las Palmas,La Liga,19.0,0,1,0,0,86,42,0
+Nahuel Estévez,ARG,Parma,Serie A,29.0,0,1,0,0,3,69,3
+Pervis Estupiñán,ECU,Brighton,Premier League,27.0,0,0,1,0,29,17,2
+Etienne Eto'o,CMR,Rayo Vallecano,La Liga,22.0,1,0,0,0,17,71,0
+Evanilson,BRA,Bournemouth,Premier League,25.0,1,0,0,0,12,14,2
+Jonny Evans,NIR,Manchester Utd,Premier League,37.0,0,0,1,0,78,56,2
+Edu Expósito,ESP,Espanyol,La Liga,28.0,1,1,0,0,33,26,0
+Eberechi Eze,ENG,Crystal Palace,Premier League,26.0,1,1,0,0,31,22,2
+Abde Ezzalzouli,MAR,Betis,La Liga,23.0,1,1,0,0,67,11,0
+Giovanni Fabbian,ITA,Bologna,Serie A,22.0,0,1,0,0,55,13,3
+Łukasz Fabiański,POL,West Ham,Premier League,39.0,0,0,0,1,85,93,2
+Alieu Fadera,GAM,Como,Serie A,23.0,1,0,1,0,38,21,3
+Wout Faes,BEL,Leicester City,Premier League,26.0,0,0,1,0,8,47,2
+Nicolò Fagioli,ITA,Juventus,Serie A,24.0,0,1,0,0,55,41,3
+Romain Faivre,FRA,Brest,Ligue 1,26.0,1,1,0,0,36,16,1
+Wladimiro Falcone,ITA,Lecce,Serie A,29.0,0,0,0,1,55,45,3
+Davide Faraoni,ITA,Hellas Verona,Serie A,33.0,0,0,1,0,55,36,3
+Abdul Fatawu Issahaku,GHA,Leicester City,Premier League,21.0,1,0,0,0,41,47,2
+Ansu Fati,ESP,Barcelona,La Liga,22.0,1,0,0,0,33,9,0
+Khalil Fayad,FRA,Montpellier,Ligue 1,20.0,1,1,0,0,36,60,1
+Jacopo Fazzini,ITA,Empoli,Serie A,21.0,1,1,0,0,55,25,3
+Peter Federico,DOM,Getafe,La Liga,22.0,1,1,0,0,28,32,0
+Nabil Fekir,FRA,Betis,La Liga,31.0,0,1,0,0,36,11,0
+Mattia Felici,ITA,Cagliari,Serie A,23.0,1,1,0,0,55,18,3
+Luiz Felipe,ITA,Marseille,Ligue 1,27.0,0,0,1,0,55,57,1
+João Félix,POR,Milan,Serie A,25.0,0,1,0,0,86,58,3
+Kiko Femenía,ESP,Villarreal,La Liga,34.0,0,0,1,0,33,91,0
+Evan Ferguson,IRL,Brighton,Premier League,20.0,1,0,0,0,50,17,2
+Lewis Ferguson,SCO,Bologna,Serie A,25.0,0,1,0,0,90,13,3
+Zinedine Ferhat,ALG,Angers,Ligue 1,32.0,1,0,0,0,1,1,1
+Bruno Fernandes,POR,Manchester Utd,Premier League,30.0,0,1,0,0,86,56,2
+Edimilson Fernandes,SUI,Brest,Ligue 1,28.0,0,1,0,0,94,16,1
+Mateus Fernandes,POR,Southampton,Premier League,20.0,0,1,0,0,86,79,2
+Álvaro Fernández,ESP,Sevilla,La Liga,26.0,0,0,0,1,33,78,0
+Enzo Fernández,ARG,Chelsea,Premier League,24.0,0,1,0,0,3,20,2
+Roberto Férnandez,ESP,Espanyol,La Liga,22.0,1,0,0,0,33,26,0
+Valery Fernández,ESP,Mallorca,La Liga,25.0,1,1,0,0,33,54,0
+Matias Fernandez-Pardo,BEL,Lille,Ligue 1,20.0,1,0,0,0,8,50,1
+Jordan Ferri,FRA,Montpellier,Ligue 1,32.0,0,1,0,0,36,60,1
+Daniel Fila,CZE,Venezia,Serie A,22.0,1,0,0,0,26,90,3
+Karol Fila,POL,Strasbourg,Ligue 1,26.0,0,1,0,0,85,81,1
+Kilian Fischer,GER,Wolfsburg,de Bundesliga,24.0,0,0,1,0,40,94,4
+Mark Flekken,NED,Brentford,Premier League,31.0,0,0,0,1,76,15,2
+Mateo Flores,ESP,Betis,La Liga,20.0,0,1,0,0,33,11,0
+Phil Foden,ENG,Manchester City,Premier League,24.0,1,1,0,0,31,55,2
+Malick Fofana,BEL,Lyon,Ligue 1,19.0,1,0,0,0,8,52,1
+Rayan Fofana,FRA,Lens,Ligue 1,19.0,1,1,0,0,36,48,1
+Seko Fofana,CIV,Rennes,Ligue 1,29.0,0,1,0,0,16,75,1
+Wesley Fofana,FRA,Chelsea,Premier League,24.0,0,0,1,0,36,20,2
+Yahia Fofana,CIV,Angers,Ligue 1,24.0,0,0,0,1,16,1,1
+Youssouf Fofana,FRA,Milan,Serie A,26.0,0,1,0,0,36,58,3
+Jonas Föhrenbach,GER,Heidenheim,de Bundesliga,29.0,0,0,1,0,40,35,4
+Michael Folorunsho,ITA,Napoli,Serie A,27.0,1,1,0,0,55,63,3
+Lamine Fomba,FRA,Saint-Étienne,Ligue 1,27.0,0,1,0,0,36,77,1
+Carlos Forbs,POR,Wolves,Premier League,20.0,1,1,0,0,86,95,2
+Pablo Fornals,ESP,Betis,La Liga,29.0,1,1,0,0,33,11,0
+Omari Forson,ENG,Monza,Serie A,20.0,1,1,0,0,31,61,3
+Fraser Forster,ENG,Tottenham,Premier League,36.0,0,0,0,1,31,84,2
+Héctor Fort,ESP,Barcelona,La Liga,18.0,0,0,1,0,33,9,0
+Dimitri Foulquier,FRA,Valencia,La Liga,31.0,0,0,1,0,36,88,0
+Juan Foyth,ARG,Villarreal,La Liga,27.0,0,0,1,0,3,91,0
+Alejandro Francés,ESP,Girona,La Liga,22.0,0,0,1,0,33,33,0
+Przemysław Frankowski,POL,Lens,Ligue 1,29.0,0,0,1,0,85,48,1
+Enric Franquesa,ESP,Leganés,La Liga,28.0,1,0,1,0,33,46,0
+Ryan Fraser,SCO,Southampton,Premier League,31.0,1,0,1,0,90,79,2
+Davide Frattesi,ITA,Inter,Serie A,25.0,0,1,0,0,55,39,3
+Morten Frendrup,DEN,Genoa,Serie A,23.0,0,1,0,0,27,31,3
+Martin Frese,DEN,Hellas Verona,Serie A,27.0,0,0,1,0,27,36,3
+Remo Freuler,SUI,Bologna,Serie A,32.0,0,1,0,0,94,13,3
+Marco Friedl,AUT,Werder Bremen,de Bundesliga,26.0,0,0,1,0,6,92,4
+Marvin Friedrich,GER,Gladbach,de Bundesliga,29.0,0,0,1,0,40,34,4
+Jeremie Frimpong,NED,Leverkusen,de Bundesliga,24.0,0,1,1,0,76,49,4
+Jorge de Frutos,ESP,Rayo Vallecano,La Liga,28.0,1,1,0,0,33,71,0
+Darío Fuentes,ESP,Sevilla,La Liga,22.0,0,0,1,0,33,78,0
+Chris Führich,GER,Stuttgart,de Bundesliga,27.0,1,1,0,0,40,82,4
+Shiō Fukuda,JPN,Gladbach,de Bundesliga,20.0,1,1,0,0,58,34,4
+Angelo Fulgini,FRA,Lens,Ligue 1,28.0,1,1,0,0,36,48,1
+Niclas Füllkrug,GER,West Ham,Premier League,32.0,1,0,0,0,40,93,2
+Kyogo Furuhashi,JPN,Rennes,Ligue 1,30.0,1,0,0,0,58,75,1
+Manuel Fuster,ESP,Las Palmas,La Liga,27.0,1,1,0,0,33,42,0
+Matteo Gabbia,ITA,Milan,Serie A,25.0,0,0,1,0,55,58,3
+Alessandro Gabrielloni,ITA,Como,Serie A,30.0,1,1,0,0,55,21,3
+Gianluca Gaetano,ITA,Cagliari,Serie A,24.0,1,1,0,0,55,18,3
+Roberto Gagliardini,ITA,Monza,Serie A,30.0,0,1,1,0,55,61,3
+Cody Gakpo,NED,Liverpool,Premier League,25.0,1,0,0,0,76,51,2
+Javi Galán,ESP,Atlético Madrid,La Liga,30.0,0,0,1,0,33,6,0
+Iñigo Ruiz de Galarreta,ESP,Athletic Club,La Liga,31.0,0,1,0,0,33,5,0
+Conor Gallagher,ENG,Atlético Madrid,La Liga,25.0,0,1,0,0,31,6,0
+Antonino Gallo,ITA,Lecce,Serie A,25.0,0,0,1,0,55,45,3
+Gauthier Gallon,FRA,Rennes,Ligue 1,31.0,0,0,0,1,36,75,1
+Cristian Gamboa,CRC,Bochum,de Bundesliga,35.0,0,0,1,0,22,12,4
+Idrissa Gana Gueye,SEN,Everton,Premier League,35.0,0,1,0,0,91,27,2
+Ignatius Ganago,CMR,Nantes,Ligue 1,26.0,1,1,0,0,17,62,1
+Silvère Ganvoula M'Boussy,CGO,Monza,Serie A,28.0,1,0,0,0,14,61,3
+Facundo Garcés,ARG,Alavés,La Liga,25.0,0,0,1,0,3,0,0
+Aleix García,ESP,Leverkusen,de Bundesliga,27.0,0,1,0,0,33,49,4
+Álvaro García,ESP,Rayo Vallecano,La Liga,32.0,1,1,0,0,33,71,0
+Andrés García,ESP,Aston Villa,Premier League,22.0,0,1,1,0,33,3,2
+Eric García,ESP,Barcelona,La Liga,24.0,0,1,1,0,33,9,0
+Fran Garcia,ESP,Real Madrid,La Liga,25.0,0,0,1,0,33,72,0
+Joan García,ESP,Espanyol,La Liga,23.0,0,0,0,1,33,26,0
+Pablo Garcia,ESP,Betis,La Liga,18.0,1,0,0,0,33,11,0
+Rubén García,ESP,Osasuna,La Liga,31.0,1,1,0,0,33,67,0
+Ulisses Garcia,SUI,Marseille,Ligue 1,29.0,0,0,1,0,94,57,1
+Alejandro Garnacho,ARG,Manchester Utd,Premier League,20.0,1,1,0,0,3,56,2
+James Garner,ENG,Everton,Premier League,23.0,0,1,1,0,31,27,2
+Yarek Gasiorowski,ESP,Valencia,La Liga,20.0,0,0,1,0,33,88,0
+Federico Gatti,ITA,Juventus,Serie A,26.0,0,0,1,0,55,41,3
+Gavi,ESP,Barcelona,La Liga,20.0,0,1,0,0,33,9,0
+Paulo Gazzaniga,ARG,Girona,La Liga,33.0,0,0,0,1,3,33,0
+Jean-Philippe Gbamin,CIV,Nantes,Ligue 1,29.0,0,1,0,0,16,62,1
+Mory Gbane,CIV,Reims,Ligue 1,24.0,0,1,1,0,16,74,1
+Yann Gboho,FRA,Toulouse,Ligue 1,24.0,1,1,0,0,36,85,1
+David de Gea,ESP,Fiorentina,Serie A,34.0,0,0,0,1,33,28,3
+Viggo Gebel,GER,RB Leipzig,de Bundesliga,17.0,0,1,0,0,40,70,4
+Lutsharel Geertruida,NED,RB Leipzig,de Bundesliga,24.0,0,0,1,0,76,70,4
+Dennis Geiger,GER,Hoffenheim,de Bundesliga,26.0,1,1,0,0,40,37,4
+Valentin Gendrey,FRA,Hoffenheim,de Bundesliga,24.0,0,0,1,0,36,37,4
+Denis Genreau,AUS,Toulouse,Ligue 1,25.0,0,1,0,0,5,85,1
+Tyrique George,ENG,Chelsea,Premier League,19.0,1,0,0,0,31,20,2
+Yannick Gerhardt,GER,Wolfsburg,de Bundesliga,30.0,0,1,1,0,40,94,4
+Max Geschwill,GER,Holstein Kiel,de Bundesliga,23.0,0,0,1,0,40,38,4
+Daniele Ghilardi,ITA,Hellas Verona,Serie A,22.0,0,0,1,0,55,36,3
+Lautaro Gianetti,ARG,Udinese,Serie A,31.0,0,0,1,0,3,86,3
+Dimitris Giannoulis,GRE,Augsburg,de Bundesliga,29.0,0,0,1,0,44,7,4
+Morgan Gibbs-White,ENG,Nott'ham Forest,Premier League,25.0,0,1,0,0,31,66,2
+Samuel Gigot,FRA,Lazio,Serie A,31.0,0,0,1,0,36,43,3
+Armin Gigovic,BIH,Holstein Kiel,de Bundesliga,22.0,0,1,0,0,11,38,4
+Bryan Gil,ESP,Girona,La Liga,24.0,1,1,0,0,33,33,0
+Mario Gila,ESP,Lazio,Serie A,24.0,0,0,1,0,33,43,3
+Billy Gilmour,SCO,Napoli,Serie A,23.0,0,1,0,0,90,63,3
+Benedikt Gimber,GER,Heidenheim,de Bundesliga,28.0,0,0,1,0,40,35,4
+Santiago Giménez,MEX,Milan,Serie A,23.0,1,0,0,0,68,58,3
+Gvidas Gineitis,LTU,Torino,Serie A,20.0,0,1,0,0,64,83,3
+Matthias Ginter,GER,Freiburg,de Bundesliga,31.0,0,0,1,0,40,29,4
+Jamie Gittens,ENG,Dortmund,de Bundesliga,20.0,1,1,0,0,31,23,4
+Serge Gnabry,GER,Bayern Munich,de Bundesliga,29.0,1,1,0,0,40,10,4
+Ben Godfrey,ENG,Atalanta,Serie A,27.0,0,0,1,0,31,4,3
+Martial Godo,ENG,Fulham,Premier League,21.0,1,0,0,0,31,30,2
+Saba Goglichidze,GEO,Empoli,Serie A,20.0,0,0,1,0,39,25,3
+Edoardo Goldaniga,ITA,Como,Serie A,31.0,0,0,1,0,55,21,3
+Pierluigi Gollini,ITA,Genoa,Serie A,29.0,0,0,0,1,55,31,3
+Aleksandr Golovin,RUS,Monaco,Ligue 1,28.0,1,1,0,0,89,59,1
+André Gomes,POR,Lille,Ligue 1,31.0,0,1,0,0,86,50,1
+Angel Gomes,ENG,Lille,Ligue 1,24.0,0,1,0,0,31,50,1
+João Gomes,BRA,Wolves,Premier League,24.0,0,1,0,0,12,95,2
+Rodrigo Gomes,POR,Wolves,Premier League,21.0,1,0,1,0,86,95,2
+Toti Gomes,POR,Wolves,Premier League,26.0,0,0,1,0,86,95,2
+Carlos Gómez,COL,Rennes,Ligue 1,22.0,1,1,0,0,19,75,1
+Dani Gómez,ESP,Valencia,La Liga,26.0,1,0,0,0,33,88,0
+Diego Gómez,PAR,Brighton,Premier League,21.0,0,1,0,0,82,17,2
+Joe Gomez,ENG,Liverpool,Premier League,27.0,0,0,1,0,31,51,2
+Moi Gómez,ESP,Osasuna,La Liga,30.0,1,1,0,0,33,67,0
+Sergi Gómez,ESP,Espanyol,La Liga,32.0,0,0,1,0,33,26,0
+Sergio Gómez,ESP,Real Sociedad,La Liga,24.0,0,1,1,0,33,73,0
+Unai Gómez,ESP,Athletic Club,La Liga,21.0,1,1,0,0,33,5,0
+Tidiam Gomis,FRA,RB Leipzig,de Bundesliga,18.0,0,1,0,0,36,70,4
+Fabio González,ESP,Las Palmas,La Liga,28.0,0,1,0,0,33,42,0
+Nicolás González,ARG,Juventus,Serie A,26.0,1,0,0,0,3,41,3
+Urko González,ESP,Real Sociedad,La Liga,23.0,0,1,0,0,33,73,0
+Anthony Gordon,ENG,Newcastle Utd,Premier League,24.0,1,0,0,0,31,64,2
+Leon Goretzka,GER,Bayern Munich,de Bundesliga,30.0,0,1,0,0,40,10,4
+Mathieu Gorgelin,FRA,Le Havre,Ligue 1,34.0,0,0,0,1,36,44,1
+Andoni Gorosabel,ESP,Athletic Club,La Liga,28.0,0,0,1,0,33,5,0
+Robin Gosens,GER,Union Berlin,de Bundesliga,30.0,0,0,1,0,40,87,4
+Mario Götze,GER,Eint Frankfurt,de Bundesliga,32.0,1,1,0,0,40,24,4
+Amine Gouiri,ALG,Rennes,Ligue 1,25.0,1,1,0,0,1,75,1
+Lucas Gourna-Douath,FRA,Roma,Serie A,21.0,0,1,0,0,36,76,3
+Jeffrey Gouweleeuw,NED,Augsburg,de Bundesliga,33.0,0,0,1,0,76,7,4
+Kamil Grabara,POL,Wolfsburg,de Bundesliga,26.0,0,0,0,1,85,94,4
+Jonathan Gradit,FRA,Lens,Ligue 1,32.0,0,0,1,0,36,48,1
+José Gragera,ESP,Espanyol,La Liga,24.0,0,1,0,0,33,26,0
+Samuel Grandsir,FRA,Le Havre,Ligue 1,28.0,1,1,0,0,36,44,1
+Alberto Grassi,ITA,Empoli,Serie A,30.0,0,1,0,0,55,25,3
+Ryan Gravenberch,NED,Liverpool,Premier League,22.0,0,1,0,0,76,51,2
+Archie Gray,ENG,Tottenham,Premier League,18.0,0,0,1,0,31,84,2
+Jack Grealish,ENG,Manchester City,Premier League,29.0,1,1,0,0,31,55,2
+Jacob Greaves,ENG,Ipswich Town,Premier League,24.0,0,0,1,0,31,40,2
+Mason Greenwood,ENG,Marseille,Ligue 1,23.0,1,1,0,0,31,57,1
+Michael Gregoritsch,AUT,Freiburg,de Bundesliga,30.0,1,0,0,0,6,29,4
+Dominik Greif,SVK,Mallorca,La Liga,27.0,0,0,0,1,96,54,0
+Antoine Griezmann,FRA,Atlético Madrid,La Liga,33.0,1,1,0,0,36,6,0
+Vincenzo Grifo,ITA,Freiburg,de Bundesliga,31.0,1,1,0,0,55,29,4
+Florian Grillitsch,AUT,Hoffenheim,de Bundesliga,29.0,0,1,0,0,6,37,4
+Álex Grimaldo,ESP,Leverkusen,de Bundesliga,29.0,0,0,1,0,33,49,4
+Pascal Groß,GER,Dortmund,de Bundesliga,33.0,0,1,1,0,40,23,4
+Brajan Gruda,GER,Brighton,Premier League,20.0,1,1,0,0,40,17,2
+Marco Grüll,AUT,Werder Bremen,de Bundesliga,26.0,1,1,0,0,6,92,4
+Albert Grønbaek,DEN,Rennes,Ligue 1,23.0,1,1,0,0,27,75,1
+Vicente Guaita,ESP,Celta Vigo,La Liga,38.0,0,0,0,1,33,19,0
+Sergi Guardiola,ESP,Rayo Vallecano,La Liga,33.0,1,0,0,0,33,71,0
+Nemanja Gudelj,SRB,Sevilla,La Liga,33.0,0,1,1,0,93,78,0
+Gabriel Gudmundsson,SWE,Lille,Ligue 1,25.0,0,0,1,0,98,50,1
+Gonçalo Guedes,POR,Wolves,Premier League,28.0,1,1,0,0,86,95,2
+Axel Gueguin,FRA,Montpellier,Ligue 1,19.0,1,0,0,0,36,60,1
+Marc Guéhi,ENG,Crystal Palace,Premier League,24.0,0,0,1,0,31,22,2
+Mattéo Guendouzi,FRA,Lazio,Serie A,25.0,0,1,0,0,36,43,3
+Javier Guerra,ESP,Valencia,La Liga,22.0,0,1,0,0,33,88,0
+Raphaël Guerreiro,POR,Bayern Munich,de Bundesliga,31.0,0,1,1,0,86,10,4
+Evann Guessand,CIV,Nice,Ligue 1,23.0,1,1,0,0,16,65,1
+Ander Guevara,ESP,Alavés,La Liga,27.0,0,1,0,0,33,0,0
+Pape Gueye,SEN,Villarreal,La Liga,26.0,1,1,0,0,91,91,0
+Morgan Guilavogui,GUI,St. Pauli,de Bundesliga,27.0,1,1,0,0,46,80,4
+Frederic Guilbert,FRA,Lecce,Serie A,30.0,0,0,1,0,36,45,3
+Luis Guilherme,BRA,West Ham,Premier League,19.0,1,1,0,0,12,93,2
+Hugo Guillamón,ESP,Valencia,La Liga,25.0,0,1,0,0,33,88,0
+Bruno Guimarães,BRA,Newcastle Utd,Premier League,27.0,0,1,0,0,12,64,2
+Carlos Guirao,ESP,Betis,La Liga,21.0,0,1,0,0,33,11,0
+Bahereba Guirassy,FRA,Nantes,Ligue 1,18.0,1,1,0,0,36,62,1
+Serhou Guirassy,GUI,Dortmund,de Bundesliga,28.0,1,0,0,0,46,23,4
+Marc Guiu,ESP,Chelsea,Premier League,19.0,1,0,0,0,33,20,2
+Péter Gulácsi,HUN,RB Leipzig,de Bundesliga,34.0,0,0,0,1,48,70,4
+Arda Güler,TUR,Real Madrid,La Liga,20.0,1,1,0,0,101,72,0
+Gerard Gumbau,ESP,Rayo Vallecano,La Liga,30.0,0,1,0,0,33,71,0
+Robert Gumny,POL,Augsburg,de Bundesliga,26.0,0,0,1,0,85,7,4
+İlkay Gündoğan,GER,Manchester City,Premier League,34.0,0,1,0,0,40,55,2
+Christian Günter,GER,Freiburg,de Bundesliga,32.0,0,0,1,0,40,29,4
+Jon Guridi,ESP,Alavés,La Liga,30.0,1,1,0,0,33,0,0
+Gorka Guruzeta,ESP,Athletic Club,La Liga,28.0,1,0,0,0,33,5,0
+Malo Gusto,FRA,Chelsea,Premier League,21.0,0,0,1,0,36,20,2
+Miguel Gutiérrez,ESP,Girona,La Liga,23.0,0,1,1,0,33,33,0
+Albert Guðmundsson,ISL,Fiorentina,Serie A,27.0,1,1,0,0,53,28,3
+Joško Gvardiol,CRO,Manchester City,Premier League,23.0,0,0,1,0,23,55,2
+Emmanuel Gyasi,GHA,Empoli,Serie A,31.0,1,0,1,0,41,25,3
+Christian Gytkjær,DEN,Venezia,Serie A,34.0,1,0,0,0,27,90,3
+Erling Haaland,NOR,Manchester City,Premier League,24.0,1,0,0,0,79,55,2
+Nicolas Haas,SUI,Empoli,Serie A,29.0,0,1,0,0,94,25,3
+Janik Haberer,GER,Union Berlin,de Bundesliga,30.0,0,1,1,0,40,87,4
+Robin Hack,GER,Gladbach,de Bundesliga,26.0,1,0,0,0,40,34,4
+Saad El Haddad,MAR,Venezia,Serie A,19.0,0,1,0,0,67,90,3
+Munir El Haddadi,MAR,Leganés,La Liga,29.0,1,1,0,0,67,46,0
+Amadou Haidara,MLI,RB Leipzig,de Bundesliga,27.0,0,1,0,0,70,70,4
+Massadio Haïdara,MLI,Brest,Ligue 1,32.0,0,0,1,0,70,16,1
+Antoine Hainaut,FRA,Parma,Serie A,23.0,0,1,1,0,36,69,3
+Mohamed Haj,TUN,Parma,Serie A,19.0,0,1,0,0,100,69,3
+Achraf Hakimi,MAR,Paris S-G,Ligue 1,26.0,0,0,1,0,67,68,1
+Lewis Hall,ENG,Newcastle Utd,Premier League,20.0,0,0,1,0,31,64,2
+Sébastien Haller,CIV,Leganés,La Liga,30.0,1,0,0,0,16,46,0
+Ali Al Hamadi,IRQ,Ipswich Town,Premier League,23.0,1,0,0,0,52,40,2
+Andreas Hanche-Olsen,NOR,Mainz 05,de Bundesliga,28.0,0,0,1,0,79,53,4
+Florent Hanin,ALG,Angers,Ligue 1,35.0,0,0,1,0,1,1,1
+Ridgeciano Haps,SUR,Venezia,Serie A,31.0,0,0,1,0,95,90,3
+Amine Harit,MAR,Marseille,Ligue 1,27.0,0,1,0,0,67,57,1
+Marcus Harness,ENG,Ipswich Town,Premier League,29.0,0,1,0,0,31,40,2
+Phil Harres,GER,Holstein Kiel,de Bundesliga,22.0,1,0,0,0,40,38,4
+Jack Harrison,ENG,Everton,Premier League,28.0,1,0,0,0,31,27,2
+Abdou Harroui,NED,Hellas Verona,Serie A,27.0,1,1,0,0,76,36,3
+Taylor Harwood-Bellis,ENG,Southampton,Premier League,23.0,0,0,1,0,31,79,2
+Hans Hateboer,NED,Rennes,Ligue 1,31.0,0,0,1,0,76,75,1
+Kjetil Haug,NOR,Toulouse,Ligue 1,26.0,0,0,0,1,79,85,1
+Kai Havertz,GER,Arsenal,Premier League,25.0,1,1,0,0,40,2,2
+Ayden Heaven,ENG,Manchester Utd,Premier League,18.0,0,0,1,0,31,56,2
+Jan Paul van Hecke,NED,Brighton,Premier League,24.0,0,0,1,0,76,17,2
+Hwang Hee-chan,KOR,Wolves,Premier League,29.0,1,1,0,0,60,95,2
+Dean Henderson,ENG,Crystal Palace,Premier League,27.0,0,0,0,1,31,22,2
+Liam Henderson,SCO,Empoli,Serie A,28.0,0,1,0,0,90,25,3
+Ramon Hendriks,NED,Stuttgart,de Bundesliga,23.0,0,0,1,0,76,82,4
+Paul Hennrich,GER,Hoffenheim,de Bundesliga,20.0,0,1,0,0,40,37,4
+Benjamin Henrichs,GER,RB Leipzig,de Bundesliga,28.0,0,0,1,0,40,70,4
+Luis Henrique,BRA,Marseille,Ligue 1,23.0,1,0,1,0,12,57,1
+Rico Henry,ENG,Brentford,Premier League,27.0,0,0,1,0,31,15,2
+Mads Hermansen,DEN,Leicester City,Premier League,24.0,0,0,0,1,27,47,2
+Mario Hermoso,ESP,Leverkusen,de Bundesliga,29.0,0,0,1,0,33,49,4
+Javi Hernández,ESP,Leganés,La Liga,26.0,0,0,1,0,33,46,0
+Aridane Hernández,ESP,Rayo Vallecano,La Liga,35.0,0,0,1,0,33,71,0
+Lucas Hernández,FRA,Paris S-G,Ligue 1,29.0,0,0,1,0,36,68,1
+Theo Hernández,FRA,Milan,Serie A,27.0,0,0,1,0,36,58,3
+Hernani,BRA,Parma,Serie A,30.0,0,1,0,0,12,69,3
+Jorge Herrando,ESP,Osasuna,La Liga,24.0,0,0,1,0,33,67,0
+Ander Herrera,ESP,Athletic Club,La Liga,35.0,0,1,0,0,33,5,0
+Sergio Herrera,ESP,Osasuna,La Liga,31.0,0,0,0,1,33,67,0
+Yangel Herrera,VEN,Girona,La Liga,27.0,0,1,0,0,106,33,0
+Juan Herzog,ESP,Las Palmas,La Liga,21.0,0,0,1,0,33,42,0
+Son Heung-min,KOR,Tottenham,Premier League,32.0,1,0,0,0,60,84,2
+Isak Hien,SWE,Atalanta,Serie A,26.0,0,0,1,0,98,4,3
+Omar El Hilali,MAR,Espanyol,La Liga,21.0,0,0,1,0,67,26,0
+James Hill,ENG,Bournemouth,Premier League,23.0,0,0,1,0,31,14,2
+Piero Hincapié,ECU,Leverkusen,de Bundesliga,23.0,0,0,1,0,29,49,4
+Jack Hinshelwood,ENG,Brighton,Premier League,19.0,0,1,1,0,31,17,2
+George Hirst,ENG,Ipswich Town,Premier League,26.0,1,0,0,0,31,40,2
+Adam Hložek,CZE,Hoffenheim,de Bundesliga,22.0,1,1,0,0,26,37,4
+Ki-Jana Hoever,NED,Auxerre,Ligue 1,23.0,0,0,1,0,76,8,1
+Nicolas Höfler,GER,Freiburg,de Bundesliga,35.0,0,1,0,0,40,29,4
+Jonas Hofmann,GER,Leverkusen,de Bundesliga,32.0,0,1,1,0,40,49,4
+Philipp Hofmann,GER,Bochum,de Bundesliga,31.0,1,0,0,0,40,12,4
+Lucas Höler,GER,Freiburg,de Bundesliga,30.0,1,1,0,0,40,29,4
+Mason Holgate,ENG,Everton,Premier League,28.0,1,0,1,0,31,27,2
+Benedict Hollerbach,GER,Union Berlin,de Bundesliga,23.0,1,1,0,0,40,87,4
+Emil Holm,SWE,Bologna,Serie A,24.0,0,0,1,0,98,13,3
+Lewis Holtby,GER,Holstein Kiel,de Bundesliga,34.0,0,1,0,0,40,38,4
+Gerrit Holtmann,PHI,Bochum,de Bundesliga,29.0,1,0,1,0,84,12,4
+Franck Honorat,FRA,Gladbach,de Bundesliga,28.0,1,0,0,0,36,34,4
+Mathias Honsak,AUT,Heidenheim,de Bundesliga,28.0,1,0,1,0,6,35,4
+Dinko Horkaš,CRO,Las Palmas,La Liga,26.0,0,0,0,1,23,42,0
+Timo Horn,GER,Bochum,de Bundesliga,31.0,0,0,0,1,40,12,4
+Cédric Hountondji,BEN,Angers,Ligue 1,31.0,0,0,1,0,9,1,1
+Ilyes Housni,FRA,Le Havre,Ligue 1,19.0,1,1,0,0,36,44,1
+Lukáš Hrádecký,FIN,Leverkusen,de Bundesliga,35.0,0,0,0,1,35,49,4
+Robin Hranáč,CZE,Hoffenheim,de Bundesliga,25.0,0,0,1,0,26,37,4
+Callum Hudson-Odoi,ENG,Nott'ham Forest,Premier League,24.0,1,1,0,0,31,66,2
+Will Hughes,ENG,Crystal Palace,Premier League,29.0,0,1,0,0,31,22,2
+Dean Huijsen,ESP,Bournemouth,Premier League,19.0,0,0,1,0,33,14,2
+Mats Hummels,GER,Roma,Serie A,36.0,0,0,1,0,40,76,3
+Omari Hutchinson,ENG,Ipswich Town,Premier League,21.0,1,1,0,0,31,40,2
+Elseid Hysaj,ALB,Lazio,Serie A,31.0,0,0,1,0,0,43,3
+Hong Hyunseok,KOR,Mainz 05,de Bundesliga,25.0,0,1,0,0,60,53,4
+Pierre Højbjerg,DEN,Marseille,Ligue 1,29.0,0,1,0,0,27,57,1
+Oscar Højlund,DEN,Eint Frankfurt,de Bundesliga,20.0,0,1,0,0,27,24,4
+Rasmus Højlund,DEN,Manchester Utd,Premier League,22.0,1,0,0,0,27,56,2
+Pablo Ibáñez,ESP,Osasuna,La Liga,26.0,0,1,0,0,33,67,0
+Hafiz Ibrahim,NGA,Reims,Ligue 1,19.0,1,0,0,0,77,74,1
+Arijon Ibrahimović,GER,Bayern Munich,de Bundesliga,19.0,1,0,0,0,40,10,4
+Stanis Idumbo,BEL,Sevilla,La Liga,19.0,1,1,0,0,8,78,0
+Jay Idzes,IDN,Venezia,Serie A,24.0,0,0,1,0,49,90,3
+Iglesias,ESP,Getafe,La Liga,26.0,0,0,1,0,33,32,0
+Borja Iglesias,ESP,Celta Vigo,La Liga,32.0,1,0,0,0,33,19,0
+Igor,BRA,Brighton,Premier League,27.0,0,0,1,0,12,17,2
+Kelechi Iheanacho,NGA,Sevilla,La Liga,28.0,1,0,0,0,77,78,0
+Jonathan Ikone,FRA,Fiorentina,Serie A,26.0,1,1,0,0,36,28,3
+George Ilenikhena,FRA,Monaco,Ligue 1,18.0,1,0,0,0,36,59,1
+Andrej Ilic,SRB,Union Berlin,de Bundesliga,24.0,1,0,0,0,93,87,4
+Ivan Ilić,SRB,Torino,Serie A,23.0,0,1,0,0,93,83,3
+Rareş Ilie,ROU,Nice,Ligue 1,21.0,0,1,0,0,88,65,1
+Samuel Iling-Junior,ENG,Bologna,Serie A,21.0,1,1,0,0,31,13,3
+Danny Ings,ENG,West Ham,Premier League,32.0,1,1,0,0,31,93,2
+Alessio Iovine,ITA,Como,Serie A,34.0,1,0,1,0,55,21,3
+Tim Iroegbunam,ENG,Everton,Premier League,21.0,0,1,0,0,31,27,2
+Jackson Irvine,AUS,St. Pauli,de Bundesliga,32.0,0,1,0,0,5,80,4
+Andy Irving,SCO,West Ham,Premier League,24.0,0,1,0,0,90,93,2
+Alexander Isak,SWE,Newcastle Utd,Premier League,25.0,1,0,0,0,98,64,2
+Gustav Isaksen,DEN,Lazio,Serie A,23.0,1,0,0,0,27,43,3
+Isco,ESP,Betis,La Liga,32.0,0,1,0,0,33,11,0
+Ismaily,BRA,Lille,Ligue 1,35.0,0,0,1,0,12,50,1
+Ardian Ismajli,ALB,Empoli,Serie A,28.0,0,0,1,0,0,25,3
+Yanis Issoufou,FRA,Montpellier,Ligue 1,18.0,1,1,0,0,36,60,1
+Ko Itakura,JPN,Gladbach,de Bundesliga,28.0,0,0,1,0,58,34,4
+Hiroki Ito,JPN,Bayern Munich,de Bundesliga,25.0,0,0,1,0,58,10,4
+Junya Ito,JPN,Reims,Ligue 1,32.0,1,0,0,0,58,74,1
+Marko Ivezić,SRB,Holstein Kiel,de Bundesliga,23.0,0,0,1,0,93,38,4
+Alex Iwobi,NGA,Fulham,Premier League,28.0,1,1,0,0,77,30,2
+Armando Izzo,ITA,Monza,Serie A,33.0,0,0,1,0,55,61,3
+Fellipe Jack,BRA,Como,Serie A,19.0,0,0,1,0,12,21,3
+Nicolas Jackson,SEN,Chelsea,Premier League,23.0,1,0,0,0,91,20,2
+Jérémy Jacquet,FRA,Rennes,Ligue 1,19.0,0,0,1,0,36,75,1
+Lee Jae-sung,KOR,Mainz 05,de Bundesliga,32.0,0,1,0,0,60,53,4
+Ivan Jaime Pajuelo,ESP,Valencia,La Liga,24.0,0,1,0,0,33,88,0
+Kristijan Jakić,CRO,Augsburg,de Bundesliga,27.0,0,1,0,0,23,7,4
+Karl Jakob Hein,EST,Valladolid,La Liga,22.0,0,0,0,1,34,89,0
+Ismail Jakobs,SEN,Monaco,Ligue 1,25.0,0,0,1,0,91,59,1
+Jordan James,WAL,Rennes,Ligue 1,20.0,0,1,0,0,107,75,1
+Reece James,ENG,Chelsea,Premier League,25.0,0,1,1,0,31,20,2
+Vitaly Janelt,GER,Brentford,Premier League,26.0,0,1,0,0,40,15,2
+Adnan Januzaj,BEL,Las Palmas,La Liga,30.0,1,1,0,0,8,42,0
+Vitezslav Jaros,CZE,Liverpool,Premier League,23.0,0,0,0,1,26,51,2
+Ali Jasim,IRQ,Como,Serie A,21.0,1,0,1,0,52,21,3
+Mikel Jauregizar,ESP,Athletic Club,La Liga,21.0,0,1,0,0,33,5,0
+Dominik Javorček,SVK,Holstein Kiel,de Bundesliga,22.0,0,1,1,0,96,38,4
+Gaby Jean,FRA,Lecce,Serie A,25.0,0,0,1,0,36,45,3
+Daniel Jebbison,ENG,Bournemouth,Premier League,21.0,1,0,0,0,31,14,2
+Finn Jeltsch,GER,Stuttgart,de Bundesliga,18.0,0,0,1,0,40,82,4
+Malcolm Jeng,SWE,Reims,Ligue 1,20.0,0,0,1,0,98,74,1
+Fredrik Jensen,FIN,Augsburg,de Bundesliga,27.0,0,1,0,0,35,7,4
+Mathias Jensen,DEN,Brentford,Premier League,29.0,0,1,0,0,27,15,2
+Moritz Jenz,GER,Mainz 05,de Bundesliga,25.0,0,0,1,0,40,53,4
+Gabriel Jesus,BRA,Arsenal,Premier League,27.0,1,0,0,0,12,2,2
+Juan Jesus,BRA,Napoli,Serie A,33.0,0,0,1,0,12,63,3
+Alejandro Jiménez,ESP,Milan,Serie A,19.0,1,0,1,0,33,58,3
+Raúl Jiménez,MEX,Fulham,Premier League,33.0,1,0,0,0,68,30,2
+Kim Jisoo,KOR,Brentford,Premier League,20.0,0,0,1,0,60,15,2
+João Pedro,BRA,Brighton,Premier League,23.0,1,1,0,0,12,17,2
+John Joe,IRL,Reims,Ligue 1,21.0,0,1,0,0,50,74,1
+Joelinton,BRA,Newcastle Utd,Premier League,28.0,1,1,0,0,12,64,2
+Jofre,ESP,Espanyol,La Liga,23.0,1,1,0,0,33,26,0
+Þórir Jóhann Helgason,ISL,Lecce,Serie A,24.0,0,1,0,0,53,45,3
+Carl Johansson,SWE,Holstein Kiel,de Bundesliga,30.0,0,0,1,0,98,38,4
+Ben Johnson,ENG,Ipswich Town,Premier League,25.0,1,0,1,0,31,40,2
+Brennan Johnson,WAL,Tottenham,Premier League,23.0,1,0,0,0,107,84,2
+Karl-Johan Johnsson,SWE,Strasbourg,Ligue 1,35.0,0,0,0,1,98,81,1
+Sam Johnstone,ENG,Wolves,Premier League,31.0,0,0,0,1,31,95,2
+Paul Joly,FRA,Auxerre,Ligue 1,24.0,0,0,1,0,36,8,1
+Curtis Jones,ENG,Liverpool,Premier League,24.0,1,1,0,0,31,51,2
+Frenkie de Jong,NED,Barcelona,La Liga,27.0,0,1,0,0,76,9,0
+Joan Jordán,ESP,Alavés,La Liga,30.0,0,1,0,0,33,0,0
+Jorginho,ITA,Arsenal,Premier League,33.0,0,1,0,0,55,2,2
+Jesse Joronen,FIN,Venezia,Serie A,31.0,0,0,0,1,35,90,3
+Jota,POR,Rennes,Ligue 1,25.0,1,1,0,0,86,75,1
+Diogo Jota,POR,Liverpool,Premier League,28.0,1,0,0,0,86,51,2
+Antoine Joujou,FRA,Le Havre,Ligue 1,21.0,1,1,0,0,36,44,1
+Luka Jović,SRB,Milan,Serie A,27.0,1,0,0,0,93,58,3
+Juanmi,ESP,Betis,La Liga,31.0,1,1,0,0,33,11,0
+Juanpe,ESP,Girona,La Liga,33.0,0,0,1,0,33,33,0
+Jubal,BRA,Auxerre,Ligue 1,31.0,0,0,1,0,12,8,1
+Anthony Jung,GER,Werder Bremen,de Bundesliga,33.0,0,0,1,0,40,92,4
+Luiz Lúcio Reis Júnior,BRA,Villarreal,La Liga,24.0,0,0,0,1,12,91,0
+Hamed Junior Traorè,CIV,Auxerre,Ligue 1,25.0,0,1,0,0,16,8,1
+Vinicius Júnior,BRA,Real Madrid,La Liga,24.0,1,0,0,0,12,72,0
+Josip Juranović,CRO,Union Berlin,de Bundesliga,29.0,0,1,1,0,23,87,4
+David Jurásek,CZE,Hoffenheim,de Bundesliga,24.0,0,0,1,0,26,37,4
+Stanko Jurić,CRO,Valladolid,La Liga,28.0,0,1,0,0,23,89,0
+James Justin,ENG,Leicester City,Premier League,27.0,0,0,1,0,31,47,2
+Filip Jørgensen,DEN,Chelsea,Premier League,22.0,0,0,0,1,27,20,2
+Mohamed Kaba,FRA,Lecce,Serie A,23.0,0,1,0,0,36,45,3
+Yusuf Kabadayı,GER,Augsburg,de Bundesliga,21.0,1,1,0,0,40,7,4
+Almugera Kabar,GER,Dortmund,de Bundesliga,18.0,0,0,1,0,40,23,4
+Christian Kabasele,BEL,Udinese,Serie A,34.0,0,0,1,0,8,86,3
+Issa Kaboré,BFA,Werder Bremen,de Bundesliga,23.0,1,0,1,0,10,92,4
+Yaya Kader Fofana,MLI,Reims,Ligue 1,20.0,1,1,0,0,70,74,1
+Pavel Kadeřábek,CZE,Hoffenheim,de Bundesliga,32.0,0,0,1,0,26,37,4
+Tino Kadewere,ZIM,Nantes,Ligue 1,29.0,1,1,0,0,109,62,1
+Ferdi Kadioglu,TUR,Brighton,Premier League,25.0,0,1,1,0,101,17,2
+Arnaud Kalimuendo,FRA,Rennes,Ligue 1,23.0,1,0,0,0,36,75,1
+Pierre Kalulu,FRA,Juventus,Serie A,24.0,0,0,1,0,36,41,3
+Justin-Noël Kalumba,FRA,Angers,Ligue 1,20.0,1,1,0,0,36,1,1
+Daichi Kamada,JPN,Crystal Palace,Premier League,28.0,0,1,0,0,58,22,2
+Waren Kamanzi,NOR,Toulouse,Ligue 1,24.0,0,1,1,0,79,85,1
+Boubacar Kamara,FRA,Aston Villa,Premier League,25.0,0,1,0,0,36,3,2
+Glen Kamara,FIN,Rennes,Ligue 1,29.0,0,1,0,0,35,75,1
+Hassane Kamara,CIV,Udinese,Serie A,31.0,0,0,1,0,16,86,3
+Willy Kambwala,FRA,Villarreal,La Liga,20.0,0,0,1,0,36,91,0
+Jakub Kamiński,POL,Wolfsburg,de Bundesliga,22.0,0,1,1,0,85,94,4
+Kevin Kampl,SVN,RB Leipzig,de Bundesliga,34.0,0,1,0,0,97,70,4
+Nordine Kandil,FRA,Strasbourg,Ligue 1,23.0,0,1,0,0,36,81,1
+Harry Kane,ENG,Bayern Munich,de Bundesliga,31.0,1,0,0,0,31,10,4
+Lee Kang-in,KOR,Paris S-G,Ligue 1,24.0,1,1,0,0,60,68,1
+Yann Karamoh,FRA,Torino,Serie A,26.0,1,1,0,0,36,83,3
+Atakan Karazor,,Stuttgart,de Bundesliga,28.0,0,1,0,0,110,82,4
+Jesper Karlsson,SWE,Lecce,Serie A,26.0,1,0,0,0,98,45,3
+Jesper Karlström,SWE,Udinese,Serie A,29.0,0,1,0,0,98,86,3
+Lior Kasa,ISR,Genoa,Serie A,19.0,1,1,0,0,54,31,3
+Grigoris Kastanos,CYP,Hellas Verona,Serie A,27.0,1,1,0,0,25,36,3
+Mikkel Kaufmann,DEN,Heidenheim,de Bundesliga,24.0,1,0,0,0,27,35,4
+Michael Kayode,ITA,Fiorentina,Serie A,20.0,1,0,1,0,55,28,3
+Moise Kean,ITA,Fiorentina,Serie A,25.0,1,0,0,0,55,28,3
+Michael Keane,ENG,Everton,Premier League,32.0,0,0,1,0,31,27,2
+Yassine Kechta,MAR,Le Havre,Ligue 1,23.0,1,1,0,0,67,44,1
+Thilo Kehrer,GER,Monaco,Ligue 1,28.0,0,0,1,0,40,59,1
+Abdoulaye Keita,ESP,Getafe,La Liga,22.0,1,1,0,0,33,32,0
+Mandela Keita,BEL,Parma,Serie A,22.0,0,1,0,0,8,69,3
+Yannik Keitel,GER,Stuttgart,de Bundesliga,25.0,0,1,0,0,40,82,4
+Andu Kelati,GER,Holstein Kiel,de Bundesliga,22.0,0,1,1,0,40,38,4
+Caoimhín Kelleher,IRL,Liverpool,Premier League,26.0,0,0,0,1,50,51,2
+Thomas Keller,GER,Heidenheim,de Bundesliga,25.0,0,1,1,0,40,35,4
+Lloyd Kelly,ENG,Juventus,Serie A,26.0,0,0,1,0,31,41,3
+Aljoscha Kemlein,GER,Union Berlin,de Bundesliga,20.0,0,1,0,0,40,87,4
+Marc-Oliver Kempf,GER,Como,Serie A,30.0,0,0,1,0,40,21,3
+Kenedy,BRA,Valladolid,La Liga,29.0,1,1,0,0,12,89,0
+Luca Kerber,GER,Heidenheim,de Bundesliga,23.0,0,1,0,0,40,35,4
+Milos Kerkez,HUN,Bournemouth,Premier League,21.0,0,0,1,0,48,14,2
+Reda Khadra,GER,Reims,Ligue 1,23.0,1,1,0,0,40,74,1
+Bilal El Khannouss,MAR,Leicester City,Premier League,20.0,0,1,0,0,67,47,2
+Wahbi Khazri,TUN,Montpellier,Ligue 1,34.0,1,1,0,0,100,60,1
+Rani Khedira,GER,Union Berlin,de Bundesliga,31.0,0,1,0,0,40,87,4
+Abdukodir Khusanov,UZB,Lens,Ligue 1,21.0,0,0,1,0,105,48,1
+Kialonda,ANG,Lecce,Serie A,27.0,0,0,1,0,2,45,3
+Kiké,ESP,Alavés,La Liga,35.0,1,0,0,0,33,0,0
+Max Kilman,ENG,West Ham,Premier League,27.0,0,0,1,0,31,93,2
+Joshua Kimmich,GER,Bayern Munich,de Bundesliga,30.0,0,1,0,0,40,10,4
+Joshua King,NOR,Toulouse,Ligue 1,33.0,1,1,0,0,79,85,1
+Antonín Kinský,CZE,Tottenham,Premier League,21.0,0,0,0,1,26,84,2
+Cédric Kipré,CIV,Reims,Ligue 1,28.0,0,0,1,0,16,74,1
+Jakub Kiwior,POL,Arsenal,Premier League,25.0,0,0,1,0,85,2,2
+Tim Kleindienst,GER,Gladbach,de Bundesliga,29.0,1,0,0,0,40,34,4
+Lukas Klostermann,GER,RB Leipzig,de Bundesliga,28.0,0,0,1,0,40,70,4
+Justin Kluivert,NED,Bournemouth,Premier League,25.0,1,1,0,0,76,14,2
+Ansgar Knauff,GER,Eint Frankfurt,de Bundesliga,23.0,0,1,1,0,40,24,4
+Magnus Knudsen,NOR,Holstein Kiel,de Bundesliga,23.0,0,1,0,0,79,38,4
+Gregor Kobel,SUI,Dortmund,de Bundesliga,27.0,0,0,0,1,94,23,4
+Robin Koch,GER,Eint Frankfurt,de Bundesliga,28.0,0,0,1,0,40,24,4
+Hervé Koffi,BFA,Lens,Ligue 1,28.0,0,0,0,1,10,48,1
+Magnus Kofod Andersen,DEN,Venezia,Serie A,25.0,0,1,0,0,27,90,3
+Derrick Köhn,GER,Werder Bremen,de Bundesliga,26.0,1,0,1,0,40,92,4
+Philipp Köhn,SUI,Monaco,Ligue 1,26.0,0,0,0,1,94,59,1
+Dominik Kohr,GER,Mainz 05,de Bundesliga,31.0,0,1,1,0,40,53,4
+Koka,EGY,Le Havre,Ligue 1,32.0,1,0,0,0,30,44,1
+Koke,ESP,Atlético Madrid,La Liga,33.0,0,1,0,0,33,6,0
+Sead Kolašinac,BIH,Atalanta,Serie A,31.0,0,0,1,0,11,4,3
+Randal Kolo Muani,FRA,Paris S-G,Ligue 1,26.0,1,0,0,0,36,68,1
+Marco Komenda,CRO,Holstein Kiel,de Bundesliga,28.0,0,0,1,0,23,38,4
+Mert Kömür,GER,Augsburg,de Bundesliga,19.0,0,1,0,0,40,7,4
+Ibrahima Konaté,FRA,Liverpool,Premier League,25.0,0,0,1,0,36,51,2
+Ismael Konate,CIV,Empoli,Serie A,18.0,1,1,0,0,16,25,3
+Geoffrey Kondogbia,CTA,Marseille,Ligue 1,32.0,0,1,1,0,24,57,1
+Abdoul Koné,FRA,Reims,Ligue 1,19.0,0,0,1,0,36,74,1
+Amadou Koné,MLI,Reims,Ligue 1,19.0,0,1,0,0,70,74,1
+Ismaël Koné,CAN,Rennes,Ligue 1,22.0,0,1,0,0,13,75,1
+Manu Koné,FRA,Roma,Serie A,23.0,0,1,0,0,36,76,3
+Ezri Konsa,ENG,Aston Villa,Premier League,27.0,0,0,1,0,31,3,2
+Teun Koopmeiners,NED,Juventus,Serie A,27.0,1,1,0,0,76,41,3
+Odilon Kossounou,CIV,Atalanta,Serie A,24.0,0,0,1,0,16,4,3
+Christian Kouamé,CIV,Empoli,Serie A,27.0,1,1,0,0,16,25,3
+Henri Koudossou,GER,Augsburg,de Bundesliga,25.0,0,0,1,0,40,7,4
+Konstantinos Koulierakis,GRE,Wolfsburg,de Bundesliga,21.0,0,0,1,0,44,94,4
+Emmanuel Koum Mbondo,FRA,Marseille,Ligue 1,19.0,0,0,1,0,36,57,1
+Jules Koundé,FRA,Barcelona,La Liga,26.0,0,0,1,0,36,9,0
+Boubakar Kouyaté,MLI,Montpellier,Ligue 1,27.0,0,0,1,0,70,60,1
+Mateo Kovačić,CRO,Manchester City,Premier League,30.0,0,1,0,0,23,55,2
+Viktor Kovalenko,UKR,Empoli,Serie A,29.0,0,1,1,0,102,25,3
+Matej Kovar,CZE,Leverkusen,de Bundesliga,24.0,0,0,0,1,26,49,4
+Mateusz Kowalski,POL,Parma,Serie A,19.0,0,1,0,0,85,69,3
+Goduine Koyalipou,CTA,Lens,Ligue 1,25.0,1,0,0,0,24,48,1
+Caleb Kporha,ENG,Crystal Palace,Premier League,18.0,0,0,1,0,31,22,2
+Emil Krafth,SWE,Newcastle Utd,Premier League,30.0,0,0,1,0,98,64,2
+Alex Král,CZE,Espanyol,La Liga,26.0,0,1,0,0,26,26,0
+Andrej Kramarić,CRO,Hoffenheim,de Bundesliga,33.0,1,1,0,0,23,37,4
+Frans Krätzig,GER,Stuttgart,de Bundesliga,22.0,0,0,1,0,40,82,4
+Tom Krauß,GER,Bochum,de Bundesliga,23.0,0,1,0,0,40,12,4
+Ladislav Krejčí,CZE,Girona,La Liga,25.0,0,0,1,0,26,33,0
+Rasmus Kristensen,DEN,Eint Frankfurt,de Bundesliga,27.0,0,0,1,0,27,24,4
+Thomas Kristensen,DEN,Udinese,Serie A,23.0,0,0,1,0,27,86,3
+Nikola Krstović,MNE,Lecce,Serie A,24.0,1,0,0,0,72,45,3
+Lukas Kübler,GER,Freiburg,de Bundesliga,32.0,0,0,1,0,40,29,4
+Takefusa Kubo,JPN,Real Sociedad,La Liga,23.0,1,1,0,0,58,73,0
+Mohammed Kudus,GHA,West Ham,Premier League,24.0,1,1,0,0,41,93,2
+Dejan Kulusevski,SWE,Tottenham,Premier League,24.0,1,1,0,0,98,84,2
+Sael Kumbedi,FRA,Lyon,Ligue 1,19.0,0,0,1,0,36,52,1
+Marash Kumbulla,ALB,Espanyol,La Liga,25.0,0,0,1,0,0,26,0
+Daler Kuzyaev,RUS,Le Havre,Ligue 1,32.0,0,1,0,0,89,44,1
+Khvicha Kvaratskhelia,GEO,Paris S-G,Ligue 1,24.0,1,0,0,0,39,68,1
+Moritz-Broni Kwarteng,GHA,Bochum,de Bundesliga,26.0,1,1,0,0,41,12,4
+Giorgos Kyriakopoulos,GRE,Monza,Serie A,29.0,0,0,1,0,44,61,3
+Luca de la Torre,USA,Celta Vigo,La Liga,26.0,0,1,0,0,104,19,0
+Rémy Labeau Lascary,GLP,Lens,Ligue 1,22.0,1,1,0,0,42,48,1
+Gaëtan Laborde,FRA,Nice,Ligue 1,30.0,1,0,0,0,36,65,1
+Nediljko Labrović,CRO,Augsburg,de Bundesliga,25.0,0,0,0,1,23,7,4
+Alexandre Lacazette,FRA,Lyon,Ligue 1,33.0,1,0,0,0,36,52,1
+Younes Lachaab,FRA,Lille,Ligue 1,20.0,1,1,0,0,36,50,1
+Maxence Lacroix,FRA,Crystal Palace,Premier League,24.0,0,0,1,0,36,22,2
+Alban Lafont,FRA,Nantes,Ligue 1,26.0,0,0,0,1,36,62,1
+Yoel Lago,ESP,Celta Vigo,La Liga,20.0,0,0,1,0,33,19,0
+Konrad Laimer,AUT,Bayern Munich,de Bundesliga,27.0,0,0,1,0,6,10,4
+Stefan Lainer,AUT,Gladbach,de Bundesliga,32.0,0,0,1,0,6,34,4
+Kenny Lala,MAD,Brest,Ligue 1,33.0,0,0,1,0,66,16,1
+Adam Lallana,ENG,Southampton,Premier League,36.0,0,1,0,0,31,79,2
+Mathis Lambourde,FRA,Hellas Verona,Serie A,19.0,1,1,0,0,36,36,3
+Mohamed Lamine Bayo,GUI,Lille,Ligue 1,26.0,1,0,0,0,46,50,1
+Tariq Lamptey,GHA,Brighton,Premier League,24.0,0,0,1,0,41,17,2
+Will Lankshear,ENG,Tottenham,Premier League,19.0,1,1,0,0,31,84,2
+Gianluca Lapadula,PER,Cagliari,Serie A,35.0,1,1,0,0,83,18,3
+Cyle Larin,CAN,Mallorca,La Liga,29.0,1,0,0,0,13,54,0
+Gautier Larsonneur,FRA,Saint-Étienne,Ligue 1,28.0,0,0,0,1,36,77,1
+Hugo Larsson,SWE,Eint Frankfurt,de Bundesliga,20.0,0,1,0,0,98,24,4
+Juanmi Latasa,ESP,Valladolid,La Liga,23.0,1,0,0,0,33,89,0
+Toni Lato,ESP,Mallorca,La Liga,27.0,0,0,1,0,33,54,0
+Roméo Lavia,BEL,Chelsea,Premier League,21.0,0,1,0,0,8,20,2
+Valentino Lazaro,AUT,Torino,Serie A,28.0,1,0,1,0,6,83,3
+Darko Lazović,SRB,Hellas Verona,Serie A,34.0,1,0,1,0,93,36,3
+Manuel Lazzari,ITA,Lazio,Serie A,31.0,0,0,1,0,55,43,3
+Julien Le Cardinal,FRA,Brest,Ligue 1,27.0,0,0,1,0,36,16,1
+Jérémy Le Douaron,FRA,Brest,Ligue 1,26.0,1,0,0,0,36,16,1
+Enzo Le Fée,FRA,Roma,Serie A,25.0,0,1,0,0,36,76,3
+Robin Le Normand,ESP,Atlético Madrid,La Liga,28.0,0,0,1,0,33,6,0
+Nicola Leali,ITA,Genoa,Serie A,32.0,0,0,0,1,55,31,3
+Rafael Leão,POR,Milan,Serie A,25.0,1,0,0,0,86,58,3
+Benjamin Lecomte,FRA,Montpellier,Ligue 1,33.0,0,0,0,1,36,60,1
+Pierre Lees-Melou,FRA,Brest,Ligue 1,31.0,0,1,0,0,36,16,1
+Jordan Lefort,FRA,Angers,Ligue 1,31.0,0,0,1,0,36,1,1
+Diogo Leite,POR,Union Berlin,de Bundesliga,26.0,0,0,1,0,86,87,4
+Maxim Leitsch,GER,Mainz 05,de Bundesliga,26.0,0,0,1,0,40,53,4
+Florian Lejeune,FRA,Rayo Vallecano,La Liga,33.0,0,0,1,0,36,71,0
+Stefan Lekovic,SRB,Monza,Serie A,21.0,0,0,1,0,93,61,3
+Iñigo Lekue,ESP,Athletic Club,La Liga,31.0,0,0,1,0,33,5,0
+Nunzio Lella,ITA,Venezia,Serie A,24.0,0,1,0,0,55,90,3
+Thomas Lemar,FRA,Atlético Madrid,La Liga,29.0,0,1,0,0,36,6,0
+Félix Lemaréchal,FRA,Strasbourg,Ligue 1,21.0,1,1,0,0,36,81,1
+Mario Lemina,GAB,Wolves,Premier League,31.0,0,1,1,0,37,95,2
+Clément Lenglet,FRA,Atlético Madrid,La Liga,29.0,0,0,1,0,36,6,0
+Bernd Leno,GER,Fulham,Premier League,33.0,0,0,0,1,40,30,2
+Donovan Léon,GUF,Auxerre,Ligue 1,32.0,0,0,0,1,45,8,1
+Giovanni Leoni,ITA,Parma,Serie A,18.0,0,0,1,0,55,69,3
+Esteban Lepaul,FRA,Angers,Ligue 1,24.0,1,0,0,0,36,1,1
+Johann Lepenant,FRA,Nantes,Ligue 1,22.0,0,1,0,0,36,62,1
+Jefferson Lerma,COL,Crystal Palace,Premier League,30.0,0,1,0,0,19,22,2
+Louis Leroux,FRA,Nantes,Ligue 1,19.0,0,1,1,0,36,62,1
+Robert Lewandowski,POL,Barcelona,La Liga,36.0,1,0,0,0,85,9,0
+Jamie Leweling,GER,Stuttgart,de Bundesliga,24.0,1,1,0,0,40,82,4
+Rico Lewis,ENG,Manchester City,Premier League,20.0,0,1,1,0,31,55,2
+Keane Lewis-Potter,ENG,Brentford,Premier League,24.0,1,0,1,0,31,15,2
+Myles Lewis-Skelly,ENG,Arsenal,Premier League,18.0,0,0,1,0,31,2,2
+Ben Lhassine Kone,CIV,Como,Serie A,24.0,0,1,0,0,16,21,3
+Mattia Liberali,ITA,Milan,Serie A,17.0,0,1,0,0,55,58,3
+Philipp Lienhart,AUT,Freiburg,de Bundesliga,28.0,0,0,1,0,6,29,4
+Matthijs de Ligt,NED,Manchester Utd,Premier League,25.0,0,0,1,0,76,56,2
+Pedro Lima,BRA,Wolves,Premier League,18.0,0,0,1,0,12,95,2
+Victor Lindelöf,SWE,Manchester Utd,Premier League,30.0,0,0,1,0,98,56,2
+Jesper Lindstrøm,DEN,Everton,Premier League,25.0,1,0,0,0,27,27,2
+Karol Linetty,POL,Torino,Serie A,30.0,0,1,0,0,85,83,3
+Samuel Lino,BRA,Atlético Madrid,La Liga,25.0,0,1,1,0,12,6,0
+Pol Lirola,ESP,Marseille,Ligue 1,27.0,0,0,1,0,33,57,1
+Dailon Livramento,CPV,Hellas Verona,Serie A,23.0,1,1,0,0,21,36,3
+Valentino Livramento,ENG,Newcastle Utd,Premier League,22.0,0,0,1,0,31,64,2
+Marin Ljubicic,CRO,Union Berlin,de Bundesliga,23.0,1,1,0,0,23,87,4
+Javier Llabrés,ESP,Mallorca,La Liga,22.0,1,0,0,0,33,54,0
+Diego Llorente,ESP,Betis,La Liga,31.0,0,0,1,0,33,11,0
+Marcos Llorente,ESP,Atlético Madrid,La Liga,30.0,0,1,1,0,33,6,0
+Gautier Lloris,FRA,Le Havre,Ligue 1,29.0,0,0,1,0,36,44,1
+Giovani Lo Celso,ARG,Betis,La Liga,28.0,1,1,0,0,3,11,0
+Stanislav Lobotka,SVK,Napoli,Serie A,30.0,0,1,0,0,96,63,3
+Manuel Locatelli,ITA,Juventus,Serie A,27.0,0,1,0,0,55,41,3
+Ruben Loftus-Cheek,ENG,Milan,Serie A,29.0,0,1,0,0,31,58,3
+Elysée Logbo,FRA,Le Havre,Ligue 1,20.0,1,0,0,0,36,44,1
+Enzo Loiodice,FRA,Las Palmas,La Liga,24.0,0,1,0,0,36,42,0
+Sean Longstaff,ENG,Newcastle Utd,Premier League,27.0,0,1,0,0,31,64,2
+Ademola Lookman,NGA,Atalanta,Serie A,27.0,1,1,0,0,77,4,3
+Anthony Lopes,POR,Nantes,Ligue 1,34.0,0,0,0,1,86,62,1
+David López,ESP,Girona,La Liga,35.0,0,0,1,0,33,33,0
+Diego López,ESP,Valencia,La Liga,22.0,1,1,0,0,33,88,0
+Fer López,,Celta Vigo,La Liga,,1,1,0,0,110,19,0
+Fermin López,ESP,Barcelona,La Liga,21.0,1,1,0,0,33,9,0
+Javi López,ESP,Real Sociedad,La Liga,22.0,0,0,1,0,33,73,0
+Pau López,ESP,Girona,La Liga,30.0,0,0,0,1,33,33,0
+Roberto López,ESP,Leganés,La Liga,24.0,0,1,0,0,33,46,0
+Unai López,ESP,Rayo Vallecano,La Liga,29.0,0,1,0,0,33,71,0
+Iker Losada,ESP,Betis,La Liga,23.0,1,1,0,0,33,11,0
+Anthony Losilla,FRA,Bochum,de Bundesliga,39.0,0,1,0,0,36,12,4
+Jordan Lotomba,SUI,Nice,Ligue 1,26.0,0,1,1,0,94,65,1
+Tom Louchet,FRA,Nice,Ligue 1,21.0,0,1,1,0,36,65,1
+Sandi Lovrić,SVN,Udinese,Serie A,26.0,0,1,0,0,97,86,3
+Pol Lozano,ESP,Espanyol,La Liga,25.0,0,1,0,0,33,26,0
+Lorenzo Lucca,ITA,Udinese,Serie A,24.0,1,0,0,0,55,86,3
+Jhon Lucumí,COL,Bologna,Serie A,26.0,0,0,1,0,19,13,3
+Yannik Lührs,GER,Dortmund,de Bundesliga,21.0,0,0,1,0,40,23,4
+José Luis Gayà,ESP,Valencia,La Liga,29.0,0,0,1,0,33,88,0
+José Luis Palomino,ARG,Cagliari,Serie A,35.0,0,0,1,0,3,18,3
+Douglas Luiz,BRA,Juventus,Serie A,26.0,0,1,0,0,12,41,3
+Romelu Lukaku,BEL,Napoli,Serie A,31.0,1,0,0,0,8,63,3
+Castello Lukeba,FRA,RB Leipzig,de Bundesliga,22.0,0,0,1,0,36,70,4
+Dodi Lukebakio,BEL,Sevilla,La Liga,27.0,1,0,0,0,8,78,0
+Saša Lukić,SRB,Fulham,Premier League,28.0,0,1,0,0,93,30,2
+Milos Lukovic,SRB,Strasbourg,Ligue 1,19.0,1,1,0,0,93,81,1
+Joe Lumley,ENG,Southampton,Premier League,30.0,0,0,0,1,31,79,2
+Daniel Luna,COL,Mallorca,La Liga,21.0,0,1,0,0,19,54,0
+Andriy Lunin,UKR,Real Madrid,La Liga,26.0,0,0,0,1,102,72,0
+Massimo Luongo,AUS,Ipswich Town,Premier League,32.0,0,1,0,0,5,40,2
+Sebastiano Luperto,ITA,Cagliari,Serie A,28.0,0,0,1,0,55,18,3
+Zito Luvumbo,ANG,Cagliari,Serie A,23.0,1,1,0,0,2,18,3
+Charalambos Lykogiannis,GRE,Bologna,Serie A,31.0,0,0,1,0,44,13,3
+Senne Lynen,BEL,Werder Bremen,de Bundesliga,26.0,0,1,0,0,8,92,4
+Mathias Løvik,NOR,Parma,Serie A,21.0,1,0,1,0,79,69,3
+Othmane Maamma,MAR,Montpellier,Ligue 1,19.0,1,1,0,0,67,60,1
+Ian Maatsen,NED,Aston Villa,Premier League,23.0,0,0,1,0,76,3,2
+Alexis Mac Allister,ARG,Liverpool,Premier League,26.0,0,1,0,0,3,51,2
+Deiver Machado,COL,Lens,Ligue 1,31.0,0,0,1,0,19,48,1
+Shuto Machino,JPN,Holstein Kiel,de Bundesliga,25.0,1,1,0,0,58,38,4
+Darwin Machís,VEN,Valladolid,La Liga,32.0,1,1,0,0,106,89,0
+Yvann Macon,FRA,Saint-Étienne,Ligue 1,26.0,0,0,1,0,36,77,1
+James Maddison,ENG,Tottenham,Premier League,28.0,0,1,0,0,31,84,2
+Eros Maddy,NED,Auxerre,Ligue 1,24.0,0,0,1,0,76,8,1
+Noni Madueke,ENG,Chelsea,Premier League,23.0,1,0,0,0,31,20,2
+Pablo Maffeo,ESP,Mallorca,La Liga,27.0,0,0,1,0,33,54,0
+Gabriel Magalhães,BRA,Arsenal,Premier League,27.0,0,0,1,0,12,2,2
+Soungoutou Magassa,FRA,Monaco,Ligue 1,21.0,0,1,0,0,36,59,1
+Edmond-Paris Maghoma,ENG,Brentford,Premier League,23.0,1,1,0,0,31,15,2
+Giangiacomo Magnani,ITA,Hellas Verona,Serie A,29.0,0,0,1,0,55,36,3
+Hugo Magnetti,FRA,Brest,Ligue 1,26.0,0,1,0,0,36,16,1
+Frank Magri,CMR,Toulouse,Ligue 1,25.0,1,0,0,0,17,85,1
+Harry Maguire,ENG,Manchester Utd,Premier League,32.0,0,0,1,0,31,56,2
+Jon Magunazelaia,ESP,Real Sociedad,La Liga,24.0,0,1,0,0,33,73,0
+Arne Maier,GER,Augsburg,de Bundesliga,26.0,0,1,0,0,40,7,4
+Mike Maignan,FRA,Milan,Serie A,29.0,0,0,0,1,36,58,3
+Patrick Mainka,GER,Heidenheim,de Bundesliga,30.0,0,0,1,0,40,35,4
+Kobbie Mainoo,ENG,Manchester Utd,Premier League,19.0,0,1,0,0,31,56,2
+Ainsley Maitland-Niles,ENG,Lyon,Ligue 1,27.0,0,1,1,0,31,52,1
+Radosław Majecki,POL,Monaco,Ligue 1,25.0,0,0,0,1,85,59,1
+Lovro Majer,CRO,Wolfsburg,de Bundesliga,27.0,0,1,0,0,23,94,4
+Jordy Makengo,FRA,Freiburg,de Bundesliga,23.0,0,0,1,0,36,29,4
+Antoine Makoumbou,CGO,Cagliari,Serie A,26.0,0,1,0,0,14,18,3
+Nikola Maksimović,SRB,Montpellier,Ligue 1,33.0,0,0,1,0,93,60,1
+Tyrell Malacia,NED,Manchester Utd,Premier League,25.0,0,0,1,0,76,56,2
+Jarzinho Malanga,GER,Stuttgart,de Bundesliga,18.0,0,0,1,0,40,82,4
+Julián Malatini,ARG,Werder Bremen,de Bundesliga,23.0,0,0,1,0,3,92,4
+Daniel Maldini,ITA,Atalanta,Serie A,23.0,1,1,0,0,55,4,3
+Youssef Maleh,MAR,Empoli,Serie A,26.0,0,1,0,0,67,25,3
+Donyell Malen,NED,Dortmund,de Bundesliga,26.0,1,1,0,0,76,23,4
+Ruslan Malinovskyi,UKR,Genoa,Serie A,31.0,1,1,0,0,102,31,3
+Lennard Maloney,USA,Mainz 05,de Bundesliga,25.0,0,1,0,0,104,53,4
+Aaron Malouda,FRA,Lille,Ligue 1,19.0,1,0,0,0,36,50,1
+Giorgi Mamardashvili,GEO,Valencia,La Liga,24.0,0,0,0,1,39,88,0
+Dennis Man,ROU,Parma,Serie A,26.0,1,1,0,0,88,69,3
+Hianga Mananga Mbock,FRA,Brest,Ligue 1,25.0,0,1,0,0,36,16,1
+Gianluca Mancini,ITA,Roma,Serie A,28.0,0,0,1,0,55,76,3
+Steve Mandanda,FRA,Rennes,Ligue 1,39.0,0,0,0,1,36,75,1
+Christos Mandas,GRE,Lazio,Serie A,23.0,0,0,0,1,44,43,3
+Reinildo Mandava,MOZ,Atlético Madrid,La Liga,31.0,0,0,1,0,73,6,0
+Aïssa Mandi,ALG,Lille,Ligue 1,33.0,0,0,1,0,1,50,1
+Rolando Mandragora,ITA,Fiorentina,Serie A,27.0,0,1,0,0,55,28,3
+Orel Mangala,BEL,Lyon,Ligue 1,26.0,0,1,0,0,8,52,1
+Ryan Manning,IRL,Southampton,Premier League,28.0,0,0,1,0,50,79,2
+Javier Manquillo,ESP,Celta Vigo,La Liga,30.0,0,0,1,0,33,19,0
+Johan Manzambi,SUI,Freiburg,de Bundesliga,19.0,1,1,0,0,94,29,4
+Alberto Manzoni,ITA,Atalanta,Serie A,19.0,0,1,0,0,55,4,3
+Sekou Mara,FRA,Strasbourg,Ligue 1,22.0,1,1,0,0,36,81,1
+Alessandro Marcandalli,ITA,Venezia,Serie A,22.0,0,0,1,0,55,90,3
+Marcão,BRA,Sevilla,La Liga,28.0,0,0,1,0,12,78,0
+Solly March,ENG,Brighton,Premier League,30.0,1,1,0,0,31,17,2
+Filip Marchwiński,POL,Lecce,Serie A,23.0,0,1,0,0,85,45,3
+Óscar de Marcos,ESP,Athletic Club,La Liga,35.0,0,0,1,0,33,5,0
+Alberto Marí,ESP,Valencia,La Liga,23.0,1,0,0,0,33,88,0
+Pablo Marí,ESP,Fiorentina,Serie A,31.0,0,0,1,0,33,28,3
+José María Giménez,URU,Atlético Madrid,La Liga,30.0,0,0,1,0,103,6,0
+Luca Marianucci,ITA,Empoli,Serie A,20.0,0,0,1,0,55,25,3
+Mirko Marić,CRO,Venezia,Serie A,29.0,1,0,0,0,23,90,3
+Arkaitz Mariezkurrena,ESP,Real Sociedad,La Liga,19.0,1,1,0,0,33,73,0
+Rafa Marín,ESP,Napoli,Serie A,22.0,0,0,1,0,33,63,3
+Pablo Marín,ESP,Real Sociedad,La Liga,21.0,0,1,0,0,33,73,0
+Răzvan Marin,ROU,Cagliari,Serie A,28.0,0,1,0,0,88,18,3
+Guillermo Maripán,CHI,Torino,Serie A,30.0,0,0,1,0,15,83,3
+Mika Màrmol,ESP,Las Palmas,La Liga,22.0,0,0,1,0,33,42,0
+Omar Marmoush,EGY,Eint Frankfurt,de Bundesliga,26.0,1,0,0,0,30,24,4
+Mario Maroto,ESP,Valladolid,La Liga,21.0,0,1,0,0,33,89,0
+Marquinhos,BRA,Paris S-G,Ligue 1,30.0,0,0,1,0,12,68,1
+Unai Marrero,ESP,Real Sociedad,La Liga,23.0,0,0,0,1,33,73,0
+Ange Martial Tia,MLI,Reims,Ligue 1,18.0,0,1,0,0,70,74,1
+Aarón Martín,ESP,Genoa,Serie A,27.0,0,0,1,0,33,31,3
+Carlos Martín,ESP,Alavés,La Liga,22.0,1,1,0,0,33,0,0
+Gerard Martín,ESP,Barcelona,La Liga,23.0,0,0,1,0,33,9,0
+Iván Martín,ESP,Girona,La Liga,26.0,0,1,0,0,33,33,0
+Jon Martin,ESP,Real Sociedad,La Liga,19.0,0,0,1,0,33,73,0
+Jonas Martin,FRA,Brest,Ligue 1,34.0,0,1,0,0,36,16,1
+Mario Martín,ESP,Valladolid,La Liga,21.0,0,1,0,0,33,89,0
+Gabriel Martinelli,BRA,Arsenal,Premier League,23.0,1,1,0,0,12,2,2
+Arnau Martinez,ESP,Girona,La Liga,21.0,0,1,1,0,33,33,0
+Emiliano Martínez,ARG,Aston Villa,Premier League,32.0,0,0,0,1,3,3,2
+Iñigo Martínez,ESP,Barcelona,La Liga,33.0,0,0,1,0,33,9,0
+Javi Martínez,ESP,Osasuna,La Liga,25.0,0,1,0,0,33,67,0
+Josep Martinez,ESP,Inter,Serie A,26.0,0,0,0,1,33,39,3
+Lautaro Martínez,ARG,Inter,Serie A,27.0,1,0,0,0,3,39,3
+Lisandro Martínez,ARG,Manchester Utd,Premier League,27.0,0,0,1,0,3,56,2
+Lucas Martínez Quarta,ARG,Fiorentina,Serie A,28.0,0,0,1,0,3,28,3
+Ramón Martínez,ESP,Sevilla,La Liga,22.0,0,0,1,0,33,78,0
+Toni Martínez,ESP,Alavés,La Liga,27.0,1,0,0,0,33,0,0
+Kevin Martins,ITA,Monza,Serie A,20.0,0,1,1,0,55,61,3
+Javi Martón,ESP,Athletic Club,La Liga,25.0,1,1,0,0,33,5,0
+Adam Marušić,MNE,Lazio,Serie A,32.0,0,0,1,0,72,43,3
+Marvin,ESP,Las Palmas,La Liga,24.0,1,0,1,0,33,42,0
+Omar Mascarell,EQG,Mallorca,La Liga,32.0,0,1,0,0,32,54,0
+Adam Masina,MAR,Torino,Serie A,31.0,0,0,1,0,67,83,3
+Patrizio Masini,ITA,Genoa,Serie A,24.0,0,1,0,0,55,31,3
+Giorgos Masouras,GRE,Bochum,de Bundesliga,31.0,1,1,0,0,44,12,4
+Erhan Mašović,SRB,Bochum,de Bundesliga,26.0,0,0,1,0,93,12,4
+Han-Noah Massengo,FRA,Auxerre,Ligue 1,23.0,0,1,0,0,36,8,1
+Clinton Mata,ANG,Lyon,Ligue 1,32.0,0,0,1,0,2,52,1
+Jaime Mata,ESP,Las Palmas,La Liga,36.0,1,0,0,0,33,42,0
+Igor Matanovic,CRO,Eint Frankfurt,de Bundesliga,21.0,1,0,0,0,23,24,4
+Pape Matar Sarr,SEN,Tottenham,Premier League,22.0,0,1,0,0,91,84,2
+Eliot Matazo,BEL,Monaco,Ligue 1,23.0,0,1,0,0,8,59,1
+Jean-Philippe Mateta,FRA,Crystal Palace,Premier League,27.0,1,0,0,0,36,22,2
+Nemanja Matić,SRB,Lyon,Ligue 1,36.0,0,1,0,0,93,52,1
+Chrislain Matsima,FRA,Augsburg,de Bundesliga,22.0,0,0,1,0,36,7,4
+Jean Mattéo Bahoya,FRA,Eint Frankfurt,de Bundesliga,19.0,1,1,0,0,36,24,4
+Alan Matturro,URU,Genoa,Serie A,20.0,0,0,1,0,103,31,3
+Azor Matusiwa,NED,Rennes,Ligue 1,26.0,0,1,0,0,76,75,1
+Neal Maupay,FRA,Marseille,Ligue 1,28.0,1,0,0,0,36,57,1
+Maurides,BRA,St. Pauli,de Bundesliga,31.0,1,0,0,0,12,80,4
+Stephy Mavididi,ENG,Leicester City,Premier League,26.0,1,0,0,0,31,47,2
+Konstantinos Mavropanos,GRE,West Ham,Premier League,27.0,0,0,1,0,44,93,2
+Christian Mawissa,FRA,Monaco,Ligue 1,19.0,0,0,1,0,36,59,1
+Keke Maximilian Topp,GER,Werder Bremen,de Bundesliga,20.0,1,1,0,0,40,92,4
+Borja Mayoral,ESP,Getafe,La Liga,27.0,1,0,0,0,33,32,0
+Senny Mayulu,FRA,Paris S-G,Ligue 1,18.0,0,1,0,0,36,68,1
+Noussair Mazraoui,MAR,Manchester Utd,Premier League,27.0,0,0,1,0,67,56,2
+Luca Mazzitelli,ITA,Como,Serie A,29.0,0,1,0,0,55,21,3
+Pasquale Mazzocchi,ITA,Napoli,Serie A,29.0,1,0,1,0,55,63,3
+Samuel Mbangula,BEL,Juventus,Serie A,21.0,1,0,0,0,8,41,3
+Ethan Mbappé,FRA,Lille,Ligue 1,18.0,1,1,0,0,36,50,1
+Kylian Mbappé,FRA,Real Madrid,La Liga,26.0,1,0,0,0,36,72,0
+Ibrahim Mbaye,FRA,Paris S-G,Ligue 1,17.0,1,1,0,0,36,68,1
+Bryan Mbeumo,CMR,Brentford,Premier League,25.0,1,0,0,0,17,15,2
+James Mcatee,ENG,Manchester City,Premier League,22.0,1,1,0,0,31,55,2
+Kasey McAteer,IRL,Leicester City,Premier League,23.0,1,1,0,0,50,47,2
+Oliver McBurnie,SCO,Las Palmas,La Liga,28.0,1,0,0,0,90,42,0
+Alex McCarthy,ENG,Southampton,Premier League,35.0,0,0,0,1,31,79,2
+John McGinn,SCO,Aston Villa,Premier League,30.0,1,1,0,0,90,3,2
+Scott McKenna,SCO,Las Palmas,La Liga,28.0,0,0,1,0,90,42,0
+Weston McKennie,USA,Juventus,Serie A,26.0,0,1,1,0,104,41,3
+Mark McKenzie,USA,Toulouse,Ligue 1,26.0,0,0,1,0,104,85,1
+Dwight McNeil,ENG,Everton,Premier League,25.0,1,1,0,0,31,27,2
+Scott McTominay,SCO,Napoli,Serie A,28.0,0,1,0,0,90,63,3
+Jakov Medić,CRO,Bochum,de Bundesliga,26.0,0,0,1,0,23,12,4
+Facundo Medina,ARG,Lens,Ligue 1,25.0,0,0,1,0,3,48,1
+Ben Mee,ENG,Brentford,Premier League,35.0,0,0,1,0,31,15,2
+Jayden Meghoma,ENG,Brentford,Premier League,18.0,0,0,1,0,31,15,2
+Henrik Meister,DEN,Rennes,Ligue 1,21.0,1,0,0,0,27,75,1
+Bamo Meïté,CIV,Marseille,Ligue 1,23.0,0,1,1,0,16,57,1
+Mohamed Meité,FRA,Rennes,Ligue 1,17.0,1,0,0,0,36,75,1
+Mateo Mejía,ESP,Sevilla,La Liga,21.0,1,0,0,0,33,78,0
+Farid El Melali,ALG,Angers,Ligue 1,27.0,1,0,0,0,1,1,1
+Filippo Melegoni,ITA,Genoa,Serie A,26.0,1,1,0,0,55,31,3
+Arthur Melo,BRA,Girona,La Liga,28.0,0,1,0,0,12,33,0
+Nuno Mendes,POR,Paris S-G,Ligue 1,22.0,0,0,1,0,86,68,1
+Brais Méndez,ESP,Real Sociedad,La Liga,28.0,0,1,0,0,33,73,0
+Antoine Mendy,FRA,Nice,Ligue 1,20.0,0,0,1,0,36,65,1
+Ferland Mendy,FRA,Real Madrid,La Liga,29.0,0,0,1,0,36,72,0
+Nampalys Mendy,SEN,Lens,Ligue 1,32.0,0,1,0,0,91,48,1
+Gideon Mensah,GHA,Auxerre,Ligue 1,26.0,0,0,1,0,41,8,1
+Alex Meret,ITA,Napoli,Serie A,27.0,0,0,0,1,55,63,3
+Mikel Merino,ESP,Arsenal,Premier League,28.0,1,1,0,0,33,2,2
+Quentin Merlin,FRA,Marseille,Ligue 1,22.0,0,0,1,0,36,57,1
+Víctor Meseguer,ESP,Valladolid,La Liga,25.0,0,1,0,0,33,89,0
+Rafik Messali,FRA,Toulouse,Ligue 1,21.0,0,0,1,0,36,85,1
+Junior Messias,BRA,Genoa,Serie A,33.0,1,1,0,0,12,31,3
+Connor Metcalfe,AUS,St. Pauli,de Bundesliga,25.0,0,1,0,0,5,80,4
+Karol Mets,EST,St. Pauli,de Bundesliga,31.0,0,0,1,0,34,80,4
+Thomas Meunier,BEL,Lille,Ligue 1,33.0,0,0,1,0,8,50,1
+Alexander Meyer,GER,Dortmund,de Bundesliga,33.0,0,0,0,1,40,23,4
+Shumaira Mheuka,ENG,Chelsea,Premier League,17.0,0,1,0,0,31,20,2
+Lucas Michal,FRA,Monaco,Ligue 1,19.0,1,1,0,0,36,59,1
+Florian Micheler,AUT,Hoffenheim,de Bundesliga,19.0,0,1,0,0,6,37,4
+Miguel,ESP,Leganés,La Liga,25.0,1,0,0,0,33,46,0
+Valentin Mihaila,ROU,Parma,Serie A,25.0,1,1,0,0,88,69,3
+Georges Mikautadze,GEO,Lyon,Ligue 1,24.0,1,0,0,0,39,52,1
+Igor Miladinović,SRB,Saint-Étienne,Ligue 1,21.0,1,1,0,0,93,77,1
+Nikola Milenković,SRB,Nott'ham Forest,Premier League,27.0,0,0,1,0,93,66,2
+Lewis Miley,ENG,Newcastle Utd,Premier League,18.0,0,1,0,0,31,64,2
+Vanja Milinković-Savić,SRB,Torino,Serie A,28.0,0,0,0,1,93,83,3
+Éder Militão,BRA,Real Madrid,La Liga,27.0,0,0,1,0,12,72,0
+Luis Milla,ESP,Getafe,La Liga,30.0,0,1,0,0,33,32,0
+Pere Milla,ESP,Espanyol,La Liga,32.0,1,1,0,0,33,26,0
+Enzo Millot,FRA,Stuttgart,de Bundesliga,22.0,1,1,0,0,36,82,4
+James Milner,ENG,Brighton,Premier League,39.0,0,1,0,0,31,17,2
+Kim Min-jae,KOR,Bayern Munich,de Bundesliga,28.0,0,0,1,0,60,10,4
+Yerry Mina,COL,Cagliari,Serie A,30.0,0,0,1,0,19,18,3
+Takumi Minamino,JPN,Monaco,Ligue 1,30.0,1,1,0,0,58,59,1
+Lucas Mincarelli,FRA,Montpellier,Ligue 1,21.0,0,0,1,0,36,60,1
+Tyrone Mings,ENG,Aston Villa,Premier League,31.0,0,0,1,0,31,3,2
+Óscar Mingueza,ESP,Celta Vigo,La Liga,25.0,0,1,1,0,33,19,0
+Kim Minsu,KOR,Girona,La Liga,19.0,1,1,0,0,60,33,0
+Yankuba Minteh,GAM,Brighton,Premier League,20.0,1,1,0,0,38,17,2
+Bojan Miovski,MKD,Girona,La Liga,25.0,1,0,0,0,69,33,0
+Rafa Mir,ESP,Valencia,La Liga,27.0,1,1,0,0,33,88,0
+Juan Miranda,ESP,Bologna,Serie A,25.0,0,0,1,0,33,13,3
+Fabio Miretti,ITA,Genoa,Serie A,21.0,1,1,0,0,55,31,3
+Tyrick Mitchell,ENG,Crystal Palace,Premier League,25.0,0,0,1,0,31,22,2
+Kaoru Mitoma,JPN,Brighton,Premier League,27.0,1,1,0,0,58,17,2
+Maximilian Mittelstädt,GER,Stuttgart,de Bundesliga,27.0,0,0,1,0,40,82,4
+Koji Miyoshi,JPN,Bochum,de Bundesliga,27.0,1,1,0,0,58,12,4
+Henrikh Mkhitaryan,ARM,Inter,Serie A,36.0,0,1,0,0,4,39,3
+Jakub Moder,POL,Brighton,Premier League,25.0,0,1,0,0,85,17,2
+Rui Modesto,ANG,Udinese,Serie A,25.0,0,0,1,0,2,86,3
+Luka Modrić,CRO,Real Madrid,La Liga,39.0,0,1,0,0,23,72,0
+Max Moerstedt,GER,Hoffenheim,de Bundesliga,,1,0,0,0,40,37,4
+Mostafa Mohamed,EGY,Nantes,Ligue 1,27.0,1,0,0,0,30,62,1
+Johan Mojica,COL,Mallorca,La Liga,32.0,0,0,1,0,19,54,0
+David Mokwa,FRA,Hoffenheim,de Bundesliga,20.0,1,0,1,0,36,37,4
+Alberto Moleiro,ESP,Las Palmas,La Liga,21.0,1,1,0,0,33,42,0
+Nahuel Molina,ARG,Atlético Madrid,La Liga,26.0,0,0,1,0,3,6,0
+Florent Mollet,FRA,Nantes,Ligue 1,33.0,1,1,0,0,36,62,1
+Jon Moncayola,ESP,Osasuna,La Liga,26.0,0,1,0,0,33,67,0
+Gonzalo Montiel,ARG,Sevilla,La Liga,28.0,0,1,1,0,3,78,0
+Lorenzo Montipò,ITA,Hellas Verona,Serie A,29.0,0,0,0,1,55,36,3
+Mikey Moore,ENG,Tottenham,Premier League,17.0,1,1,0,0,31,84,2
+Álvaro Morata,ESP,Milan,Serie A,32.0,1,1,0,0,33,58,3
+Morato,BRA,Nott'ham Forest,Premier League,23.0,0,0,1,0,12,66,2
+Diego Moreira,POR,Strasbourg,Ligue 1,20.0,0,1,1,0,86,81,1
+Alberto Moreno,ESP,Como,Serie A,32.0,0,0,1,0,33,21,3
+Álex Moreno,ESP,Nott'ham Forest,Premier League,31.0,0,0,1,0,33,66,2
+Gerard Moreno,ESP,Villarreal,La Liga,32.0,1,0,0,0,33,91,0
+Matias Moreno,ARG,Fiorentina,Serie A,21.0,0,0,1,0,3,28,3
+Tete Morente,ESP,Lecce,Serie A,28.0,1,0,0,0,33,45,3
+Mateu Morey,ESP,Mallorca,La Liga,25.0,0,0,1,0,33,54,0
+Ilaix Moriba,GUI,Celta Vigo,La Liga,22.0,0,1,0,0,46,19,0
+Manu Morlanes,ESP,Mallorca,La Liga,26.0,0,1,0,0,33,54,0
+Nikola Moro,CRO,Bologna,Serie A,26.0,0,1,0,0,23,13,3
+Raúl Moro,ESP,Valladolid,La Liga,22.0,1,1,0,0,33,89,0
+Sam Morsy,EGY,Ipswich Town,Premier League,33.0,0,1,0,0,30,40,2
+Gabriel Moscardo,BRA,Reims,Ligue 1,19.0,0,1,0,0,12,74,1
+Cristhian Mosquera,ESP,Valencia,La Liga,20.0,0,0,1,0,33,88,0
+Daniel Mosquera,COL,Hellas Verona,Serie A,25.0,1,0,0,0,19,36,3
+Yerson Mosquera,COL,Wolves,Premier League,23.0,0,0,1,0,19,95,2
+Dany Mota,POR,Monza,Serie A,26.0,1,1,0,0,86,61,3
+Yael Mouanga,FRA,Montpellier,Ligue 1,19.0,0,0,1,0,36,60,1
+Aimen Moueffek,FRA,Saint-Étienne,Ligue 1,23.0,0,1,0,0,36,77,1
+Youssoufa Moukoko,GER,Nice,Ligue 1,20.0,1,1,0,0,40,65,1
+Steve Mounié,BEN,Augsburg,de Bundesliga,30.0,1,1,0,0,9,7,4
+Mason Mount,ENG,Manchester Utd,Premier League,26.0,1,1,0,0,31,56,2
+Santiago Mouriño,URU,Alavés,La Liga,23.0,0,0,1,0,103,0,0
+Louis Mouton,FRA,Saint-Étienne,Ligue 1,22.0,0,1,0,0,36,77,1
+Divin Mubama,ENG,Manchester City,Premier League,20.0,1,0,0,0,31,55,2
+Mykhailo Mudryk,UKR,Chelsea,Premier League,24.0,1,0,0,0,102,20,2
+Ngal'Ayel Mukau,COD,Lille,Ligue 1,20.0,0,1,0,0,18,50,1
+Nordi Mukiele,FRA,Leverkusen,de Bundesliga,27.0,0,0,1,0,36,49,4
+Florian Müller,GER,Freiburg,de Bundesliga,27.0,0,0,0,1,40,29,4
+Kevin Müller,GER,Heidenheim,de Bundesliga,33.0,0,0,0,1,40,35,4
+Marius Müller,GER,Wolfsburg,de Bundesliga,31.0,0,0,0,1,40,94,4
+Thomas Müller,GER,Bayern Munich,de Bundesliga,35.0,1,1,0,0,40,10,4
+Abdul Mumin,GHA,Rayo Vallecano,La Liga,26.0,0,0,1,0,41,71,0
+Marshall Munetsi,ZIM,Reims,Ligue 1,28.0,0,1,0,0,109,74,1
+Rodrigo Muniz,BRA,Fulham,Premier League,23.0,1,0,0,0,12,30,2
+Aihen Muñoz,ESP,Real Sociedad,La Liga,27.0,0,0,1,0,33,73,0
+Álex Muñoz,ESP,Las Palmas,La Liga,30.0,0,0,1,0,33,42,0
+Daniel Muñoz,COL,Crystal Palace,Premier League,28.0,0,0,1,0,19,22,2
+Iker Muñoz,ESP,Osasuna,La Liga,22.0,0,1,0,0,33,67,0
+Javier Muñoz,ESP,Las Palmas,La Liga,30.0,0,1,1,0,33,42,0
+Arijanet Muric,KVX,Ipswich Town,Premier League,26.0,0,0,0,1,62,40,2
+Murillo,BRA,Nott'ham Forest,Premier League,22.0,0,0,1,0,12,66,2
+Vedat Muriqi,KVX,Mallorca,La Liga,30.0,1,0,0,0,62,54,0
+Jacob Murphy,ENG,Newcastle Utd,Premier League,30.0,1,0,0,0,31,64,2
+Bob Murphy Omoregbe,ITA,Milan,Serie A,21.0,0,1,0,0,55,58,3
+Yunus Musah,USA,Milan,Serie A,22.0,1,1,0,0,104,58,3
+Jamal Musiala,GER,Bayern Munich,de Bundesliga,22.0,0,1,0,0,40,10,4
+Florent Muslija,KVX,Freiburg,de Bundesliga,26.0,1,1,0,0,62,29,4
+Almoatasem Al Musrati,LBY,Monaco,Ligue 1,28.0,0,1,0,0,63,59,1
+Juan Musso,ARG,Atlético Madrid,La Liga,30.0,0,0,0,1,3,6,0
+Kingstone Mutandwa,ZAM,Cagliari,Serie A,22.0,1,1,0,0,108,18,3
+Junior Mwanga,FRA,Strasbourg,Ligue 1,21.0,0,1,0,0,36,81,1
+Phillipp Mwene,AUT,Mainz 05,de Bundesliga,31.0,0,0,1,0,6,53,4
+Vitaliy Mykolenko,UKR,Everton,Premier League,25.0,0,0,1,0,102,27,2
+Joakim Mæhle,DEN,Wolfsburg,de Bundesliga,27.0,0,0,1,0,27,94,4
+Obite N'Dicka,CIV,Roma,Serie A,25.0,0,0,1,0,16,76,3
+Konan N'dri,CIV,Lecce,Serie A,24.0,1,1,0,0,16,45,3
+Loïc N'Gatta,FRA,Auxerre,Ligue 1,21.0,0,0,1,0,36,8,1
+Nathan N'Goumou,FRA,Gladbach,de Bundesliga,24.0,1,0,0,0,36,34,4
+Djylian N'Guessan,FRA,Saint-Étienne,Ligue 1,16.0,1,0,0,0,36,77,1
+Stanley N'Soki,FRA,Hoffenheim,de Bundesliga,25.0,0,0,1,0,36,37,4
+Mickael Nade,FRA,Saint-Étienne,Ligue 1,26.0,0,0,1,0,36,77,1
+Bilal Nadir,FRA,Marseille,Ligue 1,21.0,0,1,0,0,36,57,1
+Mahamadou Nagida,CMR,Rennes,Ligue 1,19.0,0,0,1,0,17,75,1
+Keito Nakamura,JPN,Reims,Ligue 1,24.0,1,0,0,0,58,74,1
+Sebastian Nanasi,SWE,Strasbourg,Ligue 1,22.0,1,1,0,0,98,81,1
+Yael Nandjou,FRA,Nice,Ligue 1,19.0,0,0,1,0,36,65,1
+Matija Nastasić,SRB,Leganés,La Liga,31.0,0,0,1,0,93,46,0
+Natan,BRA,Betis,La Liga,24.0,0,0,1,0,12,11,0
+Pau Navarro,ESP,Villarreal,La Liga,19.0,0,0,1,0,33,91,0
+Roberto Navarro,ESP,Mallorca,La Liga,22.0,1,1,0,0,33,54,0
+Jesús Navas,ESP,Sevilla,La Liga,39.0,1,1,0,0,33,78,0
+Michel Ndary Adopo,FRA,Cagliari,Serie A,24.0,0,1,0,0,36,18,3
+Youssouf Ndayishimiye,BDI,Nice,Ligue 1,26.0,0,0,1,0,7,65,1
+Iliman Ndiaye,SEN,Everton,Premier League,25.0,1,0,0,0,91,27,2
+Junior Ndiaye,FRA,Montpellier,Ligue 1,19.0,1,0,0,0,36,60,1
+Rassoul Ndiaye,SEN,Le Havre,Ligue 1,23.0,0,1,0,0,91,44,1
+Wilfred Ndidi,NGA,Leicester City,Premier League,28.0,0,1,0,0,77,47,2
+Wilfried Ndollo,CMR,Montpellier,Ligue 1,19.0,0,0,1,0,17,60,1
+Tanguy Ndombele,FRA,Nice,Ligue 1,28.0,0,1,0,0,36,65,1
+Cher Ndour,ITA,Fiorentina,Serie A,20.0,1,1,0,0,55,28,3
+Dan Ndoye,SUI,Bologna,Serie A,24.0,1,0,0,0,94,13,3
+Paul Nebel,GER,Mainz 05,de Bundesliga,22.0,0,1,0,0,40,53,4
+Kosta Nedeljković,SRB,RB Leipzig,de Bundesliga,19.0,1,0,1,0,93,70,4
+Loïc Nego,HUN,Le Havre,Ligue 1,34.0,1,0,1,0,48,44,1
+Ivan Nekić,CRO,Holstein Kiel,de Bundesliga,24.0,0,0,1,0,23,38,4
+Reiss Nelson,ENG,Fulham,Premier League,25.0,1,0,0,0,31,30,2
+Victor Nelsson,DEN,Roma,Serie A,26.0,0,0,1,0,27,76,3
+David Nemeth,AUT,St. Pauli,de Bundesliga,23.0,0,0,1,0,6,80,4
+David Neres,BRA,Napoli,Serie A,28.0,1,0,0,0,12,63,3
+Neto,BRA,Bournemouth,Premier League,35.0,0,0,0,1,12,14,2
+Pedro Neto,POR,Chelsea,Premier League,25.0,1,0,0,0,86,20,2
+Luca Netz,GER,Gladbach,de Bundesliga,21.0,0,0,1,0,40,34,4
+Manuel Neuer,GER,Bayern Munich,de Bundesliga,38.0,0,0,0,1,40,10,4
+Florian Neuhaus,GER,Gladbach,de Bundesliga,27.0,0,1,0,0,40,34,4
+João Neves,POR,Paris S-G,Ligue 1,20.0,0,1,1,0,86,68,1
+Yvan Neyou,CMR,Leganés,La Liga,28.0,0,1,0,0,17,46,0
+Cyril Ngonge,BEL,Napoli,Serie A,24.0,1,0,1,0,8,63,3
+Mikayil Ngor Faye,SEN,Rennes,Ligue 1,20.0,0,0,1,0,91,75,1
+Steve Ngoura,FRA,Le Havre,Ligue 1,20.0,1,0,0,0,36,44,1
+Bernard Nguene,CMR,Nice,Ligue 1,18.0,1,0,0,0,17,65,1
+Moussa Niakhate,SEN,Lyon,Ligue 1,29.0,0,0,1,0,91,52,1
+Abdoulaye Niakhate Ndiaye,SEN,Brest,Ligue 1,22.0,0,0,1,0,91,16,1
+Ibrahima Niane,SEN,Angers,Ligue 1,25.0,1,0,0,0,91,1,1
+Tanguy Nianzou,FRA,Sevilla,La Liga,22.0,0,0,1,0,36,78,0
+Cheikh Niasse,SEN,Hellas Verona,Serie A,25.0,0,1,0,0,91,36,3
+Rasmus Nicolaisen,DEN,Toulouse,Ligue 1,27.0,0,0,1,0,27,85,1
+Moritz Nicolas,GER,Gladbach,de Bundesliga,27.0,0,0,0,1,40,34,4
+Hans Nicolussi Caviglia,ITA,Venezia,Serie A,24.0,0,1,0,0,55,90,3
+Julian Niehues,GER,Heidenheim,de Bundesliga,23.0,0,1,0,0,40,35,4
+Saúl Ñíguez,ESP,Sevilla,La Liga,30.0,0,1,0,0,33,78,0
+Eybi Nije,SWE,Torino,Serie A,19.0,1,1,0,0,98,83,3
+Tamás Nikitscher,HUN,Valladolid,La Liga,25.0,0,1,0,0,48,89,0
+Adrian Niño,ESP,Atlético Madrid,La Liga,20.0,1,0,0,0,33,6,0
+Justin Njinmah,GER,Werder Bremen,de Bundesliga,24.0,1,1,0,0,40,92,4
+Eddie Nketiah,ENG,Crystal Palace,Premier League,25.0,1,1,0,0,31,22,2
+Niels Nkounkou,FRA,Eint Frankfurt,de Bundesliga,24.0,0,1,1,0,36,24,4
+Christopher Nkunku,FRA,Chelsea,Premier League,27.0,1,0,0,0,36,20,2
+Felix Nmecha,GER,Dortmund,de Bundesliga,24.0,0,1,0,0,40,23,4
+Lukas Nmecha,GER,Wolfsburg,de Bundesliga,26.0,1,0,0,0,40,94,4
+Arnaud Nordin,FRA,Mainz 05,de Bundesliga,26.0,0,0,1,0,36,53,4
+Brooke Norton-Cuffy,ENG,Genoa,Serie A,21.0,0,1,1,0,31,31,3
+Tijjani Noslin,NED,Lazio,Serie A,25.0,1,1,0,0,76,43,3
+Hugo Novoa,ESP,Alavés,La Liga,22.0,0,1,1,0,33,0,0
+Plamedi Nsingi,,Nantes,Ligue 1,24.0,0,1,0,0,110,62,1
+Randy Nteka,ANG,Rayo Vallecano,La Liga,27.0,1,0,0,0,2,71,0
+Ernest Nuamah,GHA,Lyon,Ligue 1,21.0,1,1,0,0,41,52,1
+Alexander Nübel,GER,Stuttgart,de Bundesliga,28.0,0,0,0,1,40,82,4
+Matheus Nunes,POR,Manchester City,Premier League,26.0,0,1,1,0,86,55,2
+Darwin Núñez,URU,Liverpool,Premier League,25.0,1,0,0,0,103,51,2
+Unai Núñez,ESP,Athletic Club,La Liga,28.0,0,0,1,0,33,5,0
+Antonio Nusa,NOR,RB Leipzig,de Bundesliga,19.0,0,1,1,0,79,70,4
+Ethan Nwaneri,ENG,Arsenal,Premier League,17.0,1,1,0,0,31,2,2
+Ørjan Nyland,NOR,Sevilla,La Liga,34.0,0,0,0,1,79,78,0
+Allan Nyom,CMR,Getafe,La Liga,36.0,0,1,1,0,17,32,0
+Rabby Nzingoula,CGO,Montpellier,Ligue 1,19.0,0,1,0,0,14,60,1
+M'Bala Nzola,ANG,Lens,Ligue 1,28.0,1,0,0,0,2,48,1
+Marwann Nzuzi,FRA,Saint-Étienne,Ligue 1,20.0,0,0,1,0,36,77,1
+Christian Nørgaard,DEN,Brentford,Premier League,31.0,0,1,0,0,27,15,2
+Jake O'Brien,IRL,Everton,Premier League,23.0,0,0,1,0,50,27,2
+Matt O'Riley,DEN,Brighton,Premier League,24.0,0,1,0,0,27,17,2
+Dara O'Shea,IRL,Ipswich Town,Premier League,26.0,0,0,1,0,50,40,2
+Adam Obert,SVK,Cagliari,Serie A,22.0,0,0,1,0,96,18,3
+Chidozie Obi-Martin,DEN,Manchester Utd,Premier League,17.0,1,0,0,0,27,56,2
+Jan Oblak,SVN,Atlético Madrid,La Liga,32.0,0,0,0,1,97,6,0
+Lucas Ocampos,ARG,Sevilla,La Liga,30.0,1,0,0,0,3,78,0
+Jens Odgaard,DEN,Bologna,Serie A,25.0,1,1,0,0,27,13,3
+Wilson Odobert,FRA,Tottenham,Premier League,20.0,1,0,0,0,36,84,2
+Álvaro Odriozola,ESP,Real Sociedad,La Liga,29.0,0,0,1,0,33,73,0
+Tim Oermann,GER,Bochum,de Bundesliga,21.0,0,0,1,0,40,12,4
+Chiedozie Ogbene,IRL,Ipswich Town,Premier League,27.0,1,0,0,0,50,40,2
+Ifechukwu Ogbus,SUI,Freiburg,de Bundesliga,19.0,0,0,1,0,94,29,4
+Thiago Ojeda,ARG,Villarreal,La Liga,22.0,0,1,0,0,3,91,0
+Hamzat Ojediran,NGA,Lens,Ligue 1,21.0,1,1,0,0,77,48,1
+Noah Okafor,SUI,Milan,Serie A,24.0,1,0,0,0,94,58,3
+Caleb Okoli,ITA,Leicester City,Premier League,23.0,0,0,1,0,55,47,2
+Yllan Okou,FRA,Hellas Verona,Serie A,22.0,0,0,1,0,36,36,3
+Maduka Okoye,NGA,Udinese,Serie A,25.0,0,0,0,1,77,86,3
+Joseph Okumu,KEN,Reims,Ligue 1,27.0,0,0,1,0,59,74,1
+Kazeem Olaigbe,BEL,Rennes,Ligue 1,22.0,1,1,0,0,8,75,1
+Olasagasti,ESP,Real Sociedad,La Liga,24.0,0,1,0,0,33,73,0
+Ben Old,NZL,Saint-Étienne,Ligue 1,22.0,1,1,0,0,80,77,1
+Finn Ole Becker,GER,Hoffenheim,de Bundesliga,24.0,0,1,0,0,40,37,4
+Michael Olise,FRA,Bayern Munich,de Bundesliga,23.0,1,1,0,0,36,10,4
+Brian Oliván,ESP,Espanyol,La Liga,30.0,0,0,1,0,33,26,0
+Lucas Oliveira Rosa,BRA,Valladolid,La Liga,24.0,0,0,1,0,12,89,0
+Mathías Olivera,URU,Napoli,Serie A,27.0,0,0,1,0,103,63,3
+Dani Olmo,ESP,Barcelona,La Liga,26.0,1,1,0,0,33,9,0
+Robin Olsen,SWE,Aston Villa,Premier League,35.0,0,0,0,1,98,3,2
+Warmed Omari,COM,Lyon,Ligue 1,24.0,0,0,1,0,20,52,1
+Becir Omeragic,SUI,Montpellier,Ligue 1,23.0,0,1,1,0,94,60,1
+Jonas Omlin,SUI,Gladbach,de Bundesliga,31.0,0,0,0,1,94,34,4
+Andrew Omobamidele,IRL,Strasbourg,Ligue 1,22.0,0,0,1,0,50,81,1
+Ado Onaiwu,JPN,Auxerre,Ligue 1,29.0,1,1,0,0,58,8,1
+Amadou Onana,BEL,Aston Villa,Premier League,23.0,0,1,0,0,8,3,2
+André Onana,CMR,Manchester Utd,Premier League,28.0,0,0,0,1,17,56,2
+Jean Onana,CMR,Genoa,Serie A,25.0,0,1,0,0,17,31,3
+Jacob Ondrejka,SWE,Parma,Serie A,22.0,1,1,0,0,98,69,3
+Karim Onisiwo,AUT,Mainz 05,de Bundesliga,32.0,1,1,0,0,6,53,4
+Paul Onuachu,NGA,Southampton,Premier League,30.0,1,0,0,0,77,79,2
+Frank Onyeka,NGA,Augsburg,de Bundesliga,27.0,0,1,0,0,77,7,4
+Loïs Openda,BEL,RB Leipzig,de Bundesliga,25.0,1,1,0,0,8,70,4
+Christopher Operi,CIV,Le Havre,Ligue 1,27.0,1,0,1,0,16,44,1
+Fredrik Oppegard,NOR,Auxerre,Ligue 1,22.0,0,1,1,0,79,8,1
+Victor Orakpo,NGA,Nice,Ligue 1,18.0,1,0,0,0,77,65,1
+Ike Orazi,IRL,Reims,Ligue 1,17.0,0,1,0,0,50,74,1
+Gift Orban,NGA,Hoffenheim,de Bundesliga,22.0,1,0,0,0,77,37,4
+Willi Orban,HUN,RB Leipzig,de Bundesliga,32.0,0,0,1,0,48,70,4
+Ivan Ordets,UKR,Bochum,de Bundesliga,32.0,0,0,1,0,102,12,4
+Lewis Orford,ENG,West Ham,Premier League,19.0,0,1,0,0,31,93,2
+Gaetano Oristanio,ITA,Venezia,Serie A,22.0,1,1,0,0,55,90,3
+Aimar Oroz,ESP,Osasuna,La Liga,23.0,0,1,0,0,33,67,0
+Riccardo Orsolini,ITA,Bologna,Serie A,28.0,1,0,0,0,55,13,3
+Stefan Ortega,GER,Manchester City,Premier League,32.0,0,0,0,1,40,55,2
+Ángel Ortíz,ESP,Betis,La Liga,20.0,0,0,1,0,33,11,0
+Gabriel Osei Misehouy,NED,Girona,La Liga,19.0,1,1,0,0,76,33,0
+Gabriel Osho,NGA,Auxerre,Ligue 1,26.0,0,0,1,0,77,8,1
+Yordan Osorio,VEN,Parma,Serie A,30.0,0,0,1,0,106,69,3
+Patrick Osterhage,GER,Freiburg,de Bundesliga,25.0,0,1,0,0,40,29,4
+William Osula,DEN,Newcastle Utd,Premier League,21.0,1,0,0,0,27,64,2
+Jibril Othman,TUN,Saint-Étienne,Ligue 1,20.0,1,0,0,0,100,77,1
+David Otorbi,ESP,Valencia,La Liga,17.0,0,1,0,0,33,88,0
+Dango Ouattara,BFA,Bournemouth,Premier League,23.0,1,0,0,0,10,14,2
+Guimissongui Ouattara,FRA,Strasbourg,Ligue 1,19.0,1,0,1,0,36,81,1
+Kassoum Ouattara,FRA,Monaco,Ligue 1,20.0,1,0,1,0,36,59,1
+Remi Oudin,FRA,Lecce,Serie A,28.0,1,1,0,0,36,45,3
+Assan Ouedraogo,GER,RB Leipzig,de Bundesliga,18.0,0,1,0,0,40,70,4
+Zinédine Ould Khaled,FRA,Angers,Ligue 1,25.0,0,1,0,0,36,1,1
+Cheick Oumar Conde,GUI,Venezia,Serie A,24.0,0,1,0,0,46,90,3
+Jesús Owono,EQG,Alavés,La Liga,24.0,0,0,0,1,32,0,0
+Beres Owusu,FRA,Saint-Étienne,Ligue 1,21.0,0,0,1,0,36,77,1
+Elisha Owusu,GHA,Auxerre,Ligue 1,27.0,0,1,0,0,41,8,1
+Mikel Oyarzabal,ESP,Real Sociedad,La Liga,27.0,1,1,0,0,33,73,0
+Daniel Oyegoke,ENG,Hellas Verona,Serie A,22.0,0,0,1,0,31,36,3
+Salih Özcan,TUR,Dortmund,de Bundesliga,27.0,0,1,0,0,101,23,4
+Cenk Özkacar,TUR,Valladolid,La Liga,24.0,0,0,1,0,101,89,0
+Nico O’Reilly,ENG,Manchester City,Premier League,19.0,0,1,1,0,31,55,2
+Jon Pacheco,ESP,Real Sociedad,La Liga,24.0,0,0,1,0,33,73,0
+Willian Pacho,ECU,Paris S-G,Ligue 1,23.0,0,0,1,0,29,68,1
+Daniele Padelli,ITA,Udinese,Serie A,39.0,0,0,0,1,55,86,3
+Alex Padilla,ESP,Athletic Club,La Liga,21.0,0,0,0,1,33,5,0
+Simone Pafundi,ITA,Udinese,Serie A,19.0,0,1,0,0,55,86,3
+Exequiel Palacios,ARG,Leverkusen,de Bundesliga,26.0,0,1,0,0,3,49,4
+Tiago Palacios,ARG,Inter,Serie A,21.0,0,0,1,0,3,39,3
+Isaac Palazón Camacho,ESP,Rayo Vallecano,La Liga,30.0,1,1,0,0,33,71,0
+Alberto Paleari,ITA,Torino,Serie A,32.0,0,0,0,1,55,83,3
+Marco Palestra,ITA,Atalanta,Serie A,20.0,0,0,1,0,55,4,3
+João Palhinha,POR,Bayern Munich,de Bundesliga,29.0,0,1,0,0,86,10,4
+Nicolas Pallois,FRA,Nantes,Ligue 1,37.0,0,0,1,0,36,62,1
+Alex Palmer,ENG,Ipswich Town,Premier League,28.0,0,0,0,1,31,40,2
+Cole Palmer,ENG,Chelsea,Premier League,22.0,0,1,0,0,31,20,2
+Emerson Palmieri,ITA,West Ham,Premier League,30.0,0,0,1,0,55,93,2
+Mats Pannewig,GER,Bochum,de Bundesliga,20.0,0,1,0,0,40,12,4
+Lucas Paquetá,BRA,West Ham,Premier League,27.0,1,1,0,0,12,93,2
+Aitor Paredes,ESP,Athletic Club,La Liga,24.0,0,0,1,0,33,5,0
+Leandro Paredes,ARG,Roma,Serie A,30.0,0,1,0,0,3,76,3
+Daniel Parejo,ESP,Villarreal,La Liga,35.0,0,1,0,0,33,91,0
+Fabiano Parisi,ITA,Fiorentina,Serie A,24.0,0,1,1,0,55,28,3
+Thomas Partey,GHA,Arsenal,Premier League,31.0,0,1,1,0,41,2,2
+Mario Pašalić,CRO,Atalanta,Serie A,30.0,0,1,0,0,23,4,3
+Álvaro Pascual,ESP,Sevilla,La Liga,23.0,1,0,0,0,33,78,0
+Felix Passlack,GER,Bochum,de Bundesliga,26.0,0,1,1,0,40,12,4
+Patric,ESP,Lazio,Serie A,31.0,0,0,1,0,33,43,3
+Rui Patrício,POR,Atalanta,Serie A,37.0,0,0,0,1,86,4,3
+Nathan Patterson,SCO,Everton,Premier League,23.0,1,0,1,0,90,27,2
+Benjamin Pavard,FRA,Inter,Serie A,28.0,0,0,1,0,36,39,3
+Aleksandar Pavlovic,GER,Bayern Munich,de Bundesliga,20.0,0,1,0,0,40,10,4
+Strahinja Pavlović,SRB,Milan,Serie A,23.0,0,0,1,0,93,58,3
+Leonardo Pavoletti,ITA,Cagliari,Serie A,36.0,1,1,0,0,55,18,3
+Martín Payero,ARG,Udinese,Serie A,26.0,0,1,0,0,3,86,3
+Nicolas Pays,FRA,Montpellier,Ligue 1,21.0,1,1,0,0,36,60,1
+Nicolás Paz,ARG,Como,Serie A,20.0,1,1,0,0,3,21,3
+Mads Pedersen,DEN,Augsburg,de Bundesliga,28.0,0,0,1,0,27,7,4
+Marcus Pedersen,NOR,Torino,Serie A,24.0,0,0,1,0,79,83,3
+Alfonso Pedraza,ESP,Villarreal,La Liga,28.0,0,1,1,0,33,91,0
+Pedri,ESP,Barcelona,La Liga,22.0,0,1,0,0,33,9,0
+Pedro,ESP,Lazio,Serie A,37.0,1,1,0,0,33,43,3
+Kévin Pedro,FRA,Saint-Étienne,Ligue 1,19.0,0,0,1,0,36,77,1
+Adrià Pedrosa,ESP,Sevilla,La Liga,26.0,0,0,1,0,33,78,0
+Jordan Pefok,USA,Union Berlin,de Bundesliga,28.0,1,0,0,0,104,87,4
+Pejiño,ESP,Las Palmas,La Liga,28.0,1,0,0,0,33,42,0
+Pietro Pellegri,ITA,Empoli,Serie A,23.0,1,0,0,0,55,25,3
+Lorenzo Pellegrini,ITA,Roma,Serie A,28.0,0,1,0,0,55,76,3
+Luca Pellegrini,ITA,Lazio,Serie A,26.0,0,0,1,0,55,43,3
+Mateo Pellegrino,ARG,Parma,Serie A,24.0,1,0,0,0,3,69,3
+Théo Pellenard,FRA,Auxerre,Ligue 1,31.0,0,0,1,0,36,8,1
+Andy Pelmard,FRA,Las Palmas,La Liga,24.0,0,0,1,0,36,42,0
+Timothee Pembele,FRA,Le Havre,Ligue 1,22.0,0,0,1,0,36,44,1
+Faris Pemi Moumbagna,CMR,Marseille,Ligue 1,24.0,1,0,0,0,17,57,1
+Iñaki Peña,ESP,Barcelona,La Liga,26.0,0,0,0,1,33,9,0
+Rubén Peña,ESP,Osasuna,La Liga,33.0,1,0,1,0,33,67,0
+Nicolas Pépé,CIV,Villarreal,La Liga,29.0,1,1,0,0,16,91,0
+Peque,ESP,Sevilla,La Liga,22.0,1,1,0,0,33,78,0
+Óscar Perea,COL,Strasbourg,Ligue 1,19.0,0,1,0,0,19,81,1
+Andreas Pereira,BRA,Fulham,Premier League,29.0,0,1,0,0,12,30,2
+Mathias Pereira Lage,POR,Brest,Ligue 1,28.0,1,1,0,0,86,16,1
+Pedro Pereira,POR,Monza,Serie A,27.0,0,0,1,0,86,61,3
+Ricardo Pereira,POR,Leicester City,Premier League,31.0,0,0,1,0,86,47,2
+Gastón Pereiro,URU,Genoa,Serie A,29.0,0,1,0,0,103,31,3
+Daniel Peretz,ISR,Bayern Munich,de Bundesliga,24.0,0,0,0,1,54,10,4
+Ayoze Pérez,ESP,Villarreal,La Liga,31.0,1,0,0,0,33,91,0
+Carles Pérez,ESP,Getafe,La Liga,27.0,1,1,0,0,33,32,0
+Francisco Perez,ESP,Valencia,La Liga,22.0,1,1,0,0,33,88,0
+Kike Pérez,ESP,Valladolid,La Liga,28.0,0,1,0,0,33,89,0
+Luis Pérez,ESP,Valladolid,La Liga,30.0,0,0,1,0,33,89,0
+Nehuén Pérez,ARG,Udinese,Serie A,24.0,0,0,1,0,3,86,3
+Simone Perilli,ITA,Hellas Verona,Serie A,30.0,0,0,0,1,55,36,3
+Mattia Perin,ITA,Juventus,Serie A,32.0,0,0,0,1,55,41,3
+Romain Perraud,FRA,Betis,La Liga,27.0,0,0,1,0,36,11,0
+Lucas Perri,BRA,Lyon,Ligue 1,27.0,0,0,0,1,12,52,1
+Gaëtan Perrin,FRA,Auxerre,Ligue 1,28.0,1,1,0,0,36,8,1
+Máximo Perrone,ARG,Como,Serie A,22.0,0,1,0,0,3,21,3
+Noah Pesch,CRO,Gladbach,de Bundesliga,19.0,1,0,0,0,23,34,4
+Matteo Pessina,ITA,Monza,Serie A,27.0,0,1,0,0,55,61,3
+Andrea Petagna,ITA,Monza,Serie A,29.0,1,0,0,0,55,61,3
+Léo Pétrot,FRA,Saint-Étienne,Ligue 1,27.0,0,0,1,0,36,77,1
+Đorđe Petrović,SRB,Strasbourg,Ligue 1,25.0,0,0,0,1,93,81,1
+Giuseppe Pezzella,ITA,Empoli,Serie A,27.0,1,0,1,0,55,25,3
+Valentín Pezzolesi,ESP,Las Palmas,La Liga,17.0,0,0,1,0,33,42,0
+Luca Philipp,GER,Hoffenheim,de Bundesliga,24.0,0,0,0,1,40,37,4
+Maximilian Philipp,GER,Freiburg,de Bundesliga,31.0,1,1,0,0,40,29,4
+Kalvin Phillips,ENG,Ipswich Town,Premier League,29.0,0,1,0,0,31,40,2
+Jaden Philogene Bidace,ENG,Ipswich Town,Premier League,23.0,1,0,1,0,31,40,2
+Pica,ESP,Alavés,La Liga,23.0,0,0,1,0,33,0,0
+Roberto Piccoli,ITA,Cagliari,Serie A,24.0,1,0,0,0,55,18,3
+Benedikt Pichler,AUT,Holstein Kiel,de Bundesliga,27.0,1,0,0,0,6,38,4
+Jordan Pickford,ENG,Everton,Premier League,31.0,0,0,0,1,31,27,2
+Amos Pieper,GER,Werder Bremen,de Bundesliga,27.0,0,0,1,0,40,92,4
+Marvin Pieringer,GER,Heidenheim,de Bundesliga,25.0,1,1,0,0,40,35,4
+Nicholas Pierini,ITA,Venezia,Serie A,26.0,0,1,0,0,55,90,3
+Santiago Pierotti,ARG,Lecce,Serie A,23.0,1,0,0,0,3,45,3
+Balthazar Pierret,FRA,Lecce,Serie A,24.0,0,1,0,0,36,45,3
+Andrea Pinamonti,ITA,Genoa,Serie A,25.0,1,0,0,0,55,31,3
+Ethan Pinnock,JAM,Brentford,Premier League,31.0,0,0,1,0,56,15,2
+Yeremi Pino,ESP,Villarreal,La Liga,22.0,0,1,0,0,33,91,0
+Niccolò Pisilli,ITA,Roma,Serie A,20.0,0,1,0,0,55,76,3
+Semuel Pizzignacco,ITA,Monza,Serie A,23.0,0,0,0,1,55,61,3
+Alassane Pléa,FRA,Gladbach,de Bundesliga,32.0,1,1,0,0,36,34,4
+Tommaso Pobega,ITA,Bologna,Serie A,25.0,0,1,0,0,55,13,3
+Daniel Podence,POR,Wolves,Premier League,29.0,1,1,0,0,86,95,2
+Joel Pohjanpalo,FIN,Venezia,Serie A,30.0,1,0,0,0,35,90,3
+Matteo Politano,ITA,Napoli,Serie A,31.0,1,1,0,0,55,63,3
+Alfie Pond,ENG,Wolves,Premier League,21.0,0,0,1,0,31,95,2
+Marin Pongračić,CRO,Fiorentina,Serie A,27.0,0,0,1,0,23,28,3
+Nick Pope,ENG,Newcastle Utd,Premier League,32.0,0,0,0,1,31,64,2
+Finn Porath,GER,Holstein Kiel,de Bundesliga,28.0,0,1,1,0,40,38,4
+Pedro Porro,ESP,Tottenham,Premier League,25.0,0,0,1,0,33,84,2
+Portu,ESP,Girona,La Liga,32.0,1,1,0,0,33,33,0
+Stefan Posch,AUT,Atalanta,Serie A,27.0,0,0,1,0,6,4,3
+Tom Pouilly,FRA,Lens,Ligue 1,21.0,0,0,1,0,36,48,1
+Yussuf Poulsen,DEN,RB Leipzig,de Bundesliga,30.0,1,1,0,0,27,70,4
+Beñat Prados,ESP,Athletic Club,La Liga,24.0,0,1,0,0,33,5,0
+Alexander Prass,AUT,Hoffenheim,de Bundesliga,23.0,0,0,1,0,6,37,4
+Matteo Prati,ITA,Cagliari,Serie A,21.0,0,1,0,0,55,18,3
+Abdón Prats,ESP,Mallorca,La Liga,32.0,1,1,0,0,33,54,0
+Grischa Prömel,GER,Hoffenheim,de Bundesliga,30.0,0,1,0,0,40,37,4
+Ivan Provedel,ITA,Lazio,Serie A,30.0,0,0,0,1,55,43,3
+Ivan Prtajin,CRO,Union Berlin,de Bundesliga,28.0,1,0,0,0,23,87,4
+Javi Puado,ESP,Espanyol,La Liga,26.0,1,1,0,0,33,26,0
+Tymoteusz Puchacz,POL,Holstein Kiel,de Bundesliga,26.0,0,0,1,0,85,38,4
+Diego Pugno,ITA,Juventus,Serie A,18.0,1,0,0,0,55,41,3
+Christian Pulisic,USA,Milan,Serie A,26.0,1,1,0,0,104,58,3
+Jarell Quansah,ENG,Liverpool,Premier League,22.0,0,0,1,0,31,51,2
+Leopold Querfeld,AUT,Union Berlin,de Bundesliga,21.0,0,0,1,0,6,87,4
+Dani Raba,ESP,Leganés,La Liga,29.0,1,1,0,0,33,46,0
+Adrien Rabiot,FRA,Marseille,Ligue 1,29.0,0,1,0,0,36,57,1
+Ionuț Radu,ROU,Venezia,Serie A,27.0,0,0,0,1,88,90,3
+Hamza Rafia,TUN,Lecce,Serie A,25.0,0,1,0,0,100,45,3
+Hákon Rafn Valdimarsson,ISL,Brentford,Premier League,23.0,0,0,0,1,53,15,2
+Antonio Raillo,ESP,Mallorca,La Liga,33.0,0,0,1,0,33,54,0
+Antonio Raimondo,ITA,Venezia,Serie A,20.0,1,0,1,0,55,90,3
+Ylber Ramadani,ALB,Lecce,Serie A,28.0,0,1,0,0,0,45,3
+Benito Ramírez,ESP,Las Palmas,La Liga,29.0,0,1,1,0,33,42,0
+Sandro Ramírez,ESP,Las Palmas,La Liga,29.0,1,1,0,0,33,42,0
+Gonçalo Ramos,POR,Paris S-G,Ligue 1,23.0,1,0,0,0,86,68,1
+Aaron Ramsdale,ENG,Southampton,Premier League,26.0,0,0,0,1,31,79,2
+Jacob Ramsey,ENG,Aston Villa,Premier League,23.0,1,1,0,0,31,3,2
+Luca Ranieri,ITA,Fiorentina,Serie A,25.0,0,0,1,0,55,28,3
+Grant Ranos,ARM,Gladbach,de Bundesliga,21.0,1,0,0,0,4,34,4
+Lilian Raolisoa,FRA,Angers,Ligue 1,24.0,1,0,1,0,36,1,1
+Raphinha,BRA,Barcelona,La Liga,28.0,1,1,0,0,12,9,0
+Marcus Rashford,ENG,Aston Villa,Premier League,27.0,1,0,0,0,31,3,2
+Giacomo Raspadori,ITA,Napoli,Serie A,25.0,1,1,0,0,55,63,3
+Andrei Ratiu,ROU,Rayo Vallecano,La Liga,26.0,0,0,1,0,88,71,0
+Raúl,ESP,Osasuna,La Liga,24.0,1,1,0,0,33,67,0
+David Raum,GER,RB Leipzig,de Bundesliga,26.0,0,0,1,0,40,70,4
+Federico Ravaglia,ITA,Bologna,Serie A,25.0,0,0,0,1,55,13,3
+Rayan Raveloson,MAD,Auxerre,Ligue 1,28.0,0,1,1,0,66,8,1
+David Raya,ESP,Arsenal,Premier League,29.0,0,0,0,1,33,2,2
+Abderrahman Rebbach,ALG,Alavés,La Liga,26.0,1,1,0,0,1,0,0
+Ante Rebić,CRO,Lecce,Serie A,31.0,1,1,0,0,23,45,3
+Harrison Reed,ENG,Fulham,Premier League,30.0,0,1,0,0,31,30,2
+Remy Rees-Dottin,ENG,Bournemouth,Premier League,19.0,1,0,0,0,31,14,2
+Sergio Reguilón,ESP,Tottenham,Premier League,28.0,0,0,1,0,33,84,2
+Bobby Reid,JAM,Leicester City,Premier League,32.0,1,1,0,0,56,47,2
+Tijjani Reijnders,NED,Milan,Serie A,26.0,0,1,0,0,76,58,3
+Pepe Reina,ESP,Como,Serie A,42.0,0,0,0,1,33,21,3
+Rocco Reitz,GER,Gladbach,de Bundesliga,22.0,0,1,0,0,40,34,4
+Nicolai Remberg,GER,Holstein Kiel,de Bundesliga,24.0,0,1,0,0,40,38,4
+Álex Remiro,ESP,Real Sociedad,La Liga,29.0,0,0,0,1,33,73,0
+Devyne Rensch,NED,Roma,Serie A,22.0,0,0,1,0,76,76,3
+Guillaume Restes,FRA,Toulouse,Ligue 1,19.0,0,0,0,1,36,85,1
+Mateo Retegui,ITA,Atalanta,Serie A,25.0,1,0,0,0,55,4,3
+Elvis Rexhbeçaj,KVX,Augsburg,de Bundesliga,27.0,0,1,0,0,62,7,4
+Gio Reyna,USA,Dortmund,de Bundesliga,22.0,0,1,0,0,104,23,4
+Chadi Riad,MAR,Crystal Palace,Premier League,21.0,0,0,1,0,67,22,2
+Alexsandro Ribeiro,BRA,Lille,Ligue 1,25.0,0,0,1,0,12,50,1
+Samuele Ricci,ITA,Torino,Serie A,23.0,0,1,0,0,55,83,3
+Declan Rice,ENG,Arsenal,Premier League,26.0,0,1,0,0,31,2,2
+Chris Richards,USA,Crystal Palace,Premier League,24.0,0,0,1,0,104,22,2
+Amir Richardson,MAR,Fiorentina,Serie A,23.0,0,1,0,0,67,28,3
+Richarlison,BRA,Tottenham,Premier League,27.0,1,0,0,0,12,84,2
+Diego Rico,ESP,Getafe,La Liga,32.0,0,0,1,0,33,32,0
+Fabian Rieder,SUI,Stuttgart,de Bundesliga,23.0,1,1,0,0,94,82,4
+Luis Rioja,ESP,Valencia,La Liga,31.0,1,1,0,0,33,88,0
+Rodrigo Riquelme,ESP,Atlético Madrid,La Liga,24.0,0,1,1,0,33,6,0
+Alberto Risco,ESP,Getafe,La Liga,19.0,1,1,0,0,33,32,0
+Mihailo Ristić,SRB,Celta Vigo,La Liga,29.0,0,1,1,0,93,19,0
+Lars Ritzka,GER,St. Pauli,de Bundesliga,26.0,0,1,1,0,40,80,4
+Gorka Rivera Alonso,ESP,Getafe,La Liga,20.0,0,1,1,0,33,32,0
+Sergi Roberto,ESP,Como,Serie A,33.0,0,1,0,0,33,21,3
+Andrew Robertson,SCO,Liverpool,Premier League,30.0,0,0,1,0,90,51,2
+Antonee Robinson,USA,Fulham,Premier League,27.0,0,0,1,0,104,30,2
+Marc Roca,ESP,Betis,La Liga,28.0,0,1,0,0,33,11,0
+Rodri,ESP,Betis,La Liga,24.0,1,0,0,0,33,11,0
+Adrian Rodriguez,ESP,Alavés,La Liga,24.0,0,0,0,1,33,0,0
+Álvaro Rodríguez,URU,Getafe,La Liga,20.0,1,0,0,0,103,32,0
+Óscar Rodríguez Arnaiz,ESP,Leganés,La Liga,26.0,1,1,0,0,33,46,0
+Damián Rodríguez,ESP,Celta Vigo,La Liga,21.0,0,1,0,0,33,19,0
+Dani Rodríguez,ESP,Mallorca,La Liga,36.0,1,1,0,0,33,54,0
+Guido Rodríguez,ARG,West Ham,Premier League,30.0,0,1,0,0,3,93,2
+James Rodríguez,COL,Rayo Vallecano,La Liga,33.0,1,1,0,0,19,71,0
+Javi Rodríguez,ESP,Celta Vigo,La Liga,21.0,0,0,1,0,33,19,0
+Jesus Rodríguez,ESP,Betis,La Liga,19.0,1,0,0,0,33,11,0
+Kirian Rodríguez,ESP,Las Palmas,La Liga,29.0,0,1,0,0,33,42,0
+Ricardo Rodríguez,SUI,Betis,La Liga,32.0,0,0,1,0,94,11,0
+Rodrygo,BRA,Real Madrid,La Liga,24.0,1,1,0,0,12,72,0
+Mads Roerslev,DEN,Wolfsburg,de Bundesliga,25.0,0,0,1,0,27,94,4
+Morgan Rogers,ENG,Aston Villa,Premier League,22.0,1,1,0,0,31,3,2
+Merlin Röhl,GER,Freiburg,de Bundesliga,22.0,1,1,0,0,40,29,4
+Alessio Romagnoli,ITA,Lazio,Serie A,30.0,0,0,1,0,55,43,3
+Leo Román,ESP,Mallorca,La Liga,24.0,0,0,0,1,33,54,0
+Carlos Romero,ESP,Espanyol,La Liga,23.0,0,1,1,0,33,26,0
+Cristian Romero,ARG,Tottenham,Premier League,26.0,0,0,1,0,3,84,2
+Isaac Romero,ESP,Sevilla,La Liga,24.0,1,0,0,0,33,78,0
+Luka Romero,ARG,Alavés,La Liga,20.0,1,1,0,0,3,0,0
+Oriol Romeu,ESP,Girona,La Liga,33.0,0,1,0,0,33,33,0
+Valentin Rongier,FRA,Marseille,Ligue 1,30.0,0,1,1,0,36,57,1
+Marten de Roon,NED,Atalanta,Serie A,33.0,0,1,1,0,76,4,3
+Vitor Roque,BRA,Betis,La Liga,20.0,1,0,0,0,12,11,0
+Pablo Rosario,NED,Nice,Ligue 1,28.0,0,1,1,0,76,65,1
+Lasse Rosenboom,GER,Holstein Kiel,de Bundesliga,23.0,0,0,1,0,40,38,4
+Max Rosenfelder,GER,Freiburg,de Bundesliga,22.0,0,0,1,0,40,29,4
+Valentin Rosier,FRA,Leganés,La Liga,28.0,0,0,1,0,36,46,0
+Tom Rothe,GER,Union Berlin,de Bundesliga,20.0,0,1,1,0,40,87,4
+Anthony Rouault,FRA,Stuttgart,de Bundesliga,23.0,0,0,1,0,36,82,4
+Jonas Rouhi,SWE,Juventus,Serie A,21.0,0,0,1,0,98,41,3
+Jérôme Roussillon,FRA,Union Berlin,de Bundesliga,32.0,0,1,1,0,36,87,4
+Nicolò Rovella,ITA,Lazio,Serie A,23.0,0,1,0,0,55,43,3
+Jon Rowe,ENG,Marseille,Ligue 1,21.0,1,1,0,0,31,57,1
+Amir Rrahmani,KVX,Napoli,Serie A,31.0,0,0,1,0,62,63,3
+Tommaso Rubino,ITA,Fiorentina,Serie A,18.0,0,1,0,0,55,28,3
+Antonio Rüdiger,GER,Real Madrid,La Liga,32.0,0,0,1,0,40,72,0
+Matteo Ruggeri,ITA,Atalanta,Serie A,22.0,0,0,1,0,55,4,3
+Aitor Ruibal,ESP,Betis,La Liga,28.0,1,0,1,0,33,11,0
+Abel Ruiz,ESP,Girona,La Liga,25.0,1,0,0,0,33,33,0
+Ferrán Ruiz,ESP,Girona,La Liga,21.0,0,1,0,0,33,33,0
+Fabián Ruiz Peña,ESP,Paris S-G,Ligue 1,28.0,0,1,0,0,33,68,1
+Gerónimo Rulli,ARG,Marseille,Ligue 1,32.0,0,0,0,1,3,57,1
+Georginio Rutter,FRA,Brighton,Premier League,22.0,1,1,0,0,36,17,2
+Mathew Ryan,AUS,Lens,Ligue 1,32.0,0,0,0,1,5,48,1
+Julian Ryerson,NOR,Dortmund,de Bundesliga,27.0,0,0,1,0,79,23,4
+Frederik Rønnow,DEN,Union Berlin,de Bundesliga,32.0,0,0,0,1,27,87,4
+José Sá,POR,Wolves,Premier League,32.0,0,0,0,1,86,95,2
+Elias Saad,TUN,St. Pauli,de Bundesliga,25.0,1,1,0,0,100,80,4
+Youssouf Sabaly,SEN,Betis,La Liga,32.0,0,0,1,0,91,11,0
+Emmanuel Sabbi,USA,Le Havre,Ligue 1,27.0,1,1,0,0,104,44,1
+Stefano Sabelli,ITA,Genoa,Serie A,32.0,0,0,1,0,55,31,3
+Marcel Sabitzer,AUT,Dortmund,de Bundesliga,30.0,1,1,0,0,6,23,4
+Falaye Sacko,MLI,Montpellier,Ligue 1,29.0,0,0,1,0,70,60,1
+Umar Sadiq,NGA,Real Sociedad,La Liga,28.0,1,0,0,0,77,73,0
+Alexis Saelemaekers,BEL,Milan,Serie A,25.0,1,0,1,0,8,58,3
+Jorge Sáenz,ESP,Leganés,La Liga,28.0,0,0,1,0,33,46,0
+Matvei Safonov,RUS,Paris S-G,Ligue 1,26.0,0,0,0,1,89,68,1
+Modibo Sagnan,MLI,Montpellier,Ligue 1,25.0,0,0,1,0,70,60,1
+Richie Sagrado,BEL,Venezia,Serie A,21.0,0,0,1,0,8,90,3
+Osame Sahraoui,MAR,Lille,Ligue 1,23.0,1,1,0,0,67,50,1
+Wesley Saïd,FRA,Lens,Ligue 1,29.0,1,1,0,0,36,48,1
+Théo Sainte-Luce,FRA,Montpellier,Ligue 1,26.0,0,0,1,0,36,60,1
+Bukayo Saka,ENG,Arsenal,Premier League,23.0,1,1,0,0,31,2,2
+Faik Sakar,GER,RB Leipzig,de Bundesliga,17.0,0,1,0,0,40,70,4
+Marco Sala,ITA,Lecce,Serie A,25.0,0,0,1,0,55,45,3
+Ibrahim Salah,MAR,Brest,Ligue 1,23.0,1,0,0,0,67,16,1
+Mohamed Salah,EGY,Liverpool,Premier League,32.0,1,0,0,0,30,51,2
+Anass Salah-Eddine,NED,Roma,Serie A,23.0,0,0,1,0,76,76,3
+Amine Salama,FRA,Reims,Ligue 1,24.0,1,0,0,0,36,74,1
+Jan Salas,ESP,Mallorca,La Liga,19.0,0,1,0,0,33,54,0
+Kike Salas,ESP,Sevilla,La Liga,22.0,0,0,1,0,33,78,0
+Manolis Saliakas,GRE,St. Pauli,de Bundesliga,28.0,0,1,1,0,44,80,4
+William Saliba,FRA,Arsenal,Premier League,23.0,0,0,1,0,36,2,2
+Mohammed Salisu,GHA,Monaco,Ligue 1,25.0,0,0,1,0,41,59,1
+Roland Sallai,HUN,Freiburg,de Bundesliga,27.0,1,1,0,0,48,29,4
+Yoann Salmier,GUF,Le Havre,Ligue 1,32.0,0,0,1,0,45,44,1
+Lazar Samardzic,SRB,Atalanta,Serie A,23.0,1,1,0,0,93,4,3
+Diadie Samassékou,MLI,Hoffenheim,de Bundesliga,29.0,0,1,0,0,70,37,4
+Mama Samba Baldé,GNB,Brest,Ligue 1,29.0,1,0,0,0,43,16,1
+Brice Samba,FRA,Lens,Ligue 1,30.0,0,0,0,1,36,48,1
+Albert Sambi Lokonga,BEL,Sevilla,La Liga,25.0,0,1,0,0,8,78,0
+Junior Sambia,FRA,Empoli,Serie A,28.0,1,0,1,0,36,25,3
+Chuky san jose,ESP,Valladolid,La Liga,20.0,1,1,0,0,33,89,0
+Antonio Sanabria,PAR,Torino,Serie A,29.0,1,0,0,0,82,83,3
+Oihan Sancet,ESP,Athletic Club,La Liga,24.0,0,1,0,0,33,5,0
+Alexis Sánchez,CHI,Udinese,Serie A,36.0,1,0,0,0,15,86,3
+Antonio Sánchez,ESP,Mallorca,La Liga,28.0,0,1,1,0,33,54,0
+Iván Sánchez,ESP,Valladolid,La Liga,32.0,1,1,0,0,33,89,0
+Javi Sánchez,ESP,Valladolid,La Liga,27.0,0,0,1,0,33,89,0
+Juanlu Sánchez,ESP,Sevilla,La Liga,21.0,0,1,1,0,33,78,0
+Manu Sánchez,ESP,Alavés,La Liga,24.0,0,0,1,0,33,0,0
+Robert Sánchez,ESP,Chelsea,Premier League,27.0,0,0,0,1,33,20,2
+Jadon Sancho,ENG,Chelsea,Premier League,24.0,1,0,0,0,31,20,2
+Philipp Sander,GER,Gladbach,de Bundesliga,27.0,0,1,0,0,40,34,4
+James Sands,USA,St. Pauli,de Bundesliga,24.0,0,1,1,0,104,80,4
+Leroy Sané,GER,Bayern Munich,de Bundesliga,29.0,1,0,0,0,40,10,4
+Arouna Sangante,SEN,Le Havre,Ligue 1,22.0,0,0,1,0,91,44,1
+Ibrahim Sangaré,CIV,Nott'ham Forest,Premier League,27.0,0,1,0,0,16,66,2
+Nhoa Sangui,FRA,Reims,Ligue 1,19.0,0,1,1,0,36,74,1
+Maroan Sannadi,ESP,Athletic Club,La Liga,24.0,1,0,0,0,33,5,0
+Kaishu Sano,JPN,Mainz 05,de Bundesliga,24.0,0,1,0,0,58,53,4
+Nicola Sansone,ITA,Lecce,Serie A,33.0,1,1,0,0,55,45,3
+Baptiste Santamaria,FRA,Rennes,Ligue 1,30.0,0,1,0,0,36,75,1
+Jesús Santiago,ESP,Getafe,La Liga,20.0,0,1,0,0,33,32,0
+Andrey Santos,BRA,Strasbourg,Ligue 1,20.0,0,1,0,0,12,81,1
+Kauã Santos,BRA,Eint Frankfurt,de Bundesliga,21.0,0,0,0,1,12,24,4
+Tiago Santos,POR,Lille,Ligue 1,22.0,0,0,1,0,86,50,1
+Pablo Sarabia,ESP,Wolves,Premier League,32.0,1,1,0,0,33,95,2
+Jeremy Sarmiento,ECU,Brighton,Premier League,22.0,0,1,0,0,29,17,2
+Amin Sarr,SWE,Hellas Verona,Serie A,23.0,1,0,0,0,98,36,3
+Ismaila Sarr,SEN,Crystal Palace,Premier League,27.0,1,1,0,0,91,22,2
+Malang Sarr,FRA,Lens,Ligue 1,26.0,0,0,1,0,36,48,1
+Mamadou Sarr,FRA,Strasbourg,Ligue 1,19.0,0,0,1,0,36,81,1
+Martin Satriano,URU,Lens,Ligue 1,24.0,1,0,1,0,103,48,1
+Razvan Sava,ROU,Udinese,Serie A,22.0,0,0,0,1,88,86,3
+Téji Savanier,FRA,Montpellier,Ligue 1,33.0,0,1,0,0,36,60,1
+Sávio,BRA,Manchester City,Premier League,20.0,1,1,0,0,12,55,2
+Nicolò Savona,ITA,Juventus,Serie A,21.0,0,0,1,0,55,41,3
+Saba Sazonov,GEO,Torino,Serie A,23.0,0,0,1,0,39,83,3
+Joe Scally,USA,Gladbach,de Bundesliga,22.0,0,0,1,0,104,34,4
+Giorgio Scalvini,ITA,Atalanta,Serie A,21.0,0,0,1,0,55,4,3
+Gianluca Scamacca,ITA,Atalanta,Serie A,26.0,1,0,0,0,55,4,3
+Oliver Scarles,ENG,West Ham,Premier League,19.0,0,0,1,0,31,93,2
+Dane Scarlett,ENG,Tottenham,Premier League,20.0,1,0,0,0,31,84,2
+Kevin Schade,GER,Brentford,Premier League,23.0,1,0,0,0,40,15,2
+András Schäfer,HUN,Union Berlin,de Bundesliga,25.0,0,1,0,0,48,87,4
+Fabian Schär,SUI,Newcastle Utd,Premier League,33.0,0,0,1,0,94,64,2
+Patrik Schick,CZE,Leverkusen,de Bundesliga,29.0,1,0,0,0,26,49,4
+Stefan Schimmer,GER,Heidenheim,de Bundesliga,30.0,1,1,0,0,40,35,4
+Joël Schingtienne,BEL,Venezia,Serie A,22.0,0,0,1,0,8,90,3
+Xaver Schlager,AUT,RB Leipzig,de Bundesliga,27.0,0,1,0,0,6,70,4
+Keven Schlotterbeck,GER,Augsburg,de Bundesliga,27.0,0,0,1,0,40,7,4
+Nico Schlotterbeck,GER,Dortmund,de Bundesliga,25.0,0,0,1,0,40,23,4
+Jeffrey Schlupp,GHA,Crystal Palace,Premier League,32.0,0,1,1,0,41,22,2
+Romano Schmid,AUT,Werder Bremen,de Bundesliga,25.0,0,1,0,0,6,92,4
+Niklas Schmidt,GER,Toulouse,Ligue 1,27.0,0,1,0,0,40,85,1
+Jan Schöppner,GER,Heidenheim,de Bundesliga,25.0,0,1,0,0,40,35,4
+Marvin Schulz,GER,Holstein Kiel,de Bundesliga,30.0,0,1,1,0,40,38,4
+Alexander Schwolow,GER,Union Berlin,de Bundesliga,32.0,0,0,0,1,40,87,4
+Léo Scienza,BRA,Heidenheim,de Bundesliga,26.0,1,1,0,0,12,35,4
+Alex Scott,ENG,Bournemouth,Premier League,21.0,0,1,0,0,31,14,2
+Simone Scuffet,ITA,Cagliari,Serie A,28.0,0,0,0,1,55,18,3
+Jérémy Sebas,MTQ,Strasbourg,Ligue 1,21.0,1,1,0,0,75,81,1
+Aleksandar Sedlar,SRB,Alavés,La Liga,33.0,0,0,1,0,93,0,0
+Jacopo Seghetti,ITA,Empoli,Serie A,20.0,0,0,0,1,55,25,3
+Alidu Seidu,GHA,Rennes,Ligue 1,24.0,0,0,1,0,41,75,1
+Nicolas Seiwald,AUT,RB Leipzig,de Bundesliga,23.0,0,1,1,0,6,70,4
+Hiroki Sekine,JPN,Reims,Ligue 1,22.0,0,0,1,0,58,74,1
+Matz Sels,BEL,Nott'ham Forest,Premier League,33.0,0,0,0,1,8,66,2
+Nélson Semedo,POR,Wolves,Premier League,31.0,0,0,1,0,86,95,2
+Antoine Semenyo,GHA,Bournemouth,Premier League,25.0,1,0,0,0,41,14,2
+Marvin Senaya,TOG,Strasbourg,Ligue 1,24.0,0,0,1,0,99,81,1
+Marcos Senesi,ARG,Bournemouth,Premier League,27.0,0,0,1,0,3,14,2
+Stefano Sensi,ITA,Monza,Serie A,29.0,0,1,0,0,55,61,3
+Suat Serdar,GER,Hellas Verona,Serie A,27.0,0,1,0,0,40,36,3
+Sergi,ESP,Leganés,La Liga,32.0,0,0,1,0,33,46,0
+Nicolás Serrano,ESP,Athletic Club,La Liga,22.0,1,0,0,0,33,5,0
+Benjamin Šeško,SVN,RB Leipzig,de Bundesliga,21.0,1,1,0,0,97,70,4
+Ryan Sessegnon,ENG,Fulham,Premier League,24.0,0,1,1,0,31,30,2
+Stephan El Shaarawy,ITA,Roma,Serie A,32.0,0,1,1,0,55,76,3
+Luke Shaw,ENG,Manchester Utd,Premier League,29.0,0,0,1,0,31,56,2
+Alen Sherri,ALB,Cagliari,Serie A,27.0,0,0,0,1,0,18,3
+Eldor Shomurodov,UZB,Roma,Serie A,29.0,1,0,0,0,105,76,3
+Djibril Sidibé,FRA,Toulouse,Ligue 1,32.0,0,0,1,0,36,85,1
+Armindo Sieb,GER,Mainz 05,de Bundesliga,22.0,1,1,0,0,40,53,4
+Vincent Sierro,SUI,Toulouse,Ligue 1,29.0,0,1,0,0,94,85,1
+Tim Siersleben,GER,Heidenheim,de Bundesliga,25.0,0,0,1,0,40,35,4
+Zain Silcott-Duberry,MSR,Bournemouth,Premier League,19.0,1,0,0,0,74,14,2
+Kiliann Sildillia,FRA,Freiburg,de Bundesliga,22.0,0,0,1,0,36,29,4
+André Silva,POR,RB Leipzig,de Bundesliga,29.0,1,1,0,0,86,70,4
+Bernardo Silva,POR,Manchester City,Premier League,30.0,1,1,0,0,86,55,2
+Caio Henrique Oliveira Silva,BRA,Monaco,Ligue 1,27.0,0,0,1,0,12,59,1
+Fábio Silva,POR,Las Palmas,La Liga,22.0,1,0,0,0,86,42,0
+Jota Silva,POR,Nott'ham Forest,Premier League,25.0,1,1,0,0,86,66,2
+Eric da Silva Moreira,GER,Nott'ham Forest,Premier League,18.0,0,1,1,0,40,66,2
+Rui Silva,POR,Betis,La Liga,31.0,0,0,0,1,86,11,0
+Marco Silvestri,ITA,Empoli,Serie A,34.0,0,0,0,1,55,25,3
+Abdallah Sima,SEN,Brest,Ligue 1,23.0,1,1,0,0,91,16,1
+Mohamed Simakan,FRA,RB Leipzig,de Bundesliga,24.0,0,0,1,0,36,70,4
+Giovanni Simeone,ARG,Napoli,Serie A,29.0,1,0,0,0,3,63,3
+Giuliano Simeone,ARG,Atlético Madrid,La Liga,22.0,0,1,1,0,3,6,0
+Moses Simon,NGA,Nantes,Ligue 1,29.0,1,1,0,0,77,62,1
+Unai Simón,ESP,Athletic Club,La Liga,27.0,0,0,0,1,33,5,0
+Xavi Simons,NED,RB Leipzig,de Bundesliga,21.0,0,1,0,0,76,70,4
+Jahmai Simpson-Pusey,ENG,Manchester City,Premier League,19.0,0,0,1,0,31,55,2
+Danel Sinani,LUX,St. Pauli,de Bundesliga,27.0,1,1,0,0,65,80,4
+Lassine Sinayoko,MLI,Auxerre,Ligue 1,25.0,1,1,0,0,70,8,1
+Wilfried Singo,CIV,Monaco,Ligue 1,24.0,0,0,1,0,16,59,1
+Luis Sinisterra,COL,Bournemouth,Premier League,25.0,1,1,0,0,19,14,2
+Daley Sinkgraven,NED,Las Palmas,La Liga,29.0,0,0,1,0,76,42,0
+Tobias Sippel,GER,Gladbach,de Bundesliga,36.0,0,0,0,1,40,34,4
+Jailson Siqueira,BRA,Celta Vigo,La Liga,29.0,0,1,1,0,12,19,0
+Ayanda Sishuba,BEL,Rennes,Ligue 1,20.0,1,0,0,0,8,75,1
+Ibrahim Sissoko,MLI,Saint-Étienne,Ligue 1,29.0,1,0,0,0,70,77,1
+Ibrahima Sissoko,MLI,Bochum,de Bundesliga,27.0,0,1,0,0,70,12,4
+Niama Sissoko,MLI,Reims,Ligue 1,19.0,1,1,0,0,70,74,1
+Antonio Sivera,ESP,Alavés,La Liga,28.0,0,0,0,1,33,0,0
+Tim Skarke,GER,Union Berlin,de Bundesliga,28.0,1,1,0,0,40,87,4
+Ellyes Skhiri,TUN,Eint Frankfurt,de Bundesliga,29.0,0,1,0,0,100,24,4
+Oliver Skipp,ENG,Leicester City,Premier League,24.0,0,1,0,0,31,47,2
+Leo Skiri Østigård,NOR,Hoffenheim,de Bundesliga,25.0,0,0,1,0,79,37,4
+Łukasz Skorupski,POL,Bologna,Serie A,33.0,0,0,0,1,85,13,3
+Andreas Skov Olsen,DEN,Wolfsburg,de Bundesliga,25.0,1,1,0,0,27,94,4
+Robert Skov,DEN,Union Berlin,de Bundesliga,28.0,0,1,1,0,27,87,4
+Milan Škriniar,SVK,Paris S-G,Ligue 1,30.0,0,0,1,0,96,68,1
+Steven Skrzybski,GER,Holstein Kiel,de Bundesliga,32.0,1,1,0,0,40,38,4
+Naatan Skyttä,FIN,Toulouse,Ligue 1,22.0,1,0,0,0,35,85,1
+William Smallbone,IRL,Southampton,Premier League,25.0,0,1,0,0,50,79,2
+Adam Smith,ENG,Bournemouth,Premier League,33.0,0,0,1,0,31,14,2
+Eric Smith,SWE,St. Pauli,de Bundesliga,28.0,0,1,1,0,98,80,4
+Justin Smith,CAN,Espanyol,La Liga,22.0,0,1,0,0,13,26,0
+Emile Smith Rowe,ENG,Fulham,Premier League,24.0,0,1,0,0,31,30,2
+Ivan Smolčić,CRO,Como,Serie A,24.0,0,0,1,0,23,21,3
+Eduard Sobol,UKR,Strasbourg,Ligue 1,29.0,0,0,1,0,102,81,1
+Simon Sohm,SUI,Parma,Serie A,23.0,0,1,0,0,94,69,3
+Alex Sola,ESP,Getafe,La Liga,25.0,1,1,0,0,33,32,0
+Dominic Solanke,ENG,Tottenham,Premier League,27.0,1,0,0,0,31,84,2
+Ola Solbakken,NOR,Empoli,Serie A,26.0,1,1,0,0,79,25,3
+Carlos Soler,ESP,West Ham,Premier League,28.0,1,1,0,0,33,93,2
+Oumar Solet,FRA,Udinese,Serie A,25.0,0,0,1,0,36,86,3
+Jhon Solis,COL,Girona,La Liga,20.0,0,1,0,0,19,33,0
+Yann Sommer,SUI,Inter,Serie A,36.0,0,0,0,1,94,39,3
+David Soria,ESP,Getafe,La Liga,31.0,0,0,0,1,33,32,0
+Juan Soriano,ESP,Leganés,La Liga,27.0,0,0,0,1,33,46,0
+Borna Sosa,CRO,Torino,Serie A,27.0,0,0,1,0,23,83,3
+Ramón Sosa,PAR,Nott'ham Forest,Premier League,25.0,1,1,0,0,82,66,2
+Hugo Sotelo,ESP,Celta Vigo,La Liga,21.0,0,1,0,0,33,19,0
+Florian Sotoca,FRA,Lens,Ligue 1,34.0,1,1,0,0,36,48,1
+Riccardo Sottil,ITA,Milan,Serie A,25.0,1,1,0,0,55,58,3
+Tomáš Souček,CZE,West Ham,Premier League,30.0,0,1,0,0,26,93,2
+Matìas Soulé,ARG,Roma,Serie A,21.0,1,1,0,0,3,76,3
+Boubakary Soumaré,FRA,Leicester City,Premier League,26.0,0,1,0,0,36,47,2
+Issa Soumaré,SEN,Le Havre,Ligue 1,24.0,1,1,0,0,91,44,1
+Djibril Sow,SUI,Sevilla,La Liga,28.0,0,1,0,0,94,78,0
+Saidou Sow,GUI,Nantes,Ligue 1,22.0,0,0,1,0,46,62,1
+Djed Spence,ENG,Tottenham,Premier League,24.0,0,0,1,0,31,84,2
+Leonardo Spinazzola,ITA,Napoli,Serie A,31.0,1,0,1,0,55,63,3
+Marco Sportiello,ITA,Milan,Serie A,32.0,0,0,0,1,55,58,3
+Anton Stach,GER,Hoffenheim,de Bundesliga,26.0,0,1,1,0,40,37,4
+Jens Stage,DEN,Werder Bremen,de Bundesliga,28.0,0,1,0,0,27,92,4
+Josip Stanišić,CRO,Bayern Munich,de Bundesliga,24.0,0,0,1,0,23,10,4
+Filip Stankovic,SRB,Venezia,Serie A,23.0,0,0,0,1,93,90,3
+Jay Stansfield,ENG,Fulham,Premier League,22.0,0,1,0,0,31,30,2
+Carl Starfelt,SWE,Celta Vigo,La Liga,29.0,0,0,1,0,98,19,0
+Niklas Stark,GER,Werder Bremen,de Bundesliga,29.0,0,0,1,0,40,92,4
+Lucas Stassin,BEL,Saint-Étienne,Ligue 1,20.0,1,0,0,0,8,77,1
+Jason Steele,ENG,Brighton,Premier League,34.0,0,0,0,1,31,17,2
+Orri Steinn Óskarsson,ISL,Real Sociedad,La Liga,20.0,1,0,0,0,53,73,0
+Pascal Stenzel,GER,Stuttgart,de Bundesliga,28.0,0,0,1,0,40,82,4
+Jack Stephens,ENG,Southampton,Premier League,31.0,0,0,1,0,31,79,2
+Leonidas Stergiou,SUI,Stuttgart,de Bundesliga,23.0,0,0,1,0,94,82,4
+Raheem Sterling,ENG,Arsenal,Premier League,30.0,1,1,0,0,31,2,2
+Enzo Sternal,FRA,Marseille,Ligue 1,17.0,1,1,0,0,36,57,1
+Finley Stevens,WAL,St. Pauli,de Bundesliga,21.0,0,0,1,0,107,80,4
+Ross Stewart,SCO,Southampton,Premier League,28.0,1,1,0,0,90,79,2
+Angelo Stiller,GER,Stuttgart,de Bundesliga,23.0,0,1,0,0,40,82,4
+Kevin Stöger,AUT,Gladbach,de Bundesliga,31.0,1,1,0,0,6,34,4
+Stoichkov,ESP,Alavés,La Liga,31.0,1,1,0,0,33,0,0
+Petar Stojanović,SVN,Empoli,Serie A,29.0,0,1,0,0,97,25,3
+Jakub Stolarczyk,POL,Leicester City,Premier League,24.0,0,0,0,1,85,47,2
+John Stones,ENG,Manchester City,Premier League,30.0,0,1,1,0,31,55,2
+Jørgen Strand Larsen,NOR,Wolves,Premier League,25.0,1,0,0,0,79,95,2
+Gabriel Strefezza,BRA,Como,Serie A,27.0,1,1,0,0,12,21,3
+Cristhian Stuani,URU,Girona,La Liga,38.0,1,0,0,0,103,33,0
+Álex Suárez,ESP,Las Palmas,La Liga,31.0,0,0,1,0,33,42,0
+Denis Suárez,ESP,Villarreal,La Liga,31.0,0,1,0,0,33,91,0
+Gabriel Suazo,CHI,Toulouse,Ligue 1,27.0,0,0,1,0,15,85,1
+Luka Sučić,CRO,Real Sociedad,La Liga,22.0,0,1,0,0,23,73,0
+Yukinari Sugawara,JPN,Southampton,Premier League,24.0,0,0,1,0,58,79,2
+Niklas Süle,GER,Dortmund,de Bundesliga,29.0,0,0,1,0,40,23,4
+Ibrahim Sulemana,GHA,Atalanta,Serie A,21.0,0,1,0,0,41,4,3
+Kamaldeen Sulemana,GHA,Southampton,Premier League,23.0,1,1,0,0,41,79,2
+Crysencio Summerville,NED,West Ham,Premier League,23.0,1,1,0,0,76,93,2
+Tomáš Suslov,SVK,Hellas Verona,Serie A,22.0,1,1,0,0,96,36,3
+Suso,ESP,Sevilla,La Liga,31.0,1,1,0,0,33,78,0
+Zion Suzuki,JPN,Parma,Serie A,22.0,0,0,0,1,58,69,3
+Mattias Svanberg,SWE,Wolfsburg,de Bundesliga,26.0,0,1,0,0,98,94,4
+Daniel Svensson,SWE,Dortmund,de Bundesliga,23.0,0,0,1,0,98,23,4
+Marin Šverko,CRO,Venezia,Serie A,27.0,0,0,1,0,23,90,3
+Mile Svilar,SRB,Roma,Serie A,25.0,0,0,0,1,93,76,3
+Michael Svoboda,AUT,Venezia,Serie A,26.0,0,0,1,0,6,90,3
+Williot Swedberg,SWE,Celta Vigo,La Liga,21.0,1,1,0,0,98,19,0
+Abakar Sylla,CIV,Strasbourg,Ligue 1,22.0,0,0,1,0,16,81,1
+Issiaga Sylla,GUI,Montpellier,Ligue 1,31.0,0,0,1,0,46,60,1
+Mamadou Sylla,SEN,Valladolid,La Liga,30.0,1,1,0,0,91,89,0
+Wojciech Szczęsny,POL,Barcelona,La Liga,34.0,0,0,0,1,85,9,0
+Sammie Szmodics,IRL,Ipswich Town,Premier League,29.0,1,1,0,0,50,40,2
+Dominik Szoboszlai,HUN,Liverpool,Premier League,24.0,0,1,0,0,48,51,2
+Alexander Sørloth,NOR,Atlético Madrid,La Liga,29.0,1,0,0,0,79,6,0
+Musa Al-Taamari,JOR,Rennes,Ligue 1,27.0,1,1,0,0,57,75,1
+Haris Tabakovic,BIH,Hoffenheim,de Bundesliga,30.0,1,1,0,0,11,37,4
+Nicolás Tagliafico,ARG,Lyon,Ligue 1,32.0,0,0,1,0,3,52,1
+Jonathan Tah,GER,Leverkusen,de Bundesliga,29.0,0,0,1,0,40,49,4
+Adrien Tameze,CMR,Torino,Serie A,31.0,0,1,1,0,17,83,3
+Renato Tapia,PER,Leganés,La Liga,29.0,0,1,1,0,83,46,0
+Edmond Tapsoba,BFA,Leverkusen,de Bundesliga,26.0,0,0,1,0,10,49,4
+Florian Tardieu,FRA,Saint-Étienne,Ligue 1,32.0,0,1,0,0,36,77,1
+Mehdi Taremi,IRN,Inter,Serie A,32.0,1,0,0,0,51,39,3
+Matt Targett,ENG,Newcastle Utd,Premier League,29.0,0,0,1,0,31,64,2
+Oussama Targhalline,MAR,Le Havre,Ligue 1,22.0,0,1,0,0,67,44,1
+James Tarkowski,ENG,Everton,Premier League,32.0,0,0,1,0,31,27,2
+César Tárrega,ESP,Valencia,La Liga,23.0,0,0,1,0,33,88,0
+Nuno Tavares,POR,Lazio,Serie A,25.0,0,0,1,0,86,43,3
+Marcus Tavernier,ENG,Bournemouth,Premier League,25.0,1,1,0,0,31,14,2
+Charlie Taylor,ENG,Southampton,Premier League,31.0,0,0,1,0,31,79,2
+Jack Taylor,IRL,Ipswich Town,Premier League,26.0,0,1,0,0,50,40,2
+Loum Tchaouna,FRA,Lazio,Serie A,21.0,1,1,0,0,36,43,3
+Jackson Tchatchoua,CMR,Hellas Verona,Serie A,23.0,0,1,1,0,17,36,3
+Enzo Tchato,CMR,Montpellier,Ligue 1,22.0,0,0,1,0,17,60,1
+Aurélien Tchouaméni,FRA,Real Madrid,La Liga,25.0,0,1,1,0,36,72,0
+Álvaro Tejero,ESP,Espanyol,La Liga,28.0,0,1,1,0,33,26,0
+Martín Tejón,ESP,Valencia,La Liga,20.0,0,1,1,0,33,88,0
+Mathys Tel,FRA,Bayern Munich,de Bundesliga,19.0,1,1,0,0,36,10,4
+Nathan Tella,NGA,Leverkusen,de Bundesliga,25.0,1,1,0,0,77,49,4
+Nahuel Tenaglia,ARG,Alavés,La Liga,29.0,0,0,1,0,3,0,0
+Casper Tengstedt,DEN,Hellas Verona,Serie A,24.0,1,1,0,0,27,36,3
+Marc-André ter Stegen,GER,Barcelona,La Liga,32.0,0,0,0,1,40,9,0
+Filippo Terracciano,ITA,Milan,Serie A,22.0,0,1,1,0,55,58,3
+Pietro Terracciano,ITA,Fiorentina,Serie A,35.0,0,0,0,1,55,28,3
+Ramón Terrats,ESP,Getafe,La Liga,24.0,0,1,0,0,33,32,0
+Martin Terrier,FRA,Leverkusen,de Bundesliga,28.0,1,1,0,0,36,49,4
+Tanner Tessmann,USA,Lyon,Ligue 1,23.0,0,1,0,0,104,52,1
+Kenny Tete,NED,Fulham,Premier League,29.0,0,0,1,0,76,30,2
+Teddy Teuma,MLT,Reims,Ligue 1,31.0,0,1,0,0,71,74,1
+Jordan Teze,NED,Monaco,Ligue 1,25.0,0,0,1,0,76,59,1
+Florian Thauvin,FRA,Udinese,Serie A,32.0,1,1,0,0,36,86,3
+Arthur Theate,BEL,Eint Frankfurt,de Bundesliga,24.0,0,0,1,0,8,24,4
+Norman Theuerkauf,GER,Heidenheim,de Bundesliga,38.0,0,1,0,0,40,35,4
+Thiago,BRA,Brentford,Premier League,23.0,1,0,0,0,12,15,2
+Malick Thiaw,GER,Milan,Serie A,23.0,0,0,1,0,40,58,3
+Denis Thomalla,GER,Heidenheim,de Bundesliga,32.0,0,1,0,0,40,35,4
+Luke Thomas,ENG,Leicester City,Premier League,23.0,0,0,1,0,31,47,2
+Sorba Thomas,WAL,Nantes,Ligue 1,25.0,1,1,0,0,107,62,1
+Adrien Thomasson,FRA,Lens,Ligue 1,31.0,0,1,0,0,36,48,1
+Morten Thorsby,NOR,Genoa,Serie A,28.0,0,1,0,0,79,31,3
+Khéphren Thuram,FRA,Juventus,Serie A,23.0,0,1,0,0,36,41,3
+Marcus Thuram,FRA,Inter,Serie A,27.0,1,0,0,0,36,39,3
+Youri Tielemans,BEL,Aston Villa,Premier League,27.0,0,1,0,0,8,3,2
+Kieran Tierney,SCO,Arsenal,Premier League,27.0,1,0,1,0,90,2,2
+Phillip Tietz,GER,Augsburg,de Bundesliga,27.0,1,0,0,0,40,7,4
+Jurriën Timber,NED,Arsenal,Premier League,23.0,0,0,1,0,76,2,2
+Jean-Clair Todibo,FRA,West Ham,Premier League,25.0,0,0,1,0,36,93,2
+Harry Toffolo,ENG,Nott'ham Forest,Premier League,29.0,0,0,1,0,31,66,2
+Umut Tohumcu,GER,Hoffenheim,de Bundesliga,20.0,0,1,0,0,40,37,4
+Corentin Tolisso,FRA,Lyon,Ligue 1,30.0,0,1,0,0,36,52,1
+John Tolkin,USA,Holstein Kiel,de Bundesliga,22.0,1,0,1,0,104,38,4
+Rafael Tolói,ITA,Atalanta,Serie A,34.0,0,0,1,0,55,4,3
+Tiago Tomás,POR,Wolfsburg,de Bundesliga,22.0,1,1,0,0,86,94,4
+Takehiro Tomiyasu,JPN,Arsenal,Premier League,26.0,0,0,1,0,58,2,2
+Fikayo Tomori,ENG,Milan,Serie A,27.0,0,0,1,0,31,58,3
+Sandro Tonali,ITA,Newcastle Utd,Premier League,24.0,0,1,0,0,55,64,2
+Pablo Torre,ESP,Barcelona,La Liga,21.0,1,1,0,0,33,9,0
+David Torres,ESP,Valladolid,La Liga,22.0,0,0,1,0,33,89,0
+Ferrán Torres,ESP,Barcelona,La Liga,25.0,1,1,0,0,33,9,0
+Pau Torres,ESP,Aston Villa,Premier League,28.0,0,0,1,0,33,3,2
+Lucas Torró,ESP,Osasuna,La Liga,30.0,0,1,0,0,33,67,0
+Lorenzo Tosto,ITA,Empoli,Serie A,19.0,0,0,1,0,55,25,3
+Abdoulaye Touré,GUI,Le Havre,Ligue 1,31.0,0,1,0,0,46,44,1
+Bazoumana Touré,CIV,Hoffenheim,de Bundesliga,19.0,1,1,0,0,16,37,4
+Birama Touré,MLI,Montpellier,Ligue 1,32.0,0,1,1,0,70,60,1
+Ousmane Toure,FRA,Lille,Ligue 1,20.0,0,0,1,0,36,50,1
+Souleymane Touré,FRA,Udinese,Serie A,21.0,0,0,1,0,36,86,3
+Lucas Tousart,FRA,Union Berlin,de Bundesliga,27.0,0,1,0,0,36,87,4
+Conor Townsend,ENG,Ipswich Town,Premier League,32.0,0,0,1,0,31,40,2
+Adama Traoré,ESP,Fulham,Premier League,29.0,1,1,0,0,33,30,2
+Hamari Traoré,MLI,Real Sociedad,La Liga,33.0,0,0,1,0,70,73,0
+Omar Traoré,GER,Heidenheim,de Bundesliga,27.0,0,0,1,0,40,35,4
+Kevin Trapp,GER,Eint Frankfurt,de Bundesliga,34.0,0,0,0,1,40,24,4
+Mark Travers,IRL,Bournemouth,Premier League,25.0,0,0,0,1,50,14,2
+Óscar Trejo,ARG,Rayo Vallecano,La Liga,36.0,1,1,0,0,3,71,0
+Philipp Treu,GER,St. Pauli,de Bundesliga,24.0,0,1,1,0,40,80,4
+Ryan Trevitt,ENG,Brentford,Premier League,21.0,0,1,0,0,31,15,2
+Christopher Trimmel,AUT,Union Berlin,de Bundesliga,38.0,0,1,1,0,6,87,4
+Kieran Trippier,ENG,Newcastle Utd,Premier League,34.0,0,0,1,0,31,64,2
+Leandro Trossard,BEL,Arsenal,Premier League,30.0,1,0,0,0,8,2,2
+Adrien Truffert,FRA,Rennes,Ligue 1,23.0,0,1,1,0,36,75,1
+Kostas Tsimikas,GRE,Liverpool,Premier League,28.0,0,0,1,0,44,51,2
+Viktor Tsyhankov,UKR,Girona,La Liga,27.0,1,1,0,0,102,33,0
+Axel Tuanzebe,COD,Ipswich Town,Premier League,27.0,0,0,1,0,18,40,2
+Stefano Turati,ITA,Monza,Serie A,23.0,0,0,0,1,55,61,3
+Beñat Turrientes,ESP,Real Sociedad,La Liga,23.0,0,1,0,0,33,73,0
+Tuta,BRA,Eint Frankfurt,de Bundesliga,25.0,0,1,1,0,12,24,4
+Chrisantus Uche,NGA,Getafe,La Liga,21.0,1,1,0,0,77,32,0
+Destiny Udogie,ITA,Tottenham,Premier League,22.0,0,0,1,0,55,84,2
+Manuel Ugarte Ribeiro,URU,Manchester Utd,Premier League,23.0,0,1,0,0,103,56,2
+Lesley Ugochukwu,FRA,Southampton,Premier League,20.0,0,1,0,0,36,79,2
+Lukas Ullrich,GER,Gladbach,de Bundesliga,20.0,0,0,1,0,40,34,4
+Sven Ulreich,GER,Bayern Munich,de Bundesliga,36.0,0,0,0,1,40,10,4
+Enes Ünal,TUR,Bournemouth,Premier League,27.0,1,1,0,0,101,14,2
+Deniz Undav,GER,Stuttgart,de Bundesliga,28.0,1,1,0,0,40,82,4
+Naci Ünüvar,NED,Espanyol,La Liga,21.0,0,1,1,0,76,26,0
+Dayot Upamecano,FRA,Bayern Munich,de Bundesliga,26.0,0,0,1,0,36,10,4
+Kacper Urbanski,POL,Monza,Serie A,20.0,0,1,0,0,85,61,3
+Jonas Urbig,GER,Bayern Munich,de Bundesliga,21.0,0,0,0,1,40,10,4
+Can Uzun,TUR,Eint Frankfurt,de Bundesliga,19.0,1,1,0,0,101,24,4
+Josha Vagnoman,GER,Stuttgart,de Bundesliga,24.0,0,1,1,0,40,82,4
+Lautaro Valenti,ARG,Parma,Serie A,26.0,0,0,1,0,3,69,3
+Óscar Valentín,ESP,Rayo Vallecano,La Liga,30.0,0,1,0,0,33,71,0
+Nicolás Valentini,ARG,Hellas Verona,Serie A,23.0,0,0,1,0,3,36,3
+Germán Valera,ESP,Valencia,La Liga,22.0,0,1,0,0,33,88,0
+Emanuele Valeri,ITA,Parma,Serie A,26.0,0,0,1,0,55,69,3
+Martin Valjent,SVK,Mallorca,La Liga,29.0,0,0,1,0,96,54,0
+Álex Valle,ESP,Como,Serie A,20.0,0,0,1,0,33,21,3
+Jesús Vallejo,ESP,Real Madrid,La Liga,28.0,0,0,1,0,33,72,0
+Mattia Valoti,ITA,Monza,Serie A,31.0,0,1,0,0,55,61,3
+Federico Valverde,URU,Real Madrid,La Liga,26.0,0,1,1,0,103,72,0
+Ignace Van Der Brempt,BEL,Como,Serie A,22.0,0,0,1,0,8,21,3
+Siebe Van Der Heyden,BEL,St. Pauli,de Bundesliga,26.0,0,1,1,0,8,80,4
+Virgil van Dijk,NED,Liverpool,Premier League,33.0,0,0,1,0,76,51,2
+Vanderson,BRA,Monaco,Ligue 1,23.0,0,0,1,0,12,59,1
+Maarten Vandevoordt,BEL,RB Leipzig,de Bundesliga,23.0,0,0,0,1,8,70,4
+Jamie Vardy,ENG,Leicester City,Premier League,38.0,1,0,0,0,31,47,2
+Ruben Vargas,SUI,Augsburg,de Bundesliga,26.0,1,1,0,0,94,7,4
+Nikola Vasilj,BIH,St. Pauli,de Bundesliga,29.0,0,0,0,1,11,80,4
+Devis Vásquez,COL,Empoli,Serie A,26.0,0,0,0,1,19,25,3
+Johan Vásquez,MEX,Genoa,Serie A,26.0,0,0,1,0,68,31,3
+Denis Vavro,SVK,Wolfsburg,de Bundesliga,28.0,0,0,1,0,96,94,4
+José Luis García Vayá,ESP,Valencia,La Liga,26.0,0,1,0,0,33,88,0
+Robinio Vaz,FRA,Marseille,Ligue 1,18.0,1,0,0,0,36,57,1
+Jesus Vazquez,ESP,Valencia,La Liga,22.0,0,0,1,0,33,88,0
+Lucas Vázquez,ESP,Real Madrid,La Liga,33.0,0,0,1,0,33,72,0
+Matías Vecino,URU,Lazio,Serie A,33.0,0,1,0,0,103,43,3
+Danilo Veiga,POR,Lecce,Serie A,22.0,1,0,1,0,86,45,3
+Renato Veiga,POR,Juventus,Serie A,21.0,0,0,1,0,86,41,3
+Alejo Véliz,ARG,Espanyol,La Liga,21.0,1,0,0,0,3,26,0
+Miloš Veljković,SRB,Werder Bremen,de Bundesliga,29.0,0,0,1,0,93,92,4
+Joël Veltman,NED,Brighton,Premier League,33.0,0,0,1,0,76,17,2
+Micky van de Ven,NED,Tottenham,Premier League,23.0,0,0,1,0,76,84,2
+Lorenzo Venturino,ITA,Genoa,Serie A,18.0,1,1,0,0,55,31,3
+Nikolas Veratschnig,AUT,Mainz 05,de Bundesliga,22.0,1,0,1,0,6,53,4
+Bart Verbruggen,NED,Brighton,Premier League,22.0,0,0,0,1,76,17,2
+Simone Verdi,ITA,Como,Serie A,32.0,1,1,0,0,55,21,3
+Jordan Veretout,FRA,Lyon,Ligue 1,32.0,0,1,0,0,36,52,1
+Arthur Vermeeren,BEL,RB Leipzig,de Bundesliga,20.0,0,1,0,0,8,70,4
+Yorbe Vertessen,BEL,Union Berlin,de Bundesliga,24.0,1,1,0,0,8,87,4
+Mikel Vesga,ESP,Athletic Club,La Liga,31.0,0,1,0,0,33,5,0
+Jannik Vestergaard,DEN,Leicester City,Premier League,32.0,0,0,1,0,27,47,2
+Ben Viadere,FRA,Auxerre,Ligue 1,19.0,0,1,0,0,36,8,1
+Guglielmo Vicario,ITA,Tottenham,Premier League,28.0,0,0,0,1,55,84,2
+Carlos Vicente,ESP,Alavés,La Liga,25.0,1,1,0,0,33,0,0
+Pau Victor Delgado,ESP,Barcelona,La Liga,23.0,1,0,0,0,33,9,0
+Nacho Vidal,ESP,Osasuna,La Liga,30.0,0,0,1,0,33,67,0
+Gabriel Vidovic,CRO,Mainz 05,de Bundesliga,21.0,0,1,0,0,23,53,4
+Fran Vieites,ESP,Betis,La Liga,25.0,0,0,0,1,33,11,0
+Samuele Vignato,ITA,Monza,Serie A,21.0,0,1,0,0,55,61,3
+Asier Villalibre,ESP,Alavés,La Liga,27.0,1,0,0,0,33,0,0
+Iván Villar,ESP,Celta Vigo,La Liga,27.0,0,0,0,1,33,19,0
+Carlos Vinícius,BRA,Fulham,Premier League,29.0,0,1,0,0,12,30,2
+Nicolas Viola,ITA,Cagliari,Serie A,35.0,1,1,0,0,55,18,3
+Viti,ESP,Las Palmas,La Liga,27.0,0,0,1,0,33,42,0
+Mattia Viti,ITA,Empoli,Serie A,23.0,0,0,1,0,55,25,3
+Vitinha,POR,Paris S-G,Ligue 1,25.0,0,1,0,0,86,68,1
+Daniel Vivian,ESP,Athletic Club,La Liga,25.0,0,0,1,0,33,5,0
+Dušan Vlahović,SRB,Juventus,Serie A,25.0,1,0,0,0,93,41,3
+Vanja Vlahović,SRB,Atalanta,Serie A,20.0,1,1,0,0,93,4,3
+Nikola Vlašić,CRO,Torino,Serie A,27.0,1,1,0,0,23,83,3
+Alessandro Vogliacco,ITA,Parma,Serie A,26.0,0,0,1,0,55,69,3
+Kevin Vogt,GER,Union Berlin,de Bundesliga,33.0,0,0,1,0,40,87,4
+Mërgim Vojvoda,KVX,Como,Serie A,30.0,0,0,1,0,62,21,3
+Kevin Volland,GER,Union Berlin,de Bundesliga,32.0,1,1,0,0,40,87,4
+Aster Vranckx,BEL,Wolfsburg,de Bundesliga,22.0,0,1,0,0,8,94,4
+Stefan de Vrij,NED,Inter,Serie A,33.0,0,0,1,0,76,39,3
+Ibrahima Wadji,SEN,Saint-Étienne,Ligue 1,29.0,1,1,0,0,91,77,1
+Robert Wagner,GER,St. Pauli,de Bundesliga,21.0,0,1,0,0,40,80,4
+Elye Wahi,FRA,Eint Frankfurt,de Bundesliga,22.0,1,1,0,0,36,24,4
+Hauke Wahl,GER,St. Pauli,de Bundesliga,30.0,0,0,1,0,40,80,4
+Kyle Walker,ENG,Milan,Serie A,34.0,0,0,1,0,31,58,3
+Kyle Walker-Peters,ENG,Southampton,Premier League,27.0,0,0,1,0,31,79,2
+Christian Walton,ENG,Ipswich Town,Premier League,29.0,0,0,0,1,31,40,2
+Sebastian Walukiewicz,POL,Empoli,Serie A,24.0,0,0,1,0,85,25,3
+Aaron Wan-Bissaka,ENG,West Ham,Premier League,27.0,0,0,1,0,31,93,2
+Paul Wanner,GER,Heidenheim,de Bundesliga,19.0,1,1,0,0,40,35,4
+Danny Ward,WAL,Leicester City,Premier League,31.0,0,0,0,1,107,47,2
+James Ward-Prowse,ENG,Nott'ham Forest,Premier League,30.0,0,1,0,0,31,66,2
+Kjell-Arik Wätjen,GER,Dortmund,de Bundesliga,19.0,0,1,0,0,40,23,4
+Ollie Watkins,ENG,Aston Villa,Premier League,29.0,1,0,0,0,31,3,2
+Timothy Weah,USA,Juventus,Serie A,25.0,1,0,1,0,104,41,3
+Adam Webster,ENG,Brighton,Premier League,30.0,0,0,1,0,31,17,2
+Julian Weigl,GER,Gladbach,de Bundesliga,29.0,0,1,0,0,40,34,4
+Timon Weiner,GER,Holstein Kiel,de Bundesliga,26.0,0,0,0,1,40,38,4
+Nelson Weiper,GER,Mainz 05,de Bundesliga,19.0,1,0,0,0,40,53,4
+Mitchell Weiser,GER,Werder Bremen,de Bundesliga,30.0,0,1,1,0,40,92,4
+Noah Weißhaupt,GER,Freiburg,de Bundesliga,23.0,1,0,0,0,40,29,4
+Danny Welbeck,ENG,Brighton,Premier League,34.0,1,0,0,0,31,17,2
+Welington,BRA,Southampton,Premier League,24.0,0,1,1,0,12,79,2
+Timo Werner,GER,Tottenham,Premier League,29.0,1,1,0,0,40,84,2
+Adam Wharton,ENG,Crystal Palace,Premier League,20.0,0,1,0,0,31,22,2
+Ben White,ENG,Arsenal,Premier League,27.0,0,0,1,0,31,2,2
+Silvan Widmer,SUI,Mainz 05,de Bundesliga,32.0,0,0,1,0,94,53,4
+Mats Wieffer,NED,Brighton,Premier League,25.0,0,1,0,0,76,17,2
+Mateusz Wieteska,POL,Cagliari,Serie A,28.0,0,0,1,0,85,18,3
+Caleb Wiley,USA,Strasbourg,Ligue 1,20.0,0,1,1,0,104,81,1
+Iñaki Williams,GHA,Athletic Club,La Liga,30.0,1,1,0,0,41,5,0
+Neco Williams,WAL,Nott'ham Forest,Premier League,23.0,0,0,1,0,107,66,2
+Nico Williams,ESP,Athletic Club,La Liga,22.0,1,0,0,0,33,5,0
+Willian,BRA,Fulham,Premier League,36.0,0,1,0,0,12,30,2
+Joe Willock,ENG,Newcastle Utd,Premier League,25.0,1,1,0,0,31,64,2
+Callum Wilson,ENG,Newcastle Utd,Premier League,33.0,1,1,0,0,31,64,2
+Harry Wilson,WAL,Fulham,Premier League,27.0,1,1,0,0,107,30,2
+Patrick Wimmer,AUT,Wolfsburg,de Bundesliga,23.0,1,1,0,0,6,94,4
+Jonas Wind,DEN,Wolfsburg,de Bundesliga,26.0,1,1,0,0,27,94,4
+Harry Winks,ENG,Leicester City,Premier League,29.0,0,1,0,0,31,47,2
+Ben Winterburn,ENG,Bournemouth,Premier League,20.0,0,1,0,0,31,14,2
+Florian Wirtz,GER,Leverkusen,de Bundesliga,21.0,1,1,0,0,40,49,4
+Yoane Wissa,COD,Brentford,Premier League,28.0,1,0,0,0,18,15,2
+Dani de Wit,NED,Bochum,de Bundesliga,27.0,1,1,0,0,76,12,4
+Axel Witsel,BEL,Atlético Madrid,La Liga,36.0,0,0,1,0,8,6,0
+Maximilian Wittek,GER,Bochum,de Bundesliga,29.0,0,0,1,0,40,12,4
+Marius Wolf,GER,Augsburg,de Bundesliga,29.0,0,0,1,0,40,7,4
+Nick Woltemade,GER,Stuttgart,de Bundesliga,23.0,1,1,0,0,40,82,4
+Jeong Woo-yeong,KOR,Union Berlin,de Bundesliga,25.0,1,1,0,0,60,87,4
+Chris Wood,NZL,Nott'ham Forest,Premier League,33.0,1,0,0,0,80,66,2
+Nathan Wood-Gordon,ENG,Southampton,Premier League,22.0,0,0,1,0,31,79,2
+Christopher Wooh,CMR,Rennes,Ligue 1,23.0,0,0,1,0,17,75,1
+Luke Woolfenden,ENG,Ipswich Town,Premier League,26.0,0,0,1,0,31,40,2
+Granit Xhaka,SUI,Leverkusen,de Bundesliga,32.0,0,1,0,0,94,49,4
+Lamine Yamal,ESP,Barcelona,La Liga,17.0,1,0,0,0,33,9,0
+Daniel Yáñez,ESP,Real Madrid,La Liga,17.0,1,0,0,0,33,72,0
+Erencan Yardimci,TUR,Hoffenheim,de Bundesliga,23.0,1,1,0,0,101,37,4
+Yehor Yarmoliuk,UKR,Brentford,Premier League,21.0,0,1,0,0,102,15,2
+Ryan Yates,ENG,Nott'ham Forest,Premier League,27.0,0,1,0,0,31,66,2
+John Yeboah,ECU,Venezia,Serie A,24.0,1,1,0,0,29,90,3
+Bertuğ Yıldırım,TUR,Getafe,La Liga,22.0,1,0,0,0,101,32,0
+Kenan Yıldız,TUR,Juventus,Serie A,19.0,1,1,0,0,101,41,3
+Leny Yoro,FRA,Manchester Utd,Premier League,19.0,0,0,1,0,36,56,2
+Ashley Young,ENG,Everton,Premier League,39.0,1,0,1,0,31,27,2
+Etienne Youte Kinkoue,FRA,Le Havre,Ligue 1,23.0,0,0,1,0,36,44,1
+Illia Zabarnyi,UKR,Bournemouth,Premier League,22.0,0,0,1,0,102,14,2
+Eloge Zabi,CIV,Reims,Ligue 1,18.0,0,1,1,0,16,74,1
+Mattia Zaccagni,ITA,Lazio,Serie A,29.0,1,0,0,0,55,43,3
+Dan-Axel Zagadou,FRA,Stuttgart,de Bundesliga,25.0,0,1,1,0,36,82,4
+Yoram Zague,FRA,Paris S-G,Ligue 1,18.0,0,0,1,0,36,68,1
+Wilfried Zaha,CIV,Lyon,Ligue 1,32.0,1,0,0,0,16,52,1
+Warren Zaïre-Emery,FRA,Paris S-G,Ligue 1,19.0,0,1,1,0,36,68,1
+Miha Zajc,SVN,Toulouse,Ligue 1,30.0,0,1,0,0,97,85,1
+Denis Zakaria,SUI,Monaco,Ligue 1,28.0,0,1,0,0,94,59,1
+Arsen Zakharyan,RUS,Real Sociedad,La Liga,21.0,1,1,0,0,89,73,0
+Nicola Zalewski,POL,Inter,Serie A,23.0,0,0,1,0,85,39,3
+Andre-Frank Zambo Anguissa,CMR,Napoli,Serie A,29.0,0,1,0,0,17,63,3
+Francesco Zampano,ITA,Venezia,Serie A,31.0,0,0,1,0,55,90,3
+Nicolò Zaniolo,ITA,Atalanta,Serie A,25.0,1,1,0,0,55,4,3
+Alessandro Zanoli,ITA,Genoa,Serie A,24.0,1,0,1,0,55,31,3
+Duván Zapata,COL,Torino,Serie A,33.0,1,0,0,0,19,83,3
+Gabriele Zappa,ITA,Cagliari,Serie A,25.0,0,0,1,0,55,18,3
+Davide Zappacosta,ITA,Atalanta,Serie A,32.0,0,0,1,0,55,4,3
+Bryan Zaragoza,ESP,Osasuna,La Liga,23.0,1,1,0,0,33,67,0
+Anass Zaroury,MAR,Lens,Ligue 1,24.0,1,1,0,0,67,48,1
+Oier Zarraga,ESP,Udinese,Serie A,26.0,0,1,0,0,33,86,3
+David Zec,SVN,Holstein Kiel,de Bundesliga,25.0,0,0,1,0,97,38,4
+Jordan Zemura,ZIM,Udinese,Serie A,25.0,0,0,1,0,109,86,3
+Robin Zentner,GER,Mainz 05,de Bundesliga,30.0,0,0,0,1,40,53,4
+Alessio Zerbin,ITA,Napoli,Serie A,26.0,1,0,1,0,55,63,3
+Kevin Zeroli,ITA,Milan,Serie A,20.0,0,1,0,0,55,58,3
+Cedric Zesiger,SUI,Wolfsburg,de Bundesliga,26.0,0,0,1,0,94,94,4
+Michael Zetterer,GER,Werder Bremen,de Bundesliga,29.0,0,0,0,1,40,92,4
+Nathan Zeze,FRA,Nantes,Ligue 1,19.0,0,0,1,0,36,62,1
+Edon Zhegrova,KVX,Lille,Ligue 1,25.0,1,1,0,0,62,50,1
+Piotr Zieliński,POL,Inter,Serie A,30.0,0,1,0,0,85,39,3
+Oleksandr Zinchenko,UKR,Arsenal,Premier League,28.0,0,1,1,0,102,2,2
+Joshua Zirkzee,NED,Manchester Utd,Premier League,23.0,1,1,0,0,76,56,2
+Budu Zivzivadze,GEO,Heidenheim,de Bundesliga,31.0,1,0,0,0,39,35,4
+Luc Zogbé,CIV,Brest,Ligue 1,19.0,0,0,1,0,16,16,1
+Nadir Zortea,ITA,Cagliari,Serie A,25.0,1,1,0,0,55,18,3
+Aristide Zossou,CIV,Auxerre,Ligue 1,19.0,0,1,0,0,16,8,1
+Yanis Zouaoui,ALG,Le Havre,Ligue 1,30.0,1,0,1,0,1,44,1
+Igor Zubeldia,ESP,Real Sociedad,La Liga,27.0,0,0,1,0,33,73,0
+Martín Zubimendi,ESP,Real Sociedad,La Liga,26.0,0,1,0,0,33,73,0
+Edhy Zuliani,ITA,Toulouse,Ligue 1,20.0,0,0,1,0,55,85,1
+Szymon Żurkowski,POL,Empoli,Serie A,27.0,0,1,0,0,85,25,3
+Martin Ødegaard,NOR,Arsenal,Premier League,26.0,0,1,0,0,79,2,2
+Milan Đurić,BIH,Parma,Serie A,34.0,1,0,0,0,11,69,3
