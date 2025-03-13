@@ -5,53 +5,93 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FutGuess</title>
     <link rel="stylesheet" href="/static/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="/static/script.js"></script>
 </head>
 <body>
-
-    <div class="score-table-container">
-        <h3>Similarity Score Breakdown</h3>
-        <table class="score-table">
-            <tr><th>Condition</th><th>Points</th></tr>
-            <tr><td>Same Club & Same Nation</td><td>+0.80</td></tr>
-            <tr><td>Same Nation & Same League</td><td>+0.65</td></tr>
-            <tr><td>Same Club & Diff Nation</td><td>+0.55</td></tr>
-            <tr><td>Same Nation & Diff League</td><td>+0.50</td></tr>
-            <tr><td>Same League Only</td><td>+0.30</td></tr>
-            <tr><td>Nothing Same</td><td>+0.15</td></tr>
-            <tr><td>Position Similarity</td><td>0 - 0.25</td></tr>
-        </table>
-    </div>
-    
     <div class="container">
-        <div class="card">
-            <h1>Fut<span class="accent">Guess</span> ⚽</h1>
-
-            <button id="start-game">Start Game</button>
-            <button id="reveal-button" class="reveal-btn" style="display:none;">Reveal Player</button>
-
-            <p id="message">Click "Start Game" to begin.</p>
-
-            <div class="input-group">
-                <input type="text" id="player-input" placeholder="Guess the player">
-                <button id="check-button">✔</button>
-            </div>
-
-            <div class="progress-container" id="progress-container">
-                <div class="similarity-bar" id="similarity-bar"></div>
-            </div>
-
-            <p id="attempts" style="display: none;">Attempts: 0</p>
+        <div class="game-header">
+            <h1 class="logo">Fut<span class="accent">Guess</span> <i class="fas fa-futbol"></i></h1>
+            <p class="tagline">Test your football knowledge. Guess the player!</p>
         </div>
-
-        <div class="card">
-            <div class="history-header">
-                <h2>History</h2>
-                <button id="toggle-history" class="toggle-button">🔽</button>
+        
+        <div class="main-content">
+            <div class="score-table-container">
+                <h3 class="score-table-title"><i class="fas fa-chart-bar"></i> Scoring System</h3>
+                <table class="score-table">
+                    <thead>
+                        <tr>
+                            <th>Match Condition</th>
+                            <th>Points</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="highlight-row">
+                            <td>Position Similarity</td>
+                            <td class="score-value primary-value">0 - 0.25</td>
+                        </tr>
+                        <tr>
+                            <td>Same Club & Same Nation</td>
+                            <td class="score-value">+0.80</td>
+                        </tr>
+                        <tr>
+                            <td>Same Nation & Same League</td>
+                            <td class="score-value">+0.65</td>
+                        </tr>
+                        <tr>
+                            <td>Same Club & Diff Nation</td>
+                            <td class="score-value">+0.55</td>
+                        </tr>
+                        <tr>
+                            <td>Same Nation & Diff League</td>
+                            <td class="score-value">+0.50</td>
+                        </tr>
+                        <tr>
+                            <td>Same League Only</td>
+                            <td class="score-value">+0.30</td>
+                        </tr>
+                        <tr>
+                            <td>Nothing Same</td>
+                            <td class="score-value">+0.15</td>
+                        </tr>
+                    </tbody>
+                </table>
             </div>
-            <div class="history-list" id="history-container">
-                <p class="no-history">No comparisons yet</p>
+            
+            <div class="card">
+                <h2 class="card-title"><i class="fas fa-gamepad"></i> Game Panel</h2>
+                
+                <button id="start-game" class="btn"><i class="fas fa-play"></i> Start Game</button>
+                <button id="reveal-button" class="btn btn-danger" style="display:none;"><i class="fas fa-eye"></i> Reveal Player</button>
+                
+                <div id="message" class="message">Click "Start Game" to begin your football guessing challenge!</div>
+                <p id="player-metadata" class="metadata"></p>
+                
+                <div class="input-group">
+                    <input type="text" id="player-input" class="input-field" placeholder="Enter player name...">
+                    <button id="check-button" class="check-btn"><i class="fas fa-check"></i></button>
+                </div>
+                
+                <div class="progress-container" id="progress-container" style="display: none;">
+                    <div class="similarity-bar" id="similarity-bar"></div>
+                </div>
+                
+                <p id="attempts" class="attempts" style="display: none;">Attempts: 0</p>
             </div>
+            
+            <div class="card">
+                <div class="history-header">
+                    <h2 class="card-title"><i class="fas fa-history"></i> Guess History</h2>
+                    <button id="toggle-history" class="toggle-button"><i class="fas fa-chevron-down"></i></button>
+                </div>
+                <div class="history-list" id="history-container">
+                    <p class="no-history">Your guesses will appear here</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>FutGuess &copy; 2025 | Test your football knowledge</p>
         </div>
     </div>
 </body>
