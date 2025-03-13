@@ -63,7 +63,7 @@ async function checkGuess() {
     }
 
     try {
-        const response = await fetch(`http://127.0.0.1:8000/similarity/?player1=${encodeURIComponent(playerGuess)}&player2=${encodeURIComponent(secretPlayer)}`);
+        const response = await fetch(`${API_BASE_URL}/similarity/?player1=${encodeURIComponent(playerGuess)}&player2=${encodeURIComponent(secretPlayer)}`);
         const data = await response.json();
         attempts++;
 
