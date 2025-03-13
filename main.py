@@ -1,4 +1,7 @@
 from fastapi import FastAPI
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
+import os
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import LabelEncoder
@@ -6,7 +9,6 @@ from sklearn.metrics.pairwise import cosine_similarity
 from fuzzywuzzy import process
 from fastapi.middleware.cors import CORSMiddleware
 import random
-import os
 
 app = FastAPI()
 
@@ -19,10 +21,13 @@ app.add_middleware(
     allow_headers=["*"],  
 )
 
-# Root endpoint to confirm API is running
+# Serve static files (Frontend)
+app.mount("/static", StaticFiles(directory="static"), name="static")
+
+# Serve index.html when visiting "/"
 @app.get("/")
-def home():
-    return {"message": "Welcome to FutyGuess API! The app is running."}
+def serve_frontend():
+    return FileResponse("static/index.html")
 
 # Load dataset
 df_filtered = pd.read_csv("filtered_players.csv")
